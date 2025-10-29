@@ -1,0 +1,420 @@
+Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024 | 21
+Violência doméstica X direito à convivência familiar
+Domestic violence x right to family life
+Beatrice Marinho Paulo*1
+Mônica Jardim Rocha**2
+Resumo
+Tratar do direito à convivência familiar de uma criança cuja família vivencia 
+situações de violência doméstica é algo muito mais complexo do que pretendem 
+muitos legisladores e operadores do Direito. Esse é um tema delicado, que não permite 
+uma resposta única, tendo em vista que muitos fatores precisam ser considerados, 
+ao buscarmos o Melhor Interesse da Criança. Este artigo pretende iniciar a discussão 
+sobre estes fatores, descortinando essa complexidade.
+Abstract
+Dealing with the right to family life of a child whose family experiences situations 
+of domestic violence is much more complex than many legislators and legal practitioners 
+intend. This is a delicate topic, which does not allow for a single answer, given that many 
+factors need to be considered when seeking the Child’s Best Interest. This article intends 
+to start the discussion about these factors, revealing this complexity.
+*  Doutora e Mestre em Psicologia Clínica pela PUC-Rio (2006 e 2011). Mestre em Direito Civil pela UGF (2006). 
+Especialista em Direito da Criança e do Adolescente pela UERJ. Especialista em Psicologia Jurídica, pela 
+Universidade Estácio de Sá. Graduada em Direito pela UFRJ e em Psicologia pela UGF. Psicóloga do Núcleo 
+de Apoio Técnico Multidisciplinar do Ministério Público do Rio de Janeiro (NATEM / MP-RJ). Coordenadora 
+do Curso de Pós-graduação em crianças, adolescentes e famílias do IERBB / MP-RJ. Professora de Psicologia 
+Jurídica no Instituto de Educação Roberto Bernardes Barroso (IERBB-MP/RJ). Fez o curso de extensão 
+“Trabalho Social com Famílias”, promovido pela Terra dos Homens. Foi Docente de Psicologia Aplicada ao 
+Direito, na Universidade Estácio de Sá, e de Direito de Família e de Sucessões na UniverCidade. É palestrante, 
+congressista, autora e organizadora do livro “Psicologia na Prática Jurídica: a Criança em Foco”, publicado 
+pela Editora Saraiva, e do livro “Em defesa dos laços de afeto: desmistificando a alienação parental”, da Ed. 
+Mundo Contemporâneo. Coautora do capítulo “A perícia psicológica e o Ministério Público Estadual” do 
+livro “A perícia psicológica no Brasil”, de Andreia Soares Calçada e Marisa de Menezes Marques; autora do 
+livro infantil “Nossa História”, publicada pela Editora Metanoia. Associada ao IBDFAM, à ABRAFH e à ABPJ.
+**  Especialista em Dependência Química e outros Transtornos Compulsivos pela Universidade de Vassouras 
+(2009). Graduada em Psicologia pela Universidade de Vassouras. Psicóloga do CRRAI de Barra do Piraí, do 
+Ministério Público do Rio de Janeiro. Supervisora do Projeto Pais em Paz, coordenado pelo Centro de Apoio 
+Operacional às Promotorias de Família e de Pessoas com Deficiência. Já ministrou aulas sobre trabalho da 
+Equipe Técnica do Ministério Público na Pós-Graduação em Crianças, Adolescentes e Famílias, do IERBB/
+MP-RJ (que hoje cursa como especializanda) e sobre Psicologia Jurídica na Universidade de Vassouras. 
+Autora do capítulo “Alienação Parental: a mais grave forma de abuso emocional”, do livro “Psicologia 
+na Prática Jurídica: a Criança em Foco”, publicado pela Editora Saraiva. Coautora do capítulo “A perícia 
+psicológica e o Ministério Público Estadual” do livro “A perícia psicológica no Brasil”, de Andreia Soares 
+Calçada e Marisa de Menezes Marques.
+
+22 | Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024
+Beatrice Marinho Paulo
+Mônica Jardim Rocha
+Palavras-chave: Violência Doméstica. Direito à Convivência Familiar. Melhor 
+Interesse da Criança.
+Keywords: Domestic Violence. Right to Family Life. Best Interest of the Child.
+Nos últimos tempos, tornou-se muito frequente o debate sobre o Direito do 
+Autor de Violência Doméstica à Convivência com os filhos, culminando na promulgação 
+da Lei 14.713, em 30 de outubro de 2023. Tal lei altera o Código Civil e o Código 
+de Processo Civil, colocando o risco de violência doméstica como uma das causas 
+impeditivas do exercício da Guarda Compartilhada e impondo ao juiz o dever de 
+indagar previamente ao Ministério Público e às partes sobre situações de violência 
+doméstica ou familiar envolvendo o casal ou os filhos.
+Acreditamos que esta Lei, como todas as Leis, não é boa nem ruim em si, pois 
+elas sempre dependem da forma como são interpretadas e aplicadas. Entretanto, 
+temos alguns temores que já nos acompanham antes de sua existência, sempre que 
+ouvíamos um lado ou o outro do debate se manifestando sobre o assunto. Temos 
+sempre a sensação de que desejam reduzir toda uma gama de situações complexas 
+a uma história única, que demanda um tratamento único. Seja um lado, seja o outro, 
+apontam sempre uma mesma solução para todos os casos, como se apenas um 
+determinado cenário fosse possível, quando a realidade nos mostra diariamente 
+que não é assim.
+Em primeiro lugar, se pararmos para analisar alguns casos de violência 
+doméstica, percebemos que parte deles conta com uma pessoa de natureza 
+violenta. Nestes casos, a questão é intrapsíquica: o autor da violência é uma pessoa 
+essencialmente agressiva, e esta sua agressividade se mostra não apenas na relação 
+com sua esposa / companheira, mas em diversas outras oportunidades. Ele tem relatos 
+de agressividade em sua família de origem, com seus amigos, em seu trabalho, na 
+rua, e, obviamente, com seus filhos. Nestes casos, a criança realmente ficará em risco, 
+caso tenha convivência com o pai sem ninguém para acompanhar ou supervisionar 
+esses contatos.
+Em outros casos, entretanto, não encontramos uma pessoa essencialmente 
+agressiva. Não há relatos de violência habitualmente praticada por ela fora daquela 
+relação. Em alguns casos não há relato de violência reiterada sequer dentro do 
+relacionamento. A narrativa é de apenas um episódio isolado no qual um perdeu a 
+cabeça e praticou o ato agressivo. Nos casos em que a violência contra o cônjuge é 
+habitual, sendo a agressão a linguagem utilizada naquela relação, é preciso ter em vista 
+que a questão aí é interrelacional: há um padrão disfuncional naquele relacionamento, 
+que se desenvolveu dessa forma pelas razões mais diversas, que dizem respeito 
+a peculiaridades e idiossincrasias de cada um. Pode ter a ver com a ideia que eles 
+tenham do que é o amor e de como é ser amado, por exemplo. Uma hipótese dessas 
+é a crença de que o amor verdadeiro é marcado pelos ciúmes e que ser segurada 
+01
+
+Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024 | 23
+Violência doméstica X direito à convivência familiar
+pelo braço com força ou ter os cabelos puxados são provas de amor. Tal concepção 
+favorece o uso da violência na relação.
+Em alguns desses casos, é preciso lembrar, a violência é praticada por ambos os 
+parceiros. De forma geral, no entanto, enquanto os homens utilizam prioritariamente 
+a violência física, deixando marcas facilmente constatáveis em um exame de corpo 
+de delito, as mulheres costumam lançar mão mais frequentemente da violência 
+moral e psicológica, que não deixa marcas visíveis. Um exemplo desses é um caso 
+atendido há alguns anos: o marido estava desempregado há meses, totalmente 
+desanimado pela busca infrutífera por uma nova colocação e com a autoestima muito 
+prejudicada pelo fato de não estar conseguindo ser o provedor para que foi criado 
+e que todos esperavam que ele fosse. Aos olhos da mulher, que estava sustentando 
+a casa com seu salário como secretária, ele também estava desqualificado como 
+homem, por não ser capaz de suportar os gastos da família. Ela vivia o comparando 
+com o seu chefe, que era muito bem-sucedido, o que o fazia se sentir muito humilhado, 
+com sentimento de menos valia. Ela falava tanto do chefe, e de forma sempre tão 
+elogiosa, que criou no marido suspeitas de que eles estivessem tendo uma relação 
+extraconjugal (o que nem acontecia de fato). Certo dia, o marido estava voltando 
+para casa depois de ter participado de diversas entrevistas e processos de seleção em 
+busca de um emprego, sem ter obtido sucesso em suas tentativas. Ele parou em um 
+bar onde encontrou amigos que lhe ofereceram bebidas alcoólicas, as quais tomou, 
+desanimado para voltar para casa. Quando enfim retornou ao lar, já sob a influência 
+do álcool, encontrou a esposa que, assim que o viu, fez um comentário desastroso 
+sobre ele, comparando-o novamente ao seu chefe. Ao ouvir aquilo, completamente 
+irado e fora de si, o marido a agrediu fisicamente e a deixou cheia de hematomas e 
+equimoses. Ela foi à Delegacia, fez o registro da ocorrência, submeteu-se ao exame 
+de corpo de delito, e ficou constatada a violência doméstica praticada pelo marido.
+De forma alguma negamos essa violência. E qualquer violência é sempre 
+inaceitável, salvo se for em legítima defesa. O que queremos dizer é que, neste caso, 
+a agressão física praticada pelo marido não foi a única, nem a primeira forma de 
+violência que ocorreu nesta relação. Nesta hipótese, é inegável a ocorrência da 
+violência psicológica praticada pela esposa também. Uma violência praticada de 
+forma reiterada, que não deixou marcas constatáveis no exame de corpo delito, mas 
+que podem ser tão devastadoras quanto as marcas deixadas no corpo da esposa, 
+embora socialmente haja uma tendência a menosprezá-las.
+Não estamos dizendo de forma alguma que a violência praticada em casos 
+como esse seja justificável, e muito menos que em todos os casos a história aconteça 
+desta forma. O que estamos tentando sustentar aqui é justamente o oposto disto: 
+nem essa, nem nenhuma outra história pode ser usada como modelo para todos 
+os casos. As hipóteses são infinitas, é preciso que se tenha o tempo, a paciência e o 
+cuidado de avaliar cada uma delas para entender realmente a dinâmica da relação e 
+dar a cada uma o tratamento mais adequado.
+
+24 | Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024
+Beatrice Marinho Paulo
+Mônica Jardim Rocha
+Além da situação de violência em si, é preciso que se analise também a 
+repercussão dela sobre as crianças. Os militantes dos dois lados do debate podem 
+não acreditar, mas ela não é sempre a mesma. É tão equivocado dizer que “o que 
+ele é como marido em nada interfere no que ele é como pai” quanto “um mau marido 
+não pode ser um bom pai”. Ambas são visões radicais e facilmente contestadas por 
+situações fáticas da realidade.
+A violência de um genitor contra o outro é uma violência também contra os 
+filhos que a presenciam, mesmo que não praticada diretamente contra eles. Entretanto, 
+é preciso que se entenda que, para cada criança, esta experiência terá uma repercussão 
+diferente. Até porque, cada história de violência tem seu próprio contexto que precisa 
+ser levado em conta.
+Em nosso trabalho, já atendemos todo tipo de caso e, baseadas neles, podemos 
+afirmar que de fato há muitas crianças que, mesmo não tendo sofrido nunca nenhuma 
+agressão diretamente, desenvolveram verdadeiro horror ao pai, por toda a violência 
+que presenciaram na relação dele com a mãe, e não querem mais conviver com ele de 
+forma alguma. Há outras, porém, que, apesar de terem também presenciado situações 
+de violência entre os pais e quererem mais que tudo que estas cessem, ainda adoram 
+o pai, têm uma relação maravilhosa com ele, e sofreriam muito se ele deixasse de 
+fazer parte de suas vidas. Estas sentem a falta do pai quando ele, por qualquer razão, 
+não se faz presente e desejam continuar convivendo com ele.
+Cada relação parento-filial é construída de uma forma única, diferente de 
+todas as demais. Há casos em que presenciar a violência praticada pelo pai contra 
+a mãe é algo tão traumático, gera um impacto tão negativo, que não há meio de o 
+filho ou a filha conseguir perceber aquele homem de alguma maneira positiva – pelo 
+menos não antes de muito tempo de terapia. Mas também há casos em que, apesar 
+da violência assistida, apesar do relacionamento tóxico ou abusivo existente entre pai 
+e mãe, aquele mesmo homem tem também outros significados para aquela criança, 
+desempenha outros papéis, outras funções na vida dela. Eles vivenciaram juntos outras 
+experiências, compartilham outras lembranças, e, por isso, apesar de tudo, mantêm 
+um vínculo afetivo forte e ele é um dos pilares da formação emocional do filho. Nestes 
+casos, afastar o pai desse filho seria uma violência emocional contra este filho, talvez 
+ainda mais devastadora do que a violência contra a mãe que ele presenciou.
+Desta forma, podemos dizer que, em alguns casos, o homem pode sim ser um 
+mau marido, mas também um bom pai. A crença de que qualquer agressão praticada 
+entre o casal é sempre incompatível com a boa parentalidade, desconsiderando os 
+contextos e as dinâmicas familiares, não condiz com a realidade e a complexidade 
+das famílias a que atendemos.
+Obviamente, é preciso que consideremos também outras possíveis repercussões 
+que a situação de violência pode ter para a criança – mesmo para aquela que sente 
+a falta do pai e deseja conviver com ele. É preciso que atentemos para o risco de a 
+criança naturalizar o comportamento violento; de ele afetar de uma forma devastadora 
+sua constituição psicológica e as relações que esta criança estabelecerá com outras 
+
+Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024 | 25
+Violência doméstica X direito à convivência familiar
+pessoas no futuro. Mas nem para isso há uma resposta única: é preciso que se avalie 
+cada caso e que se procure qual a melhor forma de lidar ou de prevenir em cada um 
+deles. Nem sempre essa naturalização acontece; nem sempre a melhor forma de 
+preveni-la é a vedação da convivência ou o impedimento da guarda compartilhada; e, 
+acima de tudo, nunca há uma única resposta que atenda todos os casos. É preciso que 
+a criança entenda o quão condenável foi o comportamento agressivo do homem, mas 
+sem que para isso as relações se confundam e embaralhem, misturando o homem/
+marido com o homem/pai.
+Além desses vários e distintos cenários que podem acontecer em casos em 
+que há violência doméstica, que precisam ser seriamente considerados quando 
+discutimos sobre o direito “do autor de violência” – não seria da criança? – à Guarda 
+Compartilhada e à convivência com os filhos, temos ainda, infelizmente, que refletir 
+sobre um tema bastante espinhoso, que ocupa de forma cada vez mais abusiva as 
+lides judiciais: as fraudes nos casos de família.
+Infelizmente, a cada dia que passa parece ser mais frequente a alegação de 
+situações que não ocorreram de fato nos litígios de família. Falsas acusações de abuso 
+sexual, de alienação parental, de violência doméstica, o uso de alegações enganosas 
+com o intuito de alcançar algum interesse pessoal. Já ouvimos que mais de 50% das 
+denúncias em Varas de Família são falsas! Também já ouvimos que as falsas denúncias 
+não chegam a 1% dos casos delatados. Como não somos estatísticas (e sabemos o 
+quanto os estatísticos estudam para poder coletar, analisar e interpretar os dados de 
+forma adequada, bem como o quão trabalhoso é fazer isto) e nem temos conhecimento 
+de nenhuma estatística oficial a este respeito, não vamos nos atrever a apontar um 
+número. Todavia, o mero fato de que falsas denúncias existem, fato este que ninguém 
+nega, já deve fazer com que estejamos atentos a esta possibilidade, e tenhamos 
+cuidado redobrado para aplicar qualquer medida mais drástica, especialmente se 
+afeta direitos que vão além daqueles do casal, atingindo os filhos.
+Tivemos um caso em que o pai ficou por vários meses impedido de estar 
+com os filhos, que o adoravam e sentiram muito a sua ausência, por causa de uma 
+denúncia feita pela mãe de que ele a teria agredido em uma movimentada avenida, em 
+determinado dia e horário. Ocorre que, neste dia e horário, o pai estava prestando prova 
+em concurso público, a quilômetros dali. Ele tentou demonstrar isso ao Juízo e reverter 
+a decisão que o impedia de estar com os filhos, mas muitos meses transcorreram 
+antes que o Juiz lesse suas petições e se manifestasse sobre elas. Meses estes que 
+aqueles filhos ficaram sem a presença do pai. Esse caso, em que não existia histórico de 
+violência doméstica anterior, nem tampouco comportamentos violentos do pai contra 
+os filhos, teria sido menos danoso para estes se o direito à convivência tivesse sido 
+resguardado, estabelecendo-se visitas supervisionadas enquanto os fatos estivessem 
+sendo esclarecidos.
+Também tivemos casos em que havia alegação de violência doméstica no 
+processo, mas o comportamento da mãe a todo o tempo desmentia isso. A maneira 
+com que falava com o pai das crianças; a forma como se dirigia a ele; e até mesmo 
+
+26 | Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024
+Beatrice Marinho Paulo
+Mônica Jardim Rocha
+as reações que ele tinha nas interações com ela faziam com que, no decorrer dos 
+nossos encontros, tornasse-se cada vez mais claro que, se havia tido alguma violência 
+doméstica, não teria sido ela a vítima. Especialmente quando, num dos últimos 
+encontros, eles nos contaram que ela era faixa preta de jiu jitsu e que já havia ganhado 
+várias medalhas em campeonatos.
+Ainda para exemplificar, trazemos o caso em que, após uma separação 
+conturbada, houve uma medida protetiva em favor da mulher por ameaças a ela, 
+supostamente enviadas por mensagens de WhatsApp para a psicóloga da criança. 
+Medida protetiva essa que a mãe estendeu para a filha por decisão própria. Para 
+a surpresa do pai, quando ele recorreu à Justiça pelo descumprimento do acordo 
+de convivência, a ex-mulher entrou com pedido de medida protetiva em favor da 
+filha, como sua representante, alegando danos emocionais à menina, causados pela 
+convivência com o pai. Um afastamento cautelar entre pai e filha foi determinado em 
+decisão judicial por 06 meses. Já se passaram dois anos e o pai não consegue mais ter 
+contato com a filha, pois a ex-mulher se mudou com ela para outro estado, usando 
+ainda a medida protetiva como justificativa para a mudança.
+Em outro caso, em que também havia alegação de violência doméstica com 
+medida protetiva em favor da mãe, ela não alegava descumprimento desta quando 
+o pai levava o filho adolescente para visitá-la, em uma tentativa de reconstruir os 
+laços entre eles, que haviam sido rompidos. Porém, ela não hesitou em alegar o 
+descumprimento da medida quando aquele pai, retornando do trabalho pelo único 
+caminho possível, passou de carro em frente à sua casa e cumprimentou de longe a 
+sua filha quando a avistou.
+Por casos como estes é que não somos favoráveis a uma vedação absoluta e a 
+priori do encontro do ex-casal (ou do autor da violência com os filhos) nas dependências 
+do Ministério Público. Desde que haja anuência de ambas as partes, consideramos 
+possível o encontro. Quando recebemos um caso para ajustar a convivência entre 
+a criança e os pais, buscamos construir com os envolvidos o acordo de convivência. 
+Naqueles em que há denúncia de violência doméstica, é preciso, antes de qualquer 
+coisa, fazer uma avaliação de cada um, o que se dá a partir de conversas individuais 
+com cada parte e com cada um dos filhos, para avaliarmos a possibilidade dos 
+encontros entre eles ocorrerem. Até hoje, poucos foram os casos em que as pessoas 
+demonstraram não querer esse encontro ou se sentiram vulneráveis diante dele. A 
+maioria declara se sentir segura no ambiente do Ministério Público e agradece por 
+ter ali um espaço onde conseguem de alguma forma dialogar com o outro e fazer 
+combinados sobre a convivência com os filhos. Dizem que dificilmente em outro 
+lugar conseguiriam ser realmente ouvidas pela outra parte.
+Exemplo disso foi um caso de comprovada violência doméstica, em que 
+atuamos visando assegurar o direito à convivência do filho com a mãe. Ao iniciarmos 
+os atendimentos, foi perguntado à mãe se ela se sentiria segura nos encontros com o 
+pai do filho, tendo ela respondido que se sentiria segura no ambiente do Ministério 
+Público, especialmente durante o tempo dos atendimentos, pois tinha certeza de 
+
+Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024 | 27
+Violência doméstica X direito à convivência familiar
+que o ex-marido nunca iria cometer violência física ou psicológica contra ela ali, por 
+querer construir uma imagem ilibada para a profissional que os atendia.
+Claro que sempre há todo um cuidado da nossa equipe com as pessoas, 
+especialmente quando algo indica que podem ter vivenciado algum tipo de situação 
+de violência. Entretanto, é fundamental que as portas não estejam fechadas a priori 
+e que possamos realmente nos aproximar de cada caso, conhecer a versão de cada 
+pessoa, “juntar as peças do quebra-cabeça”, para entender aquele cenário específico, 
+atuando de forma personalizada, customizada, em cada um deles.
+Continuamos defendendo o que sempre defendemos: para o desencanto de 
+muitos, não é possível dar uma resposta única para todos os casos! Não quando eles 
+envolvem crianças e famílias; quando envolvem as relações humanas mais íntimas e 
+mais constitutivas. É preciso que, antes de qualquer medida, se entenda a dinâmica 
+daquela violência e, sobretudo, as repercussões que ela teve para as crianças no caso 
+concreto, para então sim podermos dizer qualquer coisa sobre o seu Melhor Interesse 
+e apontar a forma de atuação que de fato lhe seja protetiva.
+E é nesse ponto nossa maior preocupação com relação à nova Lei. Será 
+temerário se ela for aplicada de maneira automática e desastrada, atropelando o 
+direito das crianças à convivência com o pai todas as vezes em que houver qualquer 
+alegação de violência doméstica. Isto, tristemente, estimulará ainda mais as falsas 
+denúncias visando punir de algum modo aquele homem, retirando dele o direito de 
+estar com os filhos. E, mais uma vez, serão as crianças (prioridade absoluta de nosso 
+ordenamento jurídico) as maiores prejudicadas.
+Aflige-nos, assim, as nuances mais finas na aplicação da nova Lei. Apesar de 
+reconhecermos suas boas intenções e os legítimos direitos das mulheres vítimas de 
+violência que a nova lei visa a garantir, tememos que sua linguagem, a forma imprecisa 
+com que foi escrita – não estabelece critérios objetivos para a efetiva proibição da 
+guarda compartilhada – e a uniformização do tratamento que prescreve para as 
+situações as mais diversas, terminem por confundir os direitos das mulheres com 
+os das crianças1, desconsiderando o direito à convivência familiar destas últimas, na 
+suposição de que esta convivência seja sempre avessa ao Melhor Interesse delas – o 
+que nem sempre acontece, como visto acima.
+A possibilidade de retirarem um direito tão essencial de uma criança pela mera 
+alegação de violência doméstica feita por uma das partes nos gera grande inquietação. 
+A forma como a nova lei foi redigida, além de estimular falsas denúncias por litigantes 
+de má-fé, que busquem obter vantagens pessoais com a situação, pode ainda levar 
+a uma inversão completa de valores, priorizando os interesses dos adultos ao invés 
+dos daquelas que, segundo a Constituição, deveriam ter prioridade absoluta, as 
+1  Note-se que esta cautela não impede que mulheres possam procurar os seus direitos, inclusive 
+demonstrando o prejuízo que a violência sofrida por elas gerou nos filhos, caso em que a negação da 
+guarda compartilhada e a busca por alternativas de convivência se justificam. O que não aceitamos é que 
+a mera alegação de violência implique de forma automática, categórica e inexorável na vedação da guarda 
+compartilhada e na restrição da convivência, como querem alguns.
+
+28 | Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024
+Beatrice Marinho Paulo
+Mônica Jardim Rocha
+crianças. Estas correm o risco de serem, em última análise, punidas, pois a nosso ver é 
+extremamente violento assumir que qualquer autor de qualquer ato de violência, ainda 
+que de menor gravidade e não reiterado, seja sempre inapto para a parentalidade, 
+não tendo capacidade ou condições para partilhar a guarda dos filhos ou participar 
+da sua vida. Assumir isso de forma absoluta e a priori inviabiliza o reconhecimento da 
+especificidade e da dinamicidade das relações familiares, assumindo quase o caráter 
+de uma sentença de pena perpétua.
+Será desastroso se começarem a tomar decisões assim apenas baseados em 
+uma hipótese, sem atentarem para a parte da lei que prevê a existência de indícios 
+ou provas pertinentes ou de elementos que evidenciem a probabilidade da violência, 
+ou aceitando apenas o Registro de Ocorrência ou mesmo a Medida Protetiva, que 
+atualmente prescinde de ritos ou provas para ser concedida, como indícios ou 
+elementos de evidência suficientes.
+Além disso, é importante lembrar que os novos dispositivos trazidos pela Lei 
+14.713/2023 não podem ser compreendidos ou aplicados de forma literal e isolada, pois, 
+como se sabe, a interpretação de toda lei precisa ser efetuada de forma sistemática. 
+Assim, não se pode esquecer o previsto, por exemplo nos artigos 693 a 699 do Código 
+de Processo Civil, empreendendo esforços em prol de uma solução consensual da 
+controvérsia, seja através da mediação, da conciliação ou do atendimento pela equipe 
+multidisciplinar, que deverá avaliar que família é essa; quando e como surgiu a denúncia 
+de violência doméstica; como eram essas relações antes da violência doméstica; se 
+foi um ato isolado ou as agressões eram habituais; quem são esses pais; como o filho 
+está inserido no contexto da suposta violência doméstica; como o filho interage 
+nesse contexto e com esses pais; quem é esse pai na visão do filho. São inúmeras 
+questões a serem analisadas, mas só assim não correremos o risco de contribuir com 
+a prática de uma violência emocional contra crianças e adolescentes, o que seria 
+uma violência institucional, uma maldade discreta disfarçada da proteção contra a 
+violência doméstica.
+Resta, porém, saber se a Justiça brasileira está preparada e estruturada para 
+colocar em prática o que está prescrito na lei. Se os operadores de direito sabem 
+identificar, por exemplo, em que casos caberia a mediação e em que casos caberia 
+conciliação ou o estudo técnico feito por equipe multidisciplinar; se conciliadores, 
+mediadores estão capacitados para conduzir tais procedimentos, sem que as partes se 
+sintam coagidas a fechar um acordo, seja ele qual for; se as equipes técnicas conseguem 
+fazer um trabalho de qualidade, tendo tempo para realizar um estudo mais profundo, 
+que traga efetivas contribuições para a resolução do caso, sem serem pressionados 
+pela necessidade de manter uma estatística de produção. Se não, corre-se o risco de 
+agravar a violência, de cristalizar uma injustiça. Isto tudo faz com que retornemos ao 
+velho ponto da necessidade premente de capacitação continuada de todos os atores 
+do sistema de justiça – muito mais importante do que a discussão sobre a revogação 
+ou reforma de qualquer lei, diga-se de passagem.
+
+Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024 | 29
+Violência doméstica X direito à convivência familiar
+É importante ainda atentar para o fato que, ao contrário da Lei Maria da Penha, 
+a nova lei em momento nenhum menciona violência contra a mulher em seu texto. 
+Ao contrário, no texto da Justificativa da Alteração que foi feita no Projeto de Lei, está 
+escrito que o juiz deverá decretar a guarda unilateral “ao genitor que não é responsável 
+pela violência ou pela situação de risco”, de forma bem genérica, portanto. Isso quer 
+dizer, que ele diz respeito a qualquer um dos genitores. Não pode o intérprete restringir 
+onde a lei não restringe.
+Ademais, o texto legal também não restringe o tipo de violência a que se 
+refere. É preciso lembrar que violência moral, patrimonial e psicológica (categoria 
+dentro da qual encontramos a alienação parental, frise-se) são também formas de 
+violência e, portanto, também podem dar causa a este impedimento. Desta forma, 
+pelo texto legal, ficando constatada a prática de qualquer uma delas por qualquer 
+um dos genitores, a guarda deve se tornar exclusiva do outro. 
+Obviamente, em qualquer das situações, a mera alegação não basta. É 
+necessário que haja os tais indícios ou provas, os elementos que a evidenciem. Como 
+muito bem colocou a Dra. Rosana Cipriano, que fez parte do seleto grupo que nos 
+deu a honra da primeira leitura crítica a este texto2, “onde há questões permeadas pelo 
+afeto e direitos de personalidade de seres humanos não é possível estabelecer uma regra 
+geral que deva ser automática e imediatamente aplicada, sem considerar uma dilação 
+probatória mínima que nos permita compreender as peculiaridades de cada caso concreto. 
+Devemos ser necessariamente comprometidos na verificação da singularidade de cada 
+caso que nos é submetido.”
+Por fim, embora isto não esteja escrito de forma literal no texto da nova lei, 
+consideramos importante que a violência impeditiva do compartilhamento da guarda 
+seja atual, e não histórica – ou ao menos que seus efeitos o sejam; e que não possa 
+ser neutralizada por medidas protetivas pedagógicas. A nosso ver, havendo essa 
+possibilidade e sendo isto do interesse da criança, guarda e convivência familiar 
+devem ser mantidas, ainda que de forma supervisionada, investindo-se na criação 
+ou na reconstrução de vínculos parento-filiais saudáveis, que certamente é o que 
+melhor atende ao interesse de qualquer criança.
+Referências Bibliográficas 
+ALTOÉ, S. (org) Sujeito do Direito-Sujeito do Desejo. Rio de Janeiro, Revinter, 1999. 
+BOWLBY, J. Apego: a natureza do vínculo. São Paulo: Martins Fontes, 1990. 
+______. Perda, tristeza e depressão. São Paulo: Martins Fontes, 1998. 
+BRASIL, Lei 14.713, de 30 de outubro de 2023. 
+2  Por oportuno, desejamos agradecer toda a contribuição dada pelas Dras. Patrícia Carvão, Carolina 
+Senra, Renata Scharfstein, Roberta Dumas, Viviane Alves e Rosana Cipriano, primeiras leitoras e críticas 
+do presente artigo, todas integrantes do Parquet do Rio de Janeiro e com larga experiência em casos de 
+família. Certamente, este texto se enriqueceu muito com as ponderações e reflexões de vocês! Obrigada!
+
+30 | Revista do Ministério Público do Estado do Rio de Janeiro nº 93, jul./set. 2024
+Beatrice Marinho Paulo
+Mônica Jardim Rocha
+______. Lei 10.406, de 10 de janeiro de 2002. Código Civil.
+______. Lei 13.105, de 16 de março de 2015. Código de Processo Civil. 
+BRITO, Leila Maria Torraca de. Crianças: sujeitos de direitos nas Varas de Família. In 
+ALTOÉ, Sônia (org.) Sujeito do Direito, Sujeito do Desejo. Rio de Janeiro, RJ: Revinter, 1999.
+DOLTO, Françoise. Quando os Pais se Separam. Jorge Zahar: Rio de Janeiro, 1989.
+______. Quando surge a criança. Tomo II. Campinas, SP. Papirus Editora, 1997.
+GADOTTI, Moacir. Amor paterno, amor materno: o quanto é necessário, o quanto é 
+insuficiente. In: SILVEIRA, Paulo (org). Exercício da Paternidade. Porto Alegre, RS: Artes 
+Médicas, 1998.
+GROENINGA, G. PEREIRA, R. Direito de Família e Psicanálise – Rumo a uma nova 
+epistemologia. RJ, Imago, 2003. 
+LACAN, Jacques (1969). Duas Notas sobre a Criança. In Opção Lacaniana nº 21, abril 1998. 
+MARQUES JÚNIOR, Mário Moraes. Guarda Compartilhada segue sendo a regra; guarda 
+unilateral, a exceção. Disponível em www.conjur.com.br. Acesso em 27/02/24.
+ONU. Convenção Internacional do Direito da Criança e do Adolescente. Disponível em 
+http://www.idh.org.br/documentos.htm. Acesso em 13/09/2009.
+SALZER, Fernando. BRAZIO, Glícia. O que muda com a Lei 14.713/2023? (Slides fornecidos 
+pelos autores).

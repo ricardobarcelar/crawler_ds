@@ -1,0 +1,1802 @@
+MINISTÉRIO PÚBLICO DA UNIÃO
+Ministério Público do Distrito Federal e Territórios
+Núcleo de Gênero Pró-Mulher
+DIRETRIZES DISTRITAIS DE INVESTIGAÇÃO CRIMINAL
+COM PERSPECTIVA DE GÊNERO
+Thiago Pierobom de Ávila (Organizador)
+Adriana Sette Rocha de Menezes
+Ali Taleb Fares
+Amom Albernaz Pires
+Ana Cristina Melo Santiago
+Antonio Henrique Graciano Suxberger
+Carina Costa Oliveira Leite
+Daniela Albuquerque Marques
+Fausto Rodrigues de Lima
+Gabriela Gonzalez Pinto
+Liz-Elainne de Silvério e Oliveira Mendes
+Marcelo Henrique de Azevedo Souza
+Mariana Fernandes Távora
+Natália Magalhães Wanderlei
+Polyanna Silvares de Moraes
+Brasília
+Maio de 2016
+
+SUMÁRIO
+1. INTRODUÇÃO............................................................................................................................................5
+2. A POLÍTICA DISTRITAL DE ENFRENTAMENTO À VIOLÊNCIA CONTRA AS MULHERES NO DISTRITO 
+FEDERAL........................................................................................................................................................5
+3. INVESTIGAÇÃO COM PERSPECTIVA DE GÊNERO.......................................................................................6
+3.1. Registro de casos de violência doméstica e familiar contra a mulher................................................6
+3.2. Elaboração de estatísticas desagregadas por sexo e outras variáveis................................................6
+3.3 Avaliação de risco................................................................................................................................7
+3.4. Unidades especializadas do Ministério Público na investigação de crimes de violência doméstica e 
+familiar contra a mulher...........................................................................................................................7
+3.5. Unidades especializadas de polícia na investigação de crimes de violência doméstica e familiar 
+contra as mulheres...................................................................................................................................8
+3.6. Sensibilização, formação e capacitação em gênero e investigação com perspectiva de gênero........8
+3.7. Direitos das mulheres em situação de violência doméstica e familiar: informação, participação e 
+acompanhamento ao longo do processo..................................................................................................9
+3.8. Atenção às mulheres particularmente vulneráveis em situação de violência doméstica e familiar...9
+(a) Crianças e adolescentes em situação de violência doméstica e familiar...................................................10
+(b) Mulheres idosas........................................................................................................................................10
+ (c) Mulheres com deficiência.........................................................................................................................10
+ (d) Mulheres pertencentes a povos e comunidades indígenas, tradicionais, quilombolas, ciganas ou minoria
+nacional ou étnica, religiosa ou linguística......................................................................................................10
+(e) Mulheres Negras.......................................................................................................................................10
+(f) Empregadas domésticas.............................................................................................................................10
+(g) Mulheres em situação de rua....................................................................................................................11
+(h) Mulheres no sistema prisional..................................................................................................................11
+(i) Mulheres lésbicas ou transexuais...............................................................................................................11
+3.9. Intervenção do Ministério Público caso a mulher em situação de violência doméstica e familiar não
+colabore com a investigação ou o processo............................................................................................11
+(a) Em relação à mulher em situação de violência doméstica e familiar.........................................................11
+(b) Em relação à investigação do crime...........................................................................................................11
+(c) Em caso de retratação da mulher em situação de violência doméstica e familiar.....................................11
+
+3.10. A adoção ou solicitação de medidas protetivas de urgência ou cautelares....................................12
+4. INÍCIO DA INVESTIGAÇÃO.......................................................................................................................12
+4.1. Em caso de situação de flagrância....................................................................................................12
+4.2. Em caso de comunicação da ocorrência perante a Polícia e a Promotoria de Justiça......................14
+4.3. Servidores/as públicos/as e profissionais obrigados/as a realizar a notificação compulsória dos 
+fatos delituosos.......................................................................................................................................15
+4.4. Prisão do suposto agressor..............................................................................................................16
+5. A CONDUÇÃO DA INVESTIGAÇÃO...........................................................................................................17
+5.1. Diligências no local dos fatos...........................................................................................................17
+5.2. Diligências relacionadas com a mulher em situação de violência doméstica e familiar...................17
+5.3. Dos laudos periciais e relatórios psicológicos, psicossociais e psiquiátricos....................................18
+5.4. Diligências relacionadas com o suposto agressor............................................................................19
+5.5. Especificidades na investigação dos crimes contra a dignidade sexual............................................19
+5.6. Especificidades na investigação da violência patrimonial................................................................20
+6. FIM DA INVESTIGAÇÃO...........................................................................................................................20
+6.1. Oferecimento de denúncia...............................................................................................................20
+6.2. Arquivamento da persecução penal.................................................................................................21
+6.3. Das penas e medidas alternativas....................................................................................................21
+
+1. INTRODUÇÃO
+O presente documento é fruto de uma adaptação ao Distrito Federal das “Diretrizes nacionais de 
+investigação criminal com perspectiva de gênero”, documento elaborado pela Comissão 
+Permanente de Promotores de Justiça de Violência Doméstica (Copevid/GNDH/CNPG), o 
+Ministério da Justiça, por meio da Senasp e a SRJ, a Secretaria de Políticas para as Mulheres 
+(SPM/MJ) e a Procuradoria Federal dos Direitos do Cidadão (PFDC/MPF), com a parceria do 
+Programa para a Coesão Social na América Latina (EuroSociAL). Este documento, por sua vez, foi 
+uma adaptação brasileira do “Protocolo Ibero-Americano de Investigação criminal com perspectiva 
+de gênero”, construído pela Associação Ibero-Americana de Ministérios Públicos (Aiamp) e a 
+Conferência de Ministros da Justiça dos Países Ibero-Americanos (Comjib). 
+Esta adaptação local é diretamente estimulada pelo item 6.3 das Diretrizes Nacionais. A minuta de 
+adaptação das Diretrizes Distritais foi realizada no âmbito de uma oficina de trabalho realizada pela 
+Escola Superior do Ministério Público da União (ESMPU), no MPDFT, nos dias 16, 18, 23 e 
+25/2/20161. Alguns trechos são transcrição literal, outros sofreram alteração para retratar a realidade
+local e acrescentar outras discussões sobre as quais se avançou no Distrito Federal2. Este documento
+não representa uma orientação vinculante à atuação do Ministério Público, já que seus membros 
+gozam de independência funcional, mas a indicação de um conjunto de boas práticas que são 
+reconhecidas como exitosas e, nessa medida, de recomendável adoção.
+O presente documento abrange orientações práticas de atuação para profissionais de segurança 
+pública e membros do Ministério Público relacionadas aos delitos praticados em contexto de 
+violência doméstica e familiar (VDF) contra a mulher, abrangidos pela Lei n. 11.340/2006, levando1N Participaram dessa Oficina de Trabalho da ESMPU: Thiago Pierobom de Ávila (Organizador), Adriana Sette 
+Rocha de Menezes, Ali Taleb Fares, Amom Albernaz Pires, Ana Cristina Melo Santiago, Antonio Henrique 
+Graciano Suxberger, Carina Costa Oliveira Leite, Daniela Albuquerque Marques, Fausto Rodrigues de Lima, 
+Gabriela Gonzalez Pinto, Liz-Elainne de Silvério e Oliveira Mendes, Marcelo Henrique de Azevedo Souza, 
+Mariana Fernandes Távora, Natália Magalhães Wanderlei, Polyanna Silvares de Moraes.
+2N
+ Em especial: ÁVILA, Thiago André Pierobom de (Org.). Roteiro de boas práticas para promotores de Justiça 
+de violência doméstica e familiar contra a mulher. Brasília: ESMPU e NG/MPDFT, 2015. ÁVILA, Thiago André 
+Pierobom de (Org.). Projeto de proteção integral à mulher em situação de violência doméstica e familiar. 
+Brasília: NG/MPDFT, 2015. DINIZ, Debora (Coord.). Avaliação da efetividade da intervenção do sistema de 
+justiça do Distrito Federal para a redução da violência doméstica e familiar contra a mulher. Brasília: Anis, 
+ESMPU e MPDFT, 2014. DINIZ, Debora (Coord.). Radiografia dos homicídios por violência doméstica contra a
+mulher no Distrito Federal. Brasília: ANIS, MPDFT e SPM, 2014. MORATO, Alessandra Campos et al. Análise 
+da relação sistema de justiça criminal e violência doméstica contra a mulher: a perspectiva das mulheres em
+situação de violência e dos profissionais responsáveis por seu acompanhamento. Brasília: ESMPU, 2009.
+
+se em consideração a estrutura existente no âmbito do Distrito Federal. Objetiva-se incorporar a 
+perspectiva de gênero na atuação dos diversos profissionais que enfrentam a violência doméstica e 
+familiar contra a mulher, proporcionando ferramentas e procedimentos necessários para lutar de 
+forma efetiva contra a impunidade da violência de gênero e garantir a adequada proteção e 
+reparação das mulheres em situação de violência doméstica e familiar.
+De acordo com as Diretrizes Nacionais, considera-se violência de gênero: “A violência cometida no
+contexto das relações de gênero, as quais são socialmente construídas e fundamentam a organização
+da vida social, marcadas pela desigualdade de poder que hierarquiza os gêneros e subjuga o 
+feminino”.
+A incorporação da perspectiva de gênero à investigação dos crimes baseia-se no conceito de gênero 
+como categoria de análise que permite visibilizar a atribuição social diferenciada de papéis e tarefas
+a homens e mulheres, evidenciando relações de poder assimétricas originadas pelas diferenças nas 
+expectativas, identidades, características e possíveis condutas atribuídas social e culturalmente a 
+cada um deles de modo a gerar discriminação e se traduzir, entre outras condutas, naquelas 
+tipificadas na legislação. Atuar de forma eficiente na eliminação das violências contra as mulheres é
+essencial para cumprir obrigações assumidas pelo Estado Brasileiro em diversos tratados 
+internacionais3.
+Investigar os crimes de violência contra as mulheres com perspectiva de gênero significa:
+a. Colocar as mulheres em situação de violência doméstica e familiar – independentemente de 
+classe, raça, etnia, orientação sexual, renda, cultura, nível educacional, idade ou religião – no centro
+da investigação, adotando todos os cuidados necessários para assegurar seu acompanhamento e 
+proteção, bem como de seus familiares, ao longo da investigação e o adequado andamento dos 
+procedimentos de inquérito policial e processamento judicial. A mulher em situação de VDF deverá 
+estar, em todo momento, informada de seus direitos e do andamento do processo. Os órgãos de 
+persecução criminal desenvolverão estratégias institucionais e/ou interinstitucionais que visem a 
+garantir a essas mulheres proteção especializada e assistência integral, bem como seu direito a uma 
+vida livre de violência e discriminações.
+b. Facilitar a presença e a participação das mulheres em situação de VDF em todas as fases da 
+investigação e do processo judicial, entendendo que estas estão imersas num Ciclo de Violência 
+Doméstica que só é rompido quando há a segurança e o apoio necessários. Neste quadro, a 
+confiança no Sistema de Justiça torna-se essencial e, para tanto, deve-se dispor de recursos 
+assistenciais que contribuam para romper a dependência (seja esta de natureza emocional, social, 
+econômica, seja de cuidado) em relação ao/à agressor/a, bem como para resolver questões relativas, 
+entre outras, à manutenção e à integridade dos/as filhos/as em comum, ao uso da moradia e às 
+3N Destacam-se: Convenção para a Eliminação de Todas as Formas de Discriminação contra a Mulher 
+(Cedaw) adotada pela Assembleia-Geral das Nações Unidas em 1979; Convenção Interamericana para 
+Prevenir, Punir e Erradicar a Violência contra a Mulher – Convenção de Belém do Pará adotada pela 
+Assembleia-Geral da Organização dos Estados Americanos em 1994; Regras de Brasília sobre Acesso à 
+Justiça das Pessoas em Situação de Vulnerabilidade, adotadas pela XIV Cimeira Judicial Ibero-Americana em 
+2008, e Guias de Santiago sobre a Proteção de Vítimas e Testemunhas adotados pela Assembleia da 
+Associação Ibero-Americana dos Ministérios Públicos em 2008.
+
+obrigações e direitos patrimoniais. Somente por intermédio do acompanhamento e do 
+empoderamento das mulheres em situação de VDF é possível assegurar a sua participação e 
+colaboração com a investigação criminal.
+c. Utilizar técnicas de investigação científico-criminal que permitam certificar o cometimento do 
+fato criminoso e a possível existência de padrão de conduta dominante do/a agressor/a sobre a 
+mulher dentro da relação de afetividade, familiar ou de coabitação, para o qual, quando for 
+necessário, será analisado o contexto familiar, econômico, social e cultural em que se desenvolve ou
+se desenvolveu a relação. Procurar-se-á assim garantir maior rigor na investigação, baseando-se em 
+provas sólidas que lhe deem consistência e evitem a impunidade destes crimes.
+d. Atuar com a devida diligência desde o início da investigação e registro da ocorrência para reunir 
+o maior número de provas do fato criminoso, usando os meios de prova previstos na legislação 
+processual penal brasileira e qualquer outro meio de prova que corresponda ao princípio da busca 
+pela verdade, quer sejam por fontes testemunhais, documentais ou periciais, para que a investigação
+não se centre de forma exclusiva no depoimento da mulher em situação de violência doméstica e 
+familiar. Pretende-se combater as possibilidades de impunidade que podem ocorrer nestes tipos de 
+crimes, derivadas de eventual retratação ou da impossibilidade de obter o testemunho das mulheres 
+em situação de VDF no procedimento, quer pela dependência emocional, econômica e/ou de 
+cuidado em relação ao/à agressor/a, quer pelas pressões que recebem de seu cônjuge, 
+companheiro/a, namorado/a, familiares ou de terceiras pessoas, quer pelas dificuldades de acesso às 
+instituições responsáveis pela proteção dessas mulheres. Outro mecanismo de enfrentamento à 
+impunidade é a produção antecipada de prova.
+e. Orientar a investigação de modo a dar resposta adequada à gravidade dos fatos, evitando em todo 
+caso a adoção de medidas alternativas ao processo penal que envolvam a minimização ou 
+justificação da violência exercida ou, ainda, o aumento da vulnerabilidade da mulher. Para isso, será
+necessário dispor dos meios humanos e materiais adequados, utilizar as melhores técnicas de 
+investigação e realização do trabalho de forma coordenada entre e com outras instituições, como 
+tribunais, serviços de apoio e organizações da sociedade civil voltados ao enfrentamento à violência
+doméstica e familiar contra as mulheres.
+f. Adquirir capacidades e ferramentas necessárias para eliminar preconceitos e estereótipos na 
+análise, no tratamento e na investigação dos crimes, particularmente na atenção dada à mulher em 
+situação de VDF ou a seus familiares, erradicando qualquer comportamento discriminatório ou 
+barreiras de acesso à justiça, bem como evitando qualquer comentário ou atitude culpabilizadora.
+g. Atuar de forma a impedir qualquer possibilidade de as mulheres atendidas sofrerem violência 
+institucional em quaisquer órgãos e/ou unidades que procurarem, de modo que não sejam 
+submetidas ao retardo do atendimento, à falta de interesse das equipes e/ou agentes em escutá-las e 
+orientá-las adequadamente ou mesmo na discriminação explícita com palavras e atitudes 
+condenatórias ou preconceituosas.
+
+2. A POLÍTICA DISTRITAL DE ENFRENTAMENTO À VIOLÊNCIA CONTRA AS
+MULHERES NO DISTRITO FEDERAL
+A Lei 11.340, de 7 de agosto de 2006, atendendo às disposições da Convenção sobre a Eliminação 
+de Todas as Formas de Discriminação contra as Mulheres e da Convenção Interamericana para 
+Prevenir, Punir e Erradicar a Violência contra a Mulher, estabelece uma série de determinações para
+realização de políticas públicas dirigidas à concretização do comando constitucional estabelecido no
+§ 8.º do art. 226 da Constituição da República. A Lei Maria da Penha destaca-se como o mais 
+importante marco normativo de políticas públicas para o enfrentamento da violência contra as 
+mulheres. No entanto, não se trata de um diploma único. A Lei 11.530, de 24 de outubro de 2007, 
+que institui o Programa Nacional de Segurança Pública com Cidadania (Pronasci), igualmente traz 
+uma série de diretrizes para políticas públicas voltadas ao enfrentamento da violência gênero em 
+âmbito nacional, estadual e municipal.
+No plano nacional, a Lei Maria da Penha é expressa em determinar que as políticas públicas devem 
+se realizar por meio de conjunto articulado de ações da União, dos estados, do Distrito Federal e dos
+municípios, além do concurso de ações não governamentais, com observância das diretrizes 
+estabelecidas no artigo 4.º da mencionada Lei. Por determinação expressa da Lei do Pronasci, os 
+programas, projetos e ações que compõem o programa devem observar um foco social, consistente 
+na definição como destinatários dessas políticas as mulheres em situação de violência (art. 4.º, 
+inciso II).
+O Distrito Federal reúne as competências legislativas dos estados e dos municípios (art. 32, § 1.º, da
+Constituição da República; art. 14 da Lei Orgânica do Distrito Federal). No plano distrital, diversas 
+Leis oriundas tanto do exercício de competência municipal quanto do exercício de competência 
+estadual compõem um complexo normativo que se insere no arcabouço normativo destinado a 
+coibir a violência contra a mulher. Vale citar os principais diplomas distritais: a Lei 4.843, de 
+25/5/2012, com as alterações promovidas pela Lei 5.457, de 26/2/2015, que “dispõe sobre a 
+divulgação do Disque Denúncia Nacional de Violência contra a Mulher”; a Lei 5.425, de 2014, que 
+institui o programa de proteção para mulheres vítimas de violência doméstica; a Lei 4.135, de 
+5/5/2008, que dispõe “sobre o atendimento integrado de segurança pública, de assistência judiciária,
+de saúde e de serviço social, pelo Poder Público, à mulher vítima de violência no Distrito Federal”; 
+a Lei 3.420, de 4/8/2004, que “assegura às mulheres vítimas de violência sexual o direito à 
+informação quanto ao tratamento preventivo contra a contaminação pelo vírus HIV”; a Lei 2.701, 
+de 4/4/2001, que “na estrutura das Delegacias Circunscricionais do Distrito Federal o Serviço de 
+Atendimento à Mulher para mulheres vítimas de violência e maus-tratos”; a Lei 434, de 19/4/1993, 
+que “autoriza o Poder Executivo a criar abrigos para mulheres vítimas de violência”. 
+Além disso, há leis distritais que versam tangencialmente o enfrentamento da violência doméstica e 
+familiar contra a mulher. Citem-se, como exemplos, a Lei 3.404, de 2/8/2004, que dispõe “sobre a 
+criação, no âmbito do Distrito Federal, do Programa de Proteção às Vítimas, Testemunhas e 
+Familiares – Provita/DF, cria o Conselho Deliberativo – Condel/DF e dá outras providências”, bem 
+assim leis distritais que cuidam de atenção e acolhimento de crianças e adolescentes em situação de 
+violência doméstica e familiar.
+
+No âmbito nacional, o mais recente Plano Nacional de Políticas para as Mulheres guarda referência 
+com o triênio 2013-20154. Editado no ano de 2013 sob responsabilidade da Secretaria de Políticas 
+para as Mulheres, então vinculada diretamente à Presidência da República, o Plano Nacional de 
+Políticas para as Mulheres traz instrumentos de gestão e monitoramento de sua implementação. Sua 
+normatização deu-se por meio do Decreto 7.959, de 13/3/2013. Não há notícia até o momento de 
+nova versão para um Plano Nacional que se dirija ao triênio 2016-2018. Registre-se, ainda no plano 
+nacional, o Pacto Nacional pelo Enfrentamento à Violência contra as Mulheres, lançado em 2011, 
+que conta com uma respectiva Câmara Temática Federal para acompanhamento das ações desse 
+pacto. 
+No âmbito estadual e municipal, o Distrito Federal lançou o I Plano Distrital de Políticas para as 
+Mulheres no primeiro semestre do ano de 2014, como forma de comprometer os diversos setores do
+Poder Executivo e mobilizar a sociedade civil, em torno da incorporação do recorte de gênero em 
+todas as políticas públicas e da garantia dos direitos fundamentais das mulheres. O Plano Distrital 
+— dirigido para os anos de 2014 e 2015 — consolidou as diretrizes da 3.ª Conferência Distrital de 
+Políticas para as Mulheres e também do Plano Nacional de Políticas para as Mulheres (PDPM). Ele 
+contempla 304 ações distribuídas em dez eixos de atuação. Destaque-se, igualmente, a meta de 
+implantação de 11 Conselhos Regionais dos Direitos da Mulher do Distrito Federal. Não há notícia 
+de uma versão do Plano Distrital que se refira ao ano de 2016 e seguintes.
+Atualmente, o Distrito Federal conta com uma Câmara Técnica Distrital de Gestão e 
+Monitoramento do Pacto Nacional pelo Enfrentamento da Violência Contra as Mulheres. A criação 
+da Câmara foi formalizada pelo Decreto distrital n. 33.872, de 22 de agosto de 2012. Trata-se de um
+espaço de planejamento e execução das ações, dos avanços e dos desafios para a implementação do 
+Pacto Nacional no âmbito distrital e de avaliação política do processo. A Câmara é coordenada pela 
+Secretaria de Estado da Mulher do Distrito Federal e conta com representantes dos seguintes órgãos
+de diversas secretarias do GDF, além do Conselho dos Direitos da Mulher do Distrito Federal; 
+Polícia Civil do Distrito Federal; Polícia Militar do Distrito Federal; Universidade de Brasília; 
+Defensoria Pública do Distrito Federal; Tribunal de Justiça do Distrito Federal e Territórios e 
+Ministério Público do Distrito Federal e Territórios.
+A Câmara caracteriza-se pela intersetorialidade e apresenta-se como responsável pela elaboração de 
+um plano de trabalho no âmbito do Distrito Federal para concretização do Pacto Nacional pelo 
+Enfrentamento da Violência Contra as Mulheres e, portanto, responde perante a Câmara Temática 
+Federal do Pacto Nacional como gestora estadual. A Câmara Distrital conta com um Planejamento 
+Integral Básico (PIB), que mapeia os serviços disponibilizados pela Secretaria de Estado da Mulher 
+e pelo Distrito Federal de modo mais amplo, apresenta o planejamento das ações do Pacto e 
+minudencia as articulações entre órgãos e entidades envolvidas no enfrentamento à violência contra 
+as mulheres no Governo do Distrito Federal. O Planejamento traz, ainda, um diagnóstico do Distrito
+Federal.
+4N BRASIL. Presidência da República. Secretaria de Políticas para as Mulheres. Plano Nacional de Políticas 
+para as Mulheres. Brasília: Secretaria de Políticas para as Mulheres, 2013. Disponível em 
+<http://www.compromissoeatitude.org.br/wp-content/uploads/2012/08/SPM_PNPM_2013.pdf>. Acesso 
+em 2 mar. 2016.
+
+O Planejamento Integral Básico traz o detalhamento dos Núcleos de Atendimento às Famílias e aos 
+Autores de Violência Doméstica (Nafavds), cuja atuação dirige-se a reeducar e responsabilizar o 
+agressor, por meio do trabalho com formas assertivas de lidar com conflitos que não por meio da 
+violência. Os núcleos observam o estabelecido na IV Conferência Mundial sobre a Mulher, 
+realizada em 1995, e concretizam o disposto nos artigos 35 e 45 da Lei Maria da Penha. Atualmente
+existem nove núcleos de atendimento distribuídos em diferentes Regiões Administrativas, sendo a 
+maioria localizada nas dependências do Ministério Público do Distrito Federal e Territórios, nos 
+termos de termo de cooperação celebrado em 2012, e alguns do Tribunal de Justiça do Distrito 
+Federal e dos Territórios, além de haver um nas instalações do próprio Poder Executivo. 
+Igualmente, o Planejamento Integral Básico menciona os Centros de Referência de Atendimento à 
+Mulher (Crams), a Casa Abrigo, a Central de Atendimento à Mulher (156) e o Programa Temático 
+6229, intitulado “Emancipação das Mulheres”, incluído no Plano Plurianual do Distrito Federal para
+o quadriênio 2012-2015. O PIB minudencia, inclusive, as ações orçamentárias, com suas 
+respectivas rubricas, que compõem o referido Programa Temático: 4240 - Desenvolvimento de 
+ações de defesa, garantia e ampliação dos direitos das mulheres; 4211 - Manutenção das unidades 
+de atendimento à vítima e ao agressor; 4213 - Desenvolvimento de ações relacionadas ao pacto de 
+enfrentamento à violência contra a mulher; 3227 - Rede Mulher; 3228 - Implantação dos centros de 
+referência da mulher.
+Atualmente, a Secretaria de Estado da Mulher do Distrito Federal atua sob dois eixos temáticos: (i) 
+políticas públicas para as mulheres; (ii) enfrentamento da violência contra a mulher. O segundo 
+eixo, que interessa mais amiúde ao presente protocolo, compõe-se dos temas próprios do 
+atendimento à população vítima de violência, não apenas à mulher, mas também seus dependentes 
+e, até mesmo, ao agressor. Os dois eixos, num feixe articulado e complexo, são indissociáveis como
+políticas locais de concretização do mandamento constitucional de coibir a violência contra a 
+mulher. Anote-se a relevância da articulação com a sociedade civil organizada, para além da atuação
+conjunta e integrada da rede intersetorial.
+Os eixos de ações do Pacto Nacional aplicado no Distrito Federal são os seguintes: Eixo I - Garantia
+da Aplicabilidade da Lei Maria da Penha; Eixo II - Ampliação e fortalecimento da rede de serviços 
+para as mulheres em situação de violência; Eixo III – Garantia da segurança cidadã e acesso à 
+justiça; Eixo IV - Garantia dos Direitos Sexuais e Reprodutivos, Enfrentamento à Exploração 
+Sexual e ao Tráfico de Mulheres; Eixo V - Garantia da Autonomia das Mulheres em Situação de 
+Violência e Ampliação de seus Direitos. Todos os eixos reclamam ações integradas de órgãos do 
+Poder Executivo local, mas igualmente do Poder Judiciário e das instituições essenciais à Justiça, 
+como o Ministério Público do Distrito Federal e Territórios e a Defensoria Pública do Distrito 
+Federal. 
+Ainda no âmbito da execução das políticas de enfrentamento da violência contra a mulher, vale 
+registrar que a Secretaria Adjunta de Políticas para as Mulheres, órgão integrante da Secretaria de 
+Estado do Trabalho, Desenvolvimento Social, Mulheres, Igualdade Racial e Direitos Humanos, 
+conta com três Coordenações para o planejamento, acompanhamento e execução de suas políticas: a
+Coordenação da Casa da Mulher Brasileira, que cuida da gestão da Casa da Mulher Brasileira; a 
+Coordenação de Enfrentamento à Violência contra as Mulheres, que articula e executa políticas de 
+acolhimento e promoção dos direitos das mulheres que estão em situação de violência doméstica e, 
+para tanto, gerencia a Casa Abrigo, os Centros Especializados de Atendimento às Mulheres (Ceam) 
+
+e os Núcleos de Atendimento à Família e Autores de Violência Doméstica (Nafavd) e a 
+Coordenação de Promoção de Políticas para as Mulheres, que desenvolve ações com o objetivo de 
+proporcionar a autonomia econômica das mulheres e realiza ainda ações no campo da educação e 
+pesquisa de gênero. 
+Anote-se, ainda, no âmbito distrital, a presença do Conselho dos Direitos da Mulher do Distrito 
+Federal (CDM-DF), criado pelo Decreto 11.036 de 9 de março de 1988. O Conselho tem por 
+finalidade assegurar à mulher o exercício pleno de sua participação e protagonismo no 
+desenvolvimento econômico, social, político e cultural do DF, na perspectiva de sua autonomia e 
+emancipação. Para tanto, propõe políticas públicas, visando a garantir, consolidar e ampliar os 
+direitos das mulheres; incentiva e apoia a organização e a mobilização das mulheres; promove e 
+desenvolve estudos, debates e pesquisas relativas à mulher e coopera com os órgãos governamentais
+na elaboração e realização de programas de interesse da mulher, propondo medidas objetivas nas 
+áreas da saúde, educação, materno-infantil, cultura, comunicação, trabalho, movimentos sociais, 
+jurídica, político-institucional e no zelo pelos interesses e direitos das mulheres, fiscalizando e 
+fazendo cumprir a legislação pertinente. O CDM-DF é composto por 46 conselheiras titulares, 
+sendo 17 representantes do poder público, por 24 representantes da sociedade civil, que formam a 
+maioria das mulheres membros do Conselho, além de cinco membros de notório saber.
+À luz de todos os diplomas normativos relacionados ao enfrentamento à VDFM, os órgãos de 
+segurança pública, Ministério Público, e rede distrital de enfrentamento à violência doméstica e 
+familiar contra a mulher devem desenhar e implementar programas de sensibilização e formação 
+inicial e continuada em questões relativas à investigação com perspectiva de gênero e atenção 
+integral à mulher em situação de VDF, direitos humanos das mulheres e questões de gênero, 
+igualdade, não discriminação para membros e servidores/as do Ministério Público, bem como 
+policiais e demais servidores públicos, qualquer que seja a tarefa que desempenhem na instituição. 
+Entre as atividades formativas, incluir-se-ão ferramentas de autocuidado.
+Também devem impulsionar a protocolização, formalização e padronização dos mecanismos de 
+coordenação interinstitucional, investigação e de atenção integral, seus processos e trâmites, como 
+meio para garantir o seu funcionamento para além das pessoas que os impulsionam ou sustentam.
+3. INVESTIGAÇÃO COM PERSPECTIVA DE GÊNERO
+3.1. Registro de casos de violência doméstica e familiar contra a mulher
+No registro dos casos de violência doméstica contra a mulher, deverão ser anotadas, entre outras, as 
+seguintes informações: dados de identificação da pessoa em situação de violência doméstica e 
+familiar e também do suposto agressor, tais como: nome próprio e familiar, número do documento 
+de identidade ou passaporte, residência ou dados para a sua localização, data e local de nascimento, 
+nacionalidade, sexo, pertencimento a comunidade indígena ou minoria, se é migrante ou deslocada 
+interna, estado civil, se possui filha/o(s) e ocupação, bem como outras circunstâncias de saúde, 
+incapacidade física ou psíquica, sociais, econômicas ou culturais que possam dificultar o acesso da 
+ofendida à justiça, aumentar a dependência em relação ao agressor ou aumentar o risco de sofrer 
+novo ataque à sua integridade, ou que possam influenciar no cometimento do fato ou aumentar o 
+risco de reiteração da violência. 
+
+O registro deverá permitir ter conhecimento do percurso dos registros ou avisos de atos de violência
+doméstica e familiar contra a mulher e dar seguimento aos referidos processos, para identificar o 
+caminho crítico das mulheres em situação de violência doméstica e familiar: a identificação e 
+contato da autoridade que registra a ocorrência, o tipo de violência envolvida, as medidas cautelares
+ou de proteção tomadas, com data de início e de fim, o desempenho e as medidas promotoras de 
+investigação, particularmente aquelas que encerram a investigação, quer seja por arquivamento, 
+extinção da punibilidade ou acusação. Havendo acusação, dever-se-á incluir a sentença prolatada, a 
+tipificação penal e a pena imposta. 
+O Ministério Público constituirá registro de agressores que será suscetível de consulta pelos demais 
+promotores/as de Justiça, permitindo-lhes conhecer as medidas cautelares ou de proteção adotadas. 
+O Ministério Público identificará os expedientes de promotoria abertos por crimes de violência 
+doméstica e familiar contra a mulher de forma que seja possível lhes dar a prioridade necessária na 
+sua tramitação. Se for o caso, indicar-se-á a condição de vulnerabilidade da mulher em situação de 
+violência doméstica e familiar, quer seja devido à sua idade, incapacidade, pertencimento a 
+comunidades indígenas ou minorias, sua condição de pessoa migrante ou deslocada interna ou 
+pessoas com especiais dificuldades de acesso à justiça por circunstâncias sociais, econômicas ou 
+culturais. 
+O Ministério Público, em coordenação com as instituições implicadas na prevenção, assistência, 
+investigação e sanção da violência doméstica e familiar contra a mulher, deverá colaborar para a 
+criação de um sistema de registro único dos casos de violência de gênero e de concessão de medidas
+protetivas, que melhore a coordenação e a homogeneização do tratamento das informações relativas
+às mulheres em situação de violência doméstica e familiar.
+3.2. Elaboração de estatísticas desagregadas por sexo e outras variáveis
+O Ministério Público do Distrito Federal e Territórios, em coordenação com a Polícia Civil do 
+Distrito Federal, o Tribunal de Justiça do Distrito Federal e Territórios e a rede distrital de 
+atendimento e assistência à mulher em situação de violência doméstica e familiar, implementará 
+sistema estatístico que permita analisar a evolução da criminalidade por razões de gênero, sirva 
+como subsídio para elaborar estratégias de políticas gerais e setoriais adequadas e oportunas para 
+defesa eficiente da mulher em situação de violência doméstica e familiar.
+O sistema de registro estatístico deverá permitir, na medida do possível, a quantificação dos crimes 
+atendendo às seguintes variáveis e indicadores: sexo; idade; cor e raça; orientação sexual; 
+pertencimento a comunidade indígena ou minoria; pessoa deficiência, condição de migrante, 
+deslocado interno, estrangeiro ou pessoa em situação de rua; relação entre a mulher em situação de 
+violência doméstica e familiar e suposto agressor; filho(s) menor(es) em comum; tipo de violência 
+realizada; uso de arma(s); existência de registros de ocorrência ou denúncias prévias por fatos 
+semelhantes; medidas protetivas de urgência e cautelares concedidas. 
+Incluir-se-á também a referência a fatores de dependência da mulher em situação de violência 
+doméstica e familiar em relação ao suposto agressor, sejam eles de natureza econômica ou qualquer 
+outra.
+O registro estatístico deverá igualmente permitir dar seguimento periódico ao número de denúncias 
+oferecidas, de denúncias rejeitadas e de arquivamentos promovidos, condenações, absolvições e de 
+
+procedimentos que deixaram de ter continuidade em razão da ausência de colaboração da mulher 
+em situação de violência doméstica e familiar, seja porque não registra ocorrência, porque manifesta
+não ter interesse em seguir o procedimento ou porque desiste, após o seu início.
+Dentro de suas atribuições, o Ministério Público elaborará um registro das mulheres mortas por ato 
+de violência doméstica e familiar contra a mulher, quantificando os indicadores de avaliação de 
+risco.
+O Ministério Público, por iniciativa própria ou em coordenação com as demais instituições, 
+elaborará e publicará anualmente os dados estatísticos obtidos, para que sirvam de subsídios para a 
+tomada de decisões e formulação de políticas repressivas (voltadas à diminuição da impunidade) e 
+preventivas, bem como o aperfeiçoamento do sistema de atendimento e apoio à mulher.
+3.3 Avaliação de risco
+A avaliação de risco é um instrumento utilizado para mensurar a possibilidade de reiteração de 
+violência e letalidade. Avaliar risco significa investigar fatores de risco com objetivo de orientar 
+decisões de modo a reduzir ou eliminar a possibilidade de ocorrer novas violências. Consiste na 
+aplicação formal de instrumentos, que podem se assentar em abordagens distintas. Seu objetivo 
+crucial, no âmbito da violência de gênero, é indicar a natureza do risco que um autor representa para
+uma mulher e a probabilidade que ele tem de repetir a violência ou praticá-la de forma mais severa.
+Há diversos instrumentos internacionais usados para mensurar tal risco, como o Spousal Assault 
+Risk Assessment (Sara) e o Brief Spousal Assault Form for the Evaluation of Risk (B-Safer). No 
+Brasil ainda não existe validação científica desses instrumentos, tampouco a criação de um sistema 
+próprio. Nessa esteira, deverão ser envidados esforços no âmbito do Distrito Federal para que seja 
+validado ou construído do ponto de vista científico um procedimento de avaliação de risco a ser 
+utilizado pelo sistema de justiça com o objetivo de prevenir a violência e a letalidade de mulheres 
+no âmbito doméstico no Brasil. 
+É necessário que se dê prioridade à construção de um sistema de avaliação objetivo, a fim de que 
+possa ser utilizado num primeiro momento pelas forças de segurança pública e alternativamente 
+pelo Ministério Público. Nada obsta que sejam manejados num mesmo caso instrumentos outros de 
+exame de risco, inclusive mais complexos, seja por equipes psicossociais, seja pelo sistema de 
+saúde. Isto porque o risco é sabidamente volátil e pode sofrer alterações de intensidade ao longo do 
+tempo. Deve haver outros exames de risco, dado que o que é confeccionado quando da entrada da 
+mulher no sistema de justiça apresenta-se apenas como um recorte de um fenômeno, sabidamente 
+complexo e não estático.
+No Distrito Federal, a rede distrital de enfrentamento à violência doméstica elaborou um 
+questionário, cujo conteúdo segue anexo, como forma de apontar a existência de uma situação de 
+risco que mereça especial atenção do sistema de justiça. Este questionário procura qualificar as 
+informações constantes do procedimento e consiste em um instrumento relevante de alerta ao 
+sistema de justiça de que a situação da mulher que aciona a segurança pública pode ser grave e 
+demanda especial cuidado.
+O questionário em tela deverá ser preenchido pela vítima quando do registro de ocorrência na 
+Delegacia de Polícia. À míngua de preenchimento nesta fase, é possível que um promotor de Justiça
+ou servidor público o faça, após ter recebido treinamento específico. 
+
+A partir da quantidade de respostas às perguntas do questionário, deverá ser elaborada uma 
+estratégia individualizada de gestão pelo promotor de Justiça, com o objetivo de melhor proteção da
+vítima. 
+Caso se entenda que se trata de situação de provável risco extremo, sugerem-se as seguintes 
+medidas: (i) encaminhamento do caso ao Provid/PMDF, para acompanhamento; (ii) 
+encaminhamento do caso ao serviço psicossocial de atenção às mulheres (Ceam, Nafavd, Creas, 
+PAV, outros), para busca ativa e atribuição de prioridade; (iii) encaminhamento do caso à comissão 
+circunscricional de enfrentamento à violência doméstica e familiar contra a mulher, para estudo do 
+caso; (iv) avaliar se é o caso de decretação de prisão preventiva do agressor, independentemente de 
+prévio descumprimento de medidas protetivas de urgência; (v) avaliar a conveniência de 
+manutenção de medidas protetivas de urgência mesmo em caso de a vítima não colaborar com a 
+investigação criminal ou afirmar não desejá-las; (vi) avaliar a desconsideração de eventual 
+retratação à representação da vítima em caso de crime de ameaça; (vii) avaliará a conveniência de 
+se requerer a produção antecipada de provas relativa ao depoimento da vítima, diante do risco 
+concreto de pressões sobre a vítima para a sua retratação.
+Caso se entenda que se trata de situação de provável risco grave, sugere-se o encaminhamento do 
+caso ao serviço psicossocial de atenção às mulheres (Ceam, Nafavd, Creas, PAV, outros), para 
+tentativa de contato telefônico. Conforme a gravidade e as especificidades, se avaliarão outras 
+medidas adequadas ao caso.
+Caso se entenda que se trata de situação de provável risco extremo, sugerem-se as seguintes 
+medidas: (i) avaliação com a vítima da necessidade de seu encaminhamento à Casa Abrigo; () 
+encaminhamento do caso ao Provid/PMDF, para acompanhamento; () encaminhamento do caso ao 
+Programa de Celular de Socorro da SSP; (ii) encaminhamento do caso ao serviço psicossocial de 
+atenção às mulheres (Ceam, Nafavd, Creas, PAV, outros), para busca ativa; () atribuição de 
+prioridade nos diversos serviços, inclusive intimações judiciais; () avaliação da necessidade de 
+encaminhamento do suposto agressor a programa de reflexão psicossocial (NAFAVD, SERAV, 
+Faculdades); (iii) encaminhamento do caso à comissão circunscricional de enfrentamento à 
+violência doméstica e familiar contra a mulher, para estudo do caso; (iv) avaliar se é o caso de 
+decretação de prisão preventiva do/a agressor/a, independentemente de prévio descumprimento de 
+medidas protetivas de urgência; (v) avaliar a conveniência de manutenção de medidas protetivas de 
+urgência mesmo em caso de a vítima não colaborar com a investigação criminal ou afirmar não 
+desejá-las; (vi) avaliar a desconsideração de eventual retratação à representação da vítima em caso 
+de crime de ameaça; (vii) avaliará a conveniência de se requerer a produção antecipada de provas 
+relativa ao depoimento da vítima, diante do risco concreto de pressões sobre a vítima para a sua 
+retratação.
+Caso se entenda que se trata de situação de provável risco grave, sugere-se (i) encaminhamento do 
+caso ao serviço psicossocial de atenção às mulheres (CEAM, NAVAFD, CREAS, PAV, outros), para
+tentativa de contato telefônico avaliação da necessidade de encaminhamento do suposto agressor a 
+programa de reflexão psicossocial (NAFAVD, SERAV/TJDFT, Faculdades); (ii) avaliar 
+conveniência de realização de estudo psicossocial e monitoração da evolução da situação de risco 
+pelo Serviço Psicossocial do Sistema de Justiça (SEPSI/MPDFT, SERAV/MPDFT, DAP/DP); (iii) 
+
+deferimento das medidas protetivas de urgência e continuidade do processo criminal. Conforme a 
+gravidade e as especificidades, se avaliarão outras medidas adequadas ao caso. 
+Caso se entenda que se trata de situação de provável risco moderado, sugere-se (i) encaminhamento 
+de informações à vítima sobre a rede de apoio psicossocial local, para demanda espontânea 
+(Delegacia de Polícia, Ministério Público, Judiciário); (ii) avaliação da necessidade de 
+encaminhamento do suposto agressor a programa de reflexão psicossocial (NAFAVD, 
+SERAV/TJDFT, Faculdades); (iii) deferimento das medidas protetivas de urgência e continuidade 
+do processo criminal. 
+Todos os casos de violência doméstica e familiar contra a mulher são reconhecidos como violações 
+de direitos humanos e devem merecer atenção por parte dos órgãos públicos relacionados à garantia
+de direitos. Mesmo casos avaliados como de risco moderado devem ter a adequada concessão de 
+medidas protetivas de urgência ou a atuação de proteção, no âmbito das atribuições dos órgãos 
+públicos. Especial atenção deve ser dada para não se subestimar a violência psicológica, que muitas 
+vezes não possui tipos penais adequados para retratar sua gravidade, todavia possui grave impacto 
+no adoecimento orgânico e mental de mulheres e na fragilização dos vínculos familiares e 
+comunitários. Casos de risco moderado podem evoluir para riscos mais elevados se não contarem 
+com a adequada intervenção.
+O MPDFT se incumbirá de produzir material que acompanhe o formulário de avaliação de risco, 
+explicando os fatores de risco e indicando as etapas de atuação do sistema de justiça em caso de 
+situação de gravidade extrema.
+3.4. Unidades especializadas do Ministério Público na investigação de crimes de violência 
+doméstica e familiar contra a mulher
+O princípio fundamental na investigação dos crimes de violência doméstica e familiar contra a 
+mulher é a especialização do atendimento e atuação das instituições e órgãos da persecução 
+criminal. Pela natureza dos crimes e as condições de especial vulnerabilidade das mulheres em 
+situação de VDF, são necessárias abordagem e atenção especializadas e definidas a respeito do 
+contexto da violência.
+O MPDFT possui atualmente 40 Promotorias de Justiça de Defesa da Mulher em Situação de 
+Violência Doméstica, de atribuição exclusiva ou cumulativa. Tais Promotorias de Justiça realizam o 
+acompanhamento de investigações de crimes de violência de gênero. Na linha das Diretrizes 
+Nacionais de investigação criminal com perspectiva de gênero, o MPDFT deve fortalecer de forma 
+progressiva e constante as referidas unidades para dotá-las dos meios humanos, materiais e técnicos 
+necessários. Também se reconhece a conveniência de criação de Procuradorias de Justiça 
+especializadas em delitos de violência doméstica e familiar contra a mulher.
+O MPDFT possui o Núcleo de Gênero, com atuação em nível distrital para a “formulação e 
+implementação de políticas públicas de promoção da igualdade de gênero, na conscientização sobre 
+os efeitos pessoais e sociais negativos da violência contra a mulher, no reconhecimento dos seus 
+direitos e garantias, recebendo representações, notícias de crime e quaisquer outros expedientes 
+relativos à violência contra a mulher [...]”, podendo ainda “exercer o controle externo da atividadefim policial perante a Delegacia Especial de Atendimento à Mulher (Deam)”. Também tem como 
+atribuição promover a articulação interna e representar institucionalmente o MPDFT em discussões 
+
+externas relacionadas a sua área de atuação, em especial campanhas educativas, promover a 
+interação interinstitucional do MPDFT, produzir estudos, pesquisas e seminários, prestar apoio 
+operacional aos membros do MDPFT, bem como “expedir recomendações a órgãos e entidades 
+públicas e privadas, com vistas ao aperfeiçoamento e desenvolvimento das atividades positivas e 
+proativas ligadas à sua área de atuação” (Portaria 1.572/2005 – PGJ/MPDFT). Reconhece-se a 
+relevância de fortalecer a atuação de um membro com dedicação exclusiva às atividades do Núcleo 
+de Gênero.
+Os integrantes das Promotorias de Justiça especializadas e o Núcleo de Gênero devem realizar 
+reuniões periódicas, para avaliar, aperfeiçoar e uniformizar a sua atuação, respeitada a 
+independência funcional, visando a maximização da proteção da mulher em situação de violência. 
+Após tais encontros temáticos, convém que haja uma postura ativa da Câmara de Coordenação e 
+Revisão na edição de enunciados de coordenação (LC n. 75/1993, art. 171, inciso I).
+O MPDFT deverá procurar a formação inicial e contínua necessária para que todos/as os/as 
+membrose servidores/as do Ministério Público recebam formação para atuar com perspectiva de 
+gênero, realizando atendimento, atenção, abordagem e trâmite especializados e diferenciados.
+As diversas denúncias por crimes de VDFcM relacionadas à mesma vítima serão reunidas, de forma
+prioritária, com o/a mesmo/a promotor/a de Justiça especializado/a, com o apoio de servidores/as do
+Ministério Público com formação específica na matéria.
+As dependências da Promotoria de Justiça de Defesa da Mulher em Situação de Violência 
+Doméstica deverão ser preparadas fisicamente para garantir a proteção da mulher, a não 
+confrontação com o/a suposto/a agressor/a ou outras testemunhas, bem como para criar espaços que
+facilitem a confiança no sistema de Justiça. Poder-se-á preparar salas de espera para facilitar a 
+presença da mulher em situação de VDF em companhia de sua/eu(s) filha/o(s), seja(m) ela/e(s) 
+criança(s) e/ou adolescente(s). O setor de atendimento ao público da Promotoria de Justiça 
+circunscricional deverá receber especial capacitação para lidar com os temas de VDFcM.
+As Promotorias de Justiça de Defesa da Mulher em Situação de Violência Doméstica contarão com 
+o apoio especializado do Setor de Trabalho Psicossocial (Setps/MPDFT), para o acolhimento de 
+mulheres vítimas de violência e para o assessoramento nas áreas de psicologia e serviço social 
+(Portaria 252/2013 – PGJ e Resolução n. 210/2016 – CSMPDFT). Também poderão trabalhar 
+coordenadamente com órgãos externos de atenção à vítima, prestada por serviços públicos ou 
+organismos privados responsáveis pelo apoio às mulheres e às demais vítimas de crimes.
+3.5. Unidades especializadas de polícia na investigação de crimes de violência doméstica e 
+familiar contra as mulheres 
+À Delegacia Especial de Atendimento à Mulher (Deam/PCDF) compete reprimir e investigar os 
+crimes praticados contra a mulher em todo o Distrito Federal. A Deam funciona em regime de 
+plantão ininterrupto. Também existem Seções de Atendimento à Mulher (SAM) em cada Delegacia 
+de Polícia circunscricional, que funcionam no horário cartorário (segunda a sexta-feiras, turnos 
+matutino e vespertino). As atribuições da Deam são exercidas sem prejuízo das providências a 
+serem adotadas pelas Delegacias Circunscricionais, em especial por meio das Seções de 
+Atendimento à Mulher (SAM).
+
+São diretrizes norteadoras das Deams: a primazia dos direitos humanos; a igualdade, não 
+discriminação e o direito a uma vida sem violência; o atendimento integral; a celeridade; o acesso à 
+Justiça. 
+Pela natureza dos crimes e as condições de especial vulnerabilidade das mulheres em situação de 
+violência doméstica e familiar, é necessária uma abordagem e atenção especializadas.
+A(o) delegada(o) de polícia deverá (Lei 11.340/2006, art. 11):
+I - garantir proteção policial, quando necessário, comunicando de imediato ao Ministério Público e ao Poder Judiciário.
+II - encaminhar a mulher aos estabelecimentos de saúde e ao Instituto Médico Legal. 
+III - fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver risco de vida.
+IV - acompanhá-la para a retirada de seus pertences quando necessário.
+V - informá-la de seus direitos e sobre os serviços disponíveis. 
+3.6. Sensibilização, formação e capacitação em gênero e investigação com perspectiva de 
+gênero
+O Ministério Público do Distrito Federal e Territórios, por meio do Núcleo de Gênero, manterá 
+diálogo com as polícias civil e militar, e redes sociais e de saúde, para que tais instituições e órgãos 
+incluam, nos seus projetos de cursos de formação e aperfeiçoamento, atividades de sensibilização 
+em gênero e capítulos específicos sobre os crimes de violência doméstica e familiar contra a 
+mulher, questões relacionadas com a igualdade e a não discriminação, a investigação criminal e 
+pericial com perspectiva de gênero, medidas protetivas de urgência e outras cautelares, reparação de
+danos, bem como o conceito de gênero, os direitos das mulheres e a violência doméstica e familiar 
+contra a mulher. 
+Recomenda-se que a sensibilização de gênero e conteúdo específicos sobre crimes de violência de 
+gênero, incluindo a doméstica e familiar contra a mulher seja efetivada de forma contínua e 
+progressiva, de maneira que todos os membros do Ministério Público, independentemente da sua 
+ocupação e cargo, recebam formação e sensibilização em gênero, igualdade e não discriminação. As
+referidas atividades formativas deverão também ser destinadas aos postos de chefia e 
+responsabilidade dentro das Promotorias de Justiça, para generalizar a sensibilização dos membros, 
+servidores ou servidoras do Ministério Público para a igualdade de gênero, bem ao pessoal a serviço
+das instituições e órgãos da persecução criminal especializadas, aos prestadores ou prestadoras de 
+serviços terceirizados ou de qualquer outra natureza, como meio de facilitar o tratamento próximo e 
+de confiança às mulheres em situação de violência doméstica e familiar.
+Essa formação deve ser abordada dentro de uma perspectiva interdisciplinar que permita o 
+entendimento e a abordagem integral da violência doméstica e familiar praticada contra a mulher, 
+de modo a eliminar preconceitos e outras práticas habituais que são baseados na ideia da 
+inferioridade ou superioridade de qualquer um dos sexos ou em funções estereotipadas de homens e
+mulheres que legitimem ou exacerbem a violência contra as mulheres.
+
+Na formação dos membros do MPDFT e servidores ou servidoras públicos que realizam 
+atendimento à mulher será abordada a necessidade de acolhida humanizada, com utilização da 
+escuta ativa, empatia e posição próxima e respeitosa de forma a se evitar a naturalização da 
+violência e a revitimização da vítima, além de examinar com ela o problema de forma objetiva, não 
+minimizar nem dramatizar os fatos e circunstâncias, de modo a ajudá-la na tomada de decisões, com
+atenção ao estado emocional da mulher em situação de violência doméstica e familiar, de forma a 
+não se julgar sua decisão na hipótese de seu desinteresse em comunicar os fatos delituosos ou em 
+eventual retratação posterior.
+As atividades de formação poderão incluir orientações de autocuidado destinadas a todos servidores
+ou servidoras e membros do MPDFT que trabalhem no acolhimento, assessoramento e 
+acompanhamento dos casos de violência doméstica e familiar contra a mulher. O objetivo destas 
+atividades será prevenir e tratar situações de estresse derivadas do trabalho continuado com 
+mulheres em situação de violência doméstica e familiar e que afetam negativamente a saúde da(o)s 
+profissionais e a atenção que prestam às referidas mulheres e aos seus familiares, bem como evitar 
+preconceitos e estereótipos na abordagem continuada destes temas.
+O Núcleo de Gênero articulará com os órgãos da Administração Superior para a realização de 
+estudos sobre a necessidade de se fomentar a formação continuada de membros que solicitem 
+remoção a uma Promotoria de Violência Doméstica contra a Mulher, com curso sobre as relações de
+gênero e violência doméstica e familiar contra a mulher, seja como pré-requisito à remoção ou 
+como condição posterior, bem como com rotinas de fomento ao aperfeiçoamento rotineiro do 
+membro que atue nessa aérea. Para tanto, poderão ser desenvolvidos cursos em plataforma EAD em
+parceria com a ESMPU.
+3.7. Direitos das mulheres em situação de violência doméstica e familiar: informação, 
+participação e acompanhamento ao longo do processo
+As instituições com atuação em violência doméstica e familiar contra a mulher deverão:
+a) Facilitar às mulheres em situação de violência doméstica e familiar, o exercício do direito à 
+defesa e à assistência jurídica gratuita.
+Enunciado nº 16 (002/2014) - Copevid. Nas audiências de conciliação das Varas de
+Família, sendo constatado que a mulher é vítima de violência doméstica, caso não
+esteja assistida por advogado exclusivo, ser-lhe-á nomeado um defensor público ou
+dativo, a fim de preservar seus direitos diante de sua reconhecida hipossuficiência e
+vulnerabilidade, sendo recomendável a presença do órgão do Ministério Público,
+independentemente da existência de filhos menores ou incapazes, nos termos do artigo 82, III, do CPC c/c artigo 25 da Lei Maria da Penha.
+b) Favorecer às mulheres em situação de violência doméstica e familiar o direito de realizar suas 
+declarações utilizando seu próprio idioma, fornecendo intérprete ou sendo assistida por terceira 
+pessoa.
+c) Adotar ou solicitar as medidas protetivas de urgência ou cautelares que sejam pertinentes.
+Enunciado nº 004/2011 - Copevid. As Medidas de Proteção foram definidas como
+tutelas de urgência, sui generis, de natureza cível e/ou criminal, que podem ser deferidas de plano pelo juiz, sendo dispensável, a princípio, a instrução, podendo perdurar enquanto persistir a situação de risco da mulher. 
+
+O Ministério Público deve ter uma postura ativa na hipótese de descumprimento das medidas 
+protetivas de urgência, recebendo as comunicações encaminhadas pela vítima e diligenciando 
+diretamente a produção de prova necessária a subsidiar requerimento de aplicação de medida 
+cautelar mais gravosa, como a prisão preventiva. É recomendável a estruturação de um roteiro de 
+atuação da Promotoria de Justiça nesses casos.
+d) Fornecer às mulheres em situação de violência doméstica e familiar informações e possibilitar 
+sua oitiva, levando em conta a sua opinião e possibilitando a sua participação nas fases de 
+investigação e judicial. Para assegurar a participação da vítima, deve ser conferida assistência e 
+acompanhamento necessários.
+Para isso, o Ministério Público será dotado de unidades de apoio às mulheres em situação de 
+violência doméstica e familiar ou atuará com os serviços de apoio. 
+No Distrito Federal há uma ampla rede de atendimento, que presta suporte nas áreas Jurídica e 
+psicossocial, a saber: Central de Atendimento à Mulher, Centro Especializado de Atendimento à 
+Mulher, Núcleo de Defesa da Mulher na Defensoria Pública (Fórum Leal Fagundes), Delegacia 
+Especial de Atendimento à Mulher (Deam), Casa da Mulher Brasileira (CMB), Núcleo de Gênero 
+do MPDFT, Centro Judiciário da Mulher do TJDFT, Subsecretaria de Políticas para as Mulheres da 
+Sedestmidh/GDF, Programas de Atenção Integral às Pessoas em Situação de Violência – PAV’s, 
+Pró-Vítima, Centros de Referência Especializados de Assistência Social (Creas), Núcleos de 
+Atendimento às Famílias Vítimas de Violência (Nafavds).
+o MPDFT, além das Promotorias Especializadas em Violência Doméstica e Familiar contra a 
+Mulher, foram criados os Setores de Análise Psicossocial (Setps), os quais realizam, dentre outras 
+atribuições, os acolhimentos de mulheres em situação de violência doméstica, com a elaboração dos
+respectivos relatórios técnicos para as promotorias demandantes. Sejam eles de natureza individual 
+ou coletiva, os acolhimentos têm por objetivo oferecer um espaço de escuta e reflexão, conhecer o 
+histórico relacional e identificar os fatores de risco e proteção existentes no contexto sociofamiliar, 
+bem como orientar em relação aos direitos previstos na Lei 11.340/2006 – Lei Maria da Penha, 
+procedendo aos encaminhamentos à rede de serviços.
+Referidas unidades de apoio às mulheres em situação de violência doméstica e familiar, do 
+Ministério Público, serão encarregadas de avaliar o risco que a mulher em situação de violência 
+doméstica e familiar corre, bem como informar à mulher sobre as medidas protetivas de urgência ou
+cautelares adotadas. 
+O MPDFT possui ainda o Projeto de Proteção Integral à Mulher em Situação de Violência 
+Doméstica e Familiar, com a finalidade de disponibilizar o acesso aos serviços públicos de 
+proteção, monitorar a evolução dos casos de risco e assegurar protocolos de intervenção eficientes. 
+O protocolo é proposto como uma diretriz de atuação aos diversos parceiros. 
+e) Proteger a intimidade da mulher, garantindo a confidencialidade das atuações.
+f) Oferecer tratamento humanizado, evitando a revitimização.
+g) Realização de provas periciais por profissional especializado, assegurada a manifestação de 
+vontade da vítima. 
+
+3.8. Atenção às mulheres particularmente vulneráveis em situação de violência doméstica e 
+familiar
+As instituições e órgãos da persecução criminal adotarão as medidas necessárias para facilitar e 
+priorizar o acesso à justiça das mulheres em situação de violência doméstica e familiar que se 
+encontrem em situação de especial vulnerabilidade, quer devido à sua idade, incapacidade, 
+pertencimento a comunidades indígenas ou minorias, sua condição de pessoa migrante ou deslocada
+interna, quer devido ao fato de possuir especiais dificuldades de acesso à justiça por circunstâncias 
+geográficas, sociais, econômicas ou culturais, ou pela condição de trabalho ou emprego.
+Para se garantir às mulheres em situação de violência doméstica e familiar particularmente 
+vulneráveis a proteção devida ao longo da investigação e do processo, desde o momento em que o/a
+promotor/a de Justiça tenha conhecimento da violência doméstica e familiar contra mulher em 
+situação de vulnerabilidade, solicitar-se-á a intervenção imediata da unidade de apoio à mulher em 
+situação de violência doméstica e familiar (Setps/MPDFT, Serav/TJDFT ou DAP/Defensoria) ou 
+dos serviços descentralizados (Ceam, Nafavd) para pôr em funcionamento os sistemas de 
+atendimento, atenção e proteção e de acompanhamento individualizado em coordenação com outras
+instituições.
+Para cada grupo vulnerável específico, devem ser adotadas medidas especiais de proteção.
+(a) Crianças e adolescentes em situação de violência doméstica e familiar
+A violência contra crianças e adolescentes pode ser direta ou indireta, entendendo-se nessa última 
+hipótese que quando se pratica uma agressão contra a genitora da criança ou adolescente em sua 
+presença, esta também é indiretamente vítima de violência psicológica, merecendo as necessárias 
+ações de proteção.
+As investigações em que intervenham crianças e adolescentes terão preferência no apoio, evitandose esperas e qualquer forma de revitimização, sendo que as entrevistas devem ser breves e em 
+linguagem simples, observando-se que qualquer diligência será realizada de forma privada e com 
+auxílio de perita/os ou profissionais especializada/os, particularmente no caso de crianças, menores 
+de 12 (doze) anos, com a observância do ordenamento jurídico brasileiro quanto ao direito de tais 
+pessoas serem acompanhadas nas diligências por um/a representante legal, um/a representante do 
+Ministério Público, da instituição pública responsável pelo apoio e proteção à infância e 
+adolescência ou um/a assistente social ou psicólogo/a, que garantam sua proteção e lhe deem 
+confiança ao longo do procedimento.
+No caso de violência doméstica e familiar contra criança ou adolescente, evitar-se-á a intervenção 
+de familiares ou terceiros que possam coagir a(s) vítima(s) em sua declaração, bem como qualquer 
+confrontação com o suposto agressor, além de tentar-se acondicionar os espaços físicos para tal fim 
+e evitar-se o agendamento dos encontros do suposto agressor e da criança e/ou adolescente para a 
+mesma hora e local, com a preservação do sigilo das informações e identidade da(s) vítima(s).
+O Ministério Público zelará para realização das declarações de crianças e adolescentes em situação 
+de VDF utilizando metodologia da oitiva especial (Recomendação nº 33/2010, CNJ), diante sistema
+de videoconferência intermediado por profissional capacitada/o, com a finalidade de assegurar o seu
+bem-estar físico e psicológico, a sua dignidade e a sua privacidade, bem como das testemunhas, 
+evitando possível revitimização.
+
+Este procedimento de oitiva especial é especialmente relevante nos crimes contra a dignidade 
+sexual das crianças e adolescentes, bem como sempre que recomendado por profissional técnico 
+interdisciplinar. Como forma de minimizar os danos, será priorizada a produção antecipada de 
+provas, com a oitiva especial da criança ou adolescente em juízo, observada a necessidade de 
+informações e o consentimento da vítima para a realização de exames físicos, psicológicos, e 
+demais perícias, com respeito a suas opiniões e vontades, sem indução ou pressão, mesmo nas 
+hipóteses de silêncio ou retratação. Preferencialmente a Delegacia de Polícia evitará a oitiva da 
+criança ou adolescente e representará ao Ministério Público para o ajuizamento da ação cautelar de 
+produção antecipada de prova. Durante essa oitiva antecipada, devem ser levantados os dados 
+relevantes para outras possíveis intervenções do sistema de justiça, na área de família e infância e 
+juventude, aproveitando-se tal oitiva naqueles outros juízos. Em todas as hipóteses haverá 
+encaminhamento do caso para os serviços de apoio às mulheres em situação de violência doméstica 
+e familiar e de proteção à infância e à adolescência, especialmente o Conselho Tutelar.
+Conforme prévio acordo com a Promotoria de Justiça de Defesa da Infância e Juventude, o 
+abrigamento de adolescentes vítimas de violência doméstica praticada por parceiro íntimo será 
+feito, preferencialmente, em instituições de abrigamento de adolescentes, em circunscrição distinta 
+do anterior local da residência da adolescente, com comunicação ao Conselho Tutelar e à Vara da 
+Infância e Juventude, acionando-se os serviços especializados de atendimento às mulheres em 
+situação de violência doméstica. Em situações de grave risco à vida poderá ser acionado o Programa
+de Atenção às Crianças e Adolescentes Ameaçados de Morte – PPCAAM/DF (Decreto Federal n. 
+6.231/2007), mediante articulação com a Promotoria de Justiça de Defesa da Infância e Juventude.
+(b) Mulheres idosas
+O MPDFT diligenciará junto às instituições e os órgãos de persecução criminal, e outras entidades 
+competentes, para que sejam cautelosos em relação às mulheres idosas semelhantes às já 
+mencionadas para as crianças e adolescentes. Portanto, atuará com prontidão na investigação, 
+simplicidade nas entrevistas, evitando a confrontação com o suposto agressor, acondicionando os 
+espaços físicos para ganhar a confiança da mulher idosa em situação de violência doméstica e 
+familiar e assegurando a privacidade das atuações. Aplica-se a Lei 11.340/2006 para as mulheres 
+idosas (Enunciado nº 11, 004/2012, Copevid). Caso a idosa esteja em situação de abandono social, é
+possível o acionamento da Central do Idoso para as ações de proteção cabíveis.
+Os processos envolvendo mulheres idosas tramitarão em regime de preferência legal (art. 71, caput,
+da Lei 10.741/2003 – Estatuto do Idoso).
+ (c) Mulheres com deficiência
+O MPDFT considerará a heterogeneidade do grupo social de mulheres com deficiência, 
+principalmente quando se tratar de mulheres com deficiência intelectual, visual, auditiva ou oral, 
+mulheres com mobilidade reduzida, com doença mental ou mesmo mulheres que apresentem mais 
+de um tipo de necessidade especial ou específica, bem como eliminará todos os obstáculos 
+necessários ao atendimento das mulheres com deficiência, incluindo a eliminação de barreiras 
+físicas, a observação das normas de acessibilidade e disponibilização de ajudas técnicas (intérpretes 
+de língua gestual, p. ex.) para facilitar o acesso à justiça deste grupo de mulheres (Lei 13.146/2015,
+Lei 7.853/1989 e Decreto Federal 3.298/1999).
+
+ (d) Mulheres pertencentes a povos e comunidades indígenas, tradicionais, quilombolas, ciganas ou 
+minoria nacional ou étnica, religiosa ou linguística
+O MPDFT diligenciará junto às instituições e os órgãos de persecução criminal, e outras entidades 
+competentes, para que facilitem a denúncia e a participação na investigação das mulheres 
+pertencentes a povos e comunidades indígenas, tradicionais, quilombolas, ciganas ou pertencentes a
+minorias nacionais ou étnicas, religiosas ou linguística, que estejam em situação de violência 
+doméstica e familiar, com observância aos princípios constitucionais e legais vigentes, bem como 
+com os instrumentos internacionais a que o Estado brasileiro seja signatário e que versem sobre 
+direitos humanos relativos às matérias e atendendo aos usos e costumes de cada povo ou minoria, 
+além de garantir a tais mulheres o direito ao uso de sua própria língua, para o qual contar-se-á com a
+assistência de intérpretes em todas as diligências, ou, em sua falta, de pessoa da sua confiança ou 
+uma terceira pessoa, para que faça a tradução, com a observância de que, em nenhum caso, os 
+costumes dos povos e comunidades indígenas, tradicionais, quilombolas, ciganas ou minorias 
+nacionais poderão ser usados para justificar qualquer forma de violência contra as mulheres.
+(e) Mulheres Negras
+Reconhece-se que o racismo é estruturante das relações sociais brasileiras, e que mulheres negras 
+estão sujeitas à dupla discriminação de gênero e raça, o que as torna mais vulneráveis à prática da 
+violência. O MPDFT diligenciará junto às instituições e os órgãos de persecução criminal, e outras 
+entidades competentes, a fim de que zelem para que mulheres negras tenham o adequado 
+atendimento e que não se pratique qualquer forma de racismo institucional, entendido como 
+qualquer minimização da violência sofrida, qualquer falta de atendimento ou omissão na tomada 
+das providências cabíveis, bem como qualquer prática de atos discriminatórios por parte de agentes 
+do Estado.
+O MPDFT diligenciará junto às polícias civil e militar para que atentem se durante a prática da 
+violência psicológica houve a realização de injúrias com utilização de elementos relativos à raça cor
+ou etnia, de forma a assegurar que fatos sejam tipificados como injúria qualificada pela 
+discriminação (CP, art. 140, § 3º), crime sujeito à ação penal pública condicionada à representação, 
+nos termos da Recomendação n. 02/2015 da CGP/PCDF e da Portaria n. 972/2015 da PMDF. 
+Também é possível que o registro da ocorrência desse delito seja realizado pela Delegacia Especial 
+de Repressão aos Crimes de Discriminação Racial, Religiosa, por Orientação ou contra a Pessoa 
+Idosa ou com Deficiência (Decrim/PCDF). A atribuição para a persecução penal desse delito é do 
+Núcleo de Enfrentamento à Discriminação do MPDFT. 
+(f) Empregadas domésticas
+A Lei 11.340/2006 aplica-se às mulheres que trabalham como empregadas domésticas, haja ou não 
+pernoite no local de trabalho. Quando o empregador for o agressor, dever-se-á avaliar a necessidade
+de representação policial e requerimento ministerial ao juízo para que autorize a manutenção do 
+vínculo trabalhista, quando necessário o afastamento do local de trabalho, por até seis meses, com 
+ônus ao empregador (Lei 11.340/2006, art. 9º, § 2º, inciso II). Também haverá comunicação ao 
+Ministério Público do Trabalho, para as providências cabíveis. 
+
+(g) Mulheres em situação de rua
+Em caso de mulher em situação de violência doméstica e familiar em situação de rua, o MPDFT 
+assegurará que ela tenha acesso à Política nacional para as pessoas em situação de rua (Decreto 
+7.053, de 23 de dezembro de 2009 – Presidência da República), especialmente a facilitação da 
+obtenção de documentos pessoais, a oferta de abrigo e a inclusão em programas assistenciais 
+especiais para tal público, bem como realizará o contato com a mulher em situação de violência 
+doméstica e familiar preferencialmente por meio das equipes de busca ativa dos serviços sociais. 
+Deve-se dar prioridade de atendimento imediato às mulheres em situação de rua, de forma a evitar a
+perda de contato posterior. Convém levar em consideração o Guia de Boas Práticas para a atuação 
+do Ministério Público na defesa dos direitos humanos das pessoas em situação de rua5.
+(h) Mulheres no sistema prisional
+As mulheres no sistema prisional podem encontrar-se em situação de violência doméstica, praticada
+no âmbito das visitas íntimas ou de relacionamentos afetivos com outras detentas. O MPDFT 
+diligenciará junto às instituições e órgãos da persecução criminal para que zelem pela elaboração de
+políticas públicas destinadas à investigação dos crimes de violência doméstica e familiar praticados 
+contra mulheres no sistema prisional, com comunicação obrigatória por parte das autoridades 
+penitenciárias. Considera violento eventual relacionamento sexual entre agentes penitenciários e 
+detentas, pela relação de subordinação em que estas se encontram.
+(i) Mulheres lésbicas ou transexuais
+A Lei 11.340/2006 aplica-se a mulheres lésbicas, bissexuais ou transexuais, nos termos de seu art. 
+2º e art. 5º, parágrafo único. Consideram-se mulheres, para fins de aplicação da lei, pessoas 
+biologicamente masculinas com identidade de gênero e apresentação social feminina. O MPDFT 
+zelará para que as polícias incorporem em suas normas internas e treinamentos as diretrizes da 
+Senasp sobre a abordagem a pessoas LGBT (POP e Cartilhas), observando-se, ainda: (i) que se 
+pergunte à pessoa, durante eventuais abordagens, como deseja ser chamada, eis que, durante a 
+abordagem de transexuais, deve-se utilizar o nome social da pessoa (feminino); (ii) que a revista 
+pessoal a mulheres lésbicas, bissexuais ou transexuais deva ser realizada por policial feminina, nos 
+termos do art. 249 do Código de Processo Penal; e (iii) que não são admissíveis quaisquer 
+comentários ou críticas relativos à orientação sexual da mulher em situação de violência doméstica 
+e familiar ou da agressora.
+3.9. Intervenção do Ministério Público caso a mulher em situação de violência doméstica e 
+familiar não colabore com a investigação ou o processo
+Diante da dinâmica da violência doméstica, reconhece-se que existem diversos fatores que induzem 
+a mulher a relevar atos de violência, mas ainda se manter presa a uma relação marcada pela 
+violência, tais quais o medo, vergonha, ignorância de seus direitos, dependência emocional ou 
+econômica etc. Portanto, é previsível que algumas das vítimas de violência doméstica e familiar 
+venham se retratar da representação e não colaborem com o processo. O Estado deve estar 
+preparado para apoiar essas vítimas e ajudá-las a sair da situação de violência doméstica, bem como
+não revitimizá-las pela eventual retratação ou não colaboração.
+5N Disponível em: <http://www.mpdft.mp.br/portal/pdf/nucleos/ned/guia_boas_praticas_PSR.pdf>.
+
+São três os eixos de atuação do Ministério Público quando a mulher em situação de violência 
+doméstica e familiar não colabora com a investigação ou o processo-crime. Um se refere às 
+providências a serem realizadas em relação à própria ofendida. O segundo guarda pertinência com a
+investigação do crime. A negativa de colaboração se refere à negativa de registro da ocorrência ou 
+da notícia do crime, à retratação da ofendida ou à negativa de participação ou colaboração no curso 
+do processo em juízo. Nesses casos, o Ministério Público deverá diligenciar para a garantia da 
+mulher em situação de violência doméstica e familiar e assegurar a continuidade do processo-crime 
+até sua final solução. O último tem relação com a atuação nos crimes de ação penal pública 
+condicionada à representação, especialmente na audiência do art. 16 da Lei 11.340/2006.
+(a) Em relação à mulher em situação de violência doméstica e familiar
+Deve-se assegurar que a mulher receba a devida orientação sobre os direitos que lhe assistem e os 
+recursos disponíveis para apoio, atenção, proteção e acompanhamento. Essa tarefa deve ser 
+realizada desde o atendimento policial nas unidades especializadas das Delegacias Circunscricionais
+ou por meio da Deam, bem como nos acolhimentos realizados pelo Setps/MPDFT, até a orientação 
+recebida por ocasião da presença em juízo. 
+É necessário investigar os possíveis motivos para a negativa de registro da notícia de crime ou à 
+retratação da representação ou negativa de colaboração em juízo. Deve-se evitar a revitimização da 
+ofendida por indesejada pressão para colaborar e assegurar que ela receba informações claras, 
+completas e detalhadas para o exercício livre de sua decisão, quando esta importe à persecução 
+penal. A mulher em situação de violência doméstica e familiar que se retratar da representação 
+poderá ser enviada às unidades de apoio do MPDFT, denominadas SETPS (Serviços de Trabalho 
+Psicossocial), atualmente vinculados à Coordenação Executiva Psicossocial (Ceps)). Os Setps 
+encontram-se nas Coordenadorias Administrativas do MPDFT em todo o Distrito Federal. A 
+atuação das unidades de apoio do MPDFT dá-se sem prejuízo da articulação e integração com os 
+serviços de atenção coordenada da rede de serviços do Distrito Federal (Ceam, Nafavd, PAV, Creas 
+e outros).
+(b) Em relação à investigação do crime
+Nos casos de crime de ação penal pública incondicionada, a ausência de registro de ocorrência pela 
+mulher em situação de violência doméstica e familiar ou a negativa pela ofendida de colaborar com 
+o processo-crime já instaurado não representarão óbice ou impedimento ao ajuizamento da ação 
+pelo MPDFT, que deverá diligenciar pela demonstração do fato criminoso por outros meios de 
+prova disponíveis além das declarações da ofendida. Os registros de ocorrência policial militar 
+relativa à atuação das guarnições de policiamento ostensivo, a identificação dos eventuais vizinhos, 
+colegas de trabalho, testemunhas presenciais do evento para posterior oitiva em juízo, registro 
+fotográfico do estado em que se encontrava a ofendida por ocasião da atuação policial e outras, são 
+medidas possíveis de ser realizadas para que a instrução não seja centrada apenas nas declarações a 
+serem prestadas pela ofendida. As infrações penais de lesão corporal e de vias de fato, vale frisar, 
+são processadas por ação penal pública incondicionada. Eventual ausência de exame pelo IML pode
+ser suprida pela requisição judicial de cópia de prontuário médico de atendimento.
+Verificada eventual situação de risco para a ofendida, o MPDFT deverá pleitear a decretação de 
+medidas protetivas de urgência ou cautelares adequadas a assegurar a proteção da ofendida, sem 
+prejuízo de eventual representação da autoridade policial ou da determinação de ofício do juiz no 
+
+curso do processo. Caso a ofendida entenda por bem em intervir no processo, sua participação deve 
+ser assegurada independentemente da fase em que se encontre o processo. 
+Se a avaliação de risco indicar a necessidade de proteger a mulher em situação de violência 
+doméstica e familiar e, ainda assim, a vítima manifestar sua intenção de não continuar com o 
+processo, o Ministério Público deverá diligenciar para a manutenção dos efeitos das medidas 
+cautelares deferidas. 
+(c) Em caso de retratação da mulher em situação de violência doméstica e familiar
+O MPDFT deve diligenciar para apurar as circunstâncias em que houve a retratação da ofendida ou 
+negativa em colaborar com a investigação ou o processo, justamente para apurar a voluntariedade 
+de tal manifestação. Pressões de terceiros ou do agressor, dependência emocional, econômica ou 
+qualquer outro tipo de condicionante deverão ser consideradas para a aferição da livre manifestação 
+da ofendida.
+A eventual persecução penal da mulher em situação de violência doméstica e familiar pelo crime de 
+denunciação caluniosa deve ser precedida da consideração das circunstâncias que a conduziram à 
+posterior negativa do fato pela ofendida. Para tanto, deverão ser aferidos indícios suficientes de que 
+a primeira notícia do fato criminoso foi, de fato, inverídica.
+A mulher em situação de violência doméstica e familiar deverá ser encaminhada aos Setps/MPDFT 
+ou outro serviço de atenção coordenada para elaboração de avaliação de risco e relatório da situação
+familiar, econômica, social e cultural – tudo de molde a permitir a aferição das causas da retratação 
+por ela deduzida.
+Nos crimes de ação penal pública condicionada à representação (v.g., ameaça), a retratação da 
+mulher em situação de violência doméstica e familiar deve ensejar a designação de audiência 
+específica para a colheita dessa retratação, nos termos do art. 16 da Lei Maria da Penha. Essa 
+audiência, contudo, não deverá ser designada caso a mulher em situação de violência doméstica e 
+familiar não tenha manifestado, previamente, a sua retratação à representação (Enunciado nº 
+4/2011, Copevid).
+Designada a audiência prevista no art. 16 da Lei Maria da Penha, o não comparecimento da mulher 
+em situação de violência doméstica e familiar não autoriza que se proceda à condução coercitiva. 
+Em casos assim, a ausência de retratação em juízo implica o prosseguimento da persecução penal, 
+com o juízo de admissibilidade da denúncia (Enunciado nº 12, Copevid). 
+Se verificada a ausência de voluntariedade na manifestação de retratação da mulher em situação de 
+violência doméstica e familiar na audiência designada na forma do art. 16 da Lei Maria da Penha, o 
+MPDFT requererá a desconsideração da retratação e a continuidade da persecução penal. Serão 
+levados em consideração os fatores de risco avaliados no caso concreto. Havendo indício de coação 
+no curso do processo, o MPDFT requisitará a instauração de inquérito policial para apuração e 
+avaliará a necessidade de pleitear a decretação da prisão preventiva.
+O MPDFT zelará pela sensibilização e informação da ofendida a respeito dos benefícios da 
+continuidade da persecução penal e da importância da sua colaboração, para que a mulher em 
+situação de violência doméstica e familiar não seja induzida ou estimulada a se retratar na audiência
+designada na forma do art. 16 da Lei Maria da Penha. 
+
+3.10. A adoção ou solicitação de medidas protetivas de urgência ou cautelares
+Toda a medida protetiva de urgência ou cautelar deverá ser justificada em elementos extraídos da 
+realidade em que a vítima encontra-se inserida. 
+As medidas protetivas de urgência podem ser requeridas, de ofício, pelo promotor de Justiça. Em 
+tais hipóteses, o membro do Ministério Público poderá solicitar ao Setor de Análise Psicossocial 
+que elabore relatório abordando os fatores de risco aptos a fundamentar o seu pedido, bem como 
+realize os encaminhamentos administrativos pertinentes ao caso.
+Em sede de medidas protetivas de urgência, é possível o encaminhamento e a inclusão do suposto 
+agressor com dependência de álcool ou drogas em programa oficial ou comunitário de auxílio, 
+orientação e tratamento, bem como em programas de reeducação e reflexão com perspectiva de 
+gênero (Enunciado nº 02/2012, Copevid). 
+A prisão preventiva do agressor poderá ser requerida em caso de alto risco para a integridade da 
+mulher em situação de violência doméstica e familiar, sempre que se mostrem presentes os 
+requisitos legais (CPP, art. 311 a 313 e Lei 11.340/2006, art. 20), bem como nas hipóteses de 
+descumprimento de medidas protetivas anteriormente impostas ou não recolhimento da fiança 
+arbitrada.
+O MPDFT fomentará a articulação entre os atores envolvidos na proteção e acolhimento das 
+mulheres vítimas de violência doméstica e familiar. Para tanto, é importante a articulação com a 
+PCDF e a PMDF, destacando-se a relevância do compartilhamento de informações colhidas em 
+programas responsáveis pelo atendimento de mulheres em situação de risco, tais como o 
+Provid/PMDF, que realiza visitas às mulheres em situação de violência doméstica para monitorar a 
+evolução da situação de risco e a efetiva obediência às medidas protetivas de urgência deferidas.
+Em casos de risco médio ou alto, o/a promotor/a de Justiça poderá requisitar às polícias civil e 
+militar o encaminhamento de boletins de atualização da situação da mulher vítima das agressões.
+A mulher em situação de violência doméstica e familiar será pessoalmente intimada das decisões 
+relativas às medidas protetivas de urgência, mediante a entrega de cópia da decisão judicial. Ela 
+também deverá ser informada das decisões relativas à prisão ou à libertação do suposto agressor.
+Para se proporcionar um acompanhamento adequado às medidas adotadas, o Setor Psicossocial do 
+MPDFT contará com parcerias com instituições públicas ou privadas, responsáveis pela atenção e 
+apoio às mulheres em situação de violência doméstica e familiar. A participação da mulher em 
+situação de violência doméstica e familiar nesses programas será voluntária.
+Se, após terem sido adotadas medidas protetivas de urgência ou cautelares a favor da mulher em 
+situação de violência doméstica e familiar, esta manifestar a sua intenção de não continuar com o 
+procedimento, havendo indicação de fatores de risco, o Ministério Público deverá requisitar ao 
+Setor Psicossocial e às unidades de apoio da Polícia Civil e Militar a realização de nova avaliação 
+do risco para determinar a necessidade e pertinência da manutenção das medidas ou inclusive o 
+agravamento ou redução das mesmas. As medidas cautelares poderão manter-se independentemente
+da vontade da mulher em situação de violência doméstica e familiar, quando a avaliação do risco 
+realizada assim o aconselhar e sempre que a investigação ou o processo penal sigam o seu curso. A 
+
+presença de crianças no conflito também pode ser considerada como mais um fator a justificar a 
+manutenção as medidas protetivas de urgência nessa situação. 
+A mulher em situação de violência doméstica e familiar que se encontre na situação anterior será, 
+em todo caso, informada sobre os direitos que lhe assistem e os serviços e recursos disponíveis para 
+dar conhecimento sobre a rede de apoio, respeitar sua autonomia e, assim, assegurar o seu processo 
+de empoderamento.
+O empoderamento da mulher fortalece a confiança no sistema de justiça e é importante não só para 
+a proteção pessoal da vítima, como também para a sua colaboração com eventual investigação e 
+instrução processual.
+Se, por qualquer meio, os serviços policiais ou qualquer pessoa tenham conhecimento da 
+desobediência da ordem de medida protetiva de urgência ou cautelar por parte do suposto agressor, 
+deverão comunicar de forma imediata ao Ministério Público. Em caso de flagrante delito, 
+procederão a prisão em flagrante do suspeito, à lavratura do respectivo auto de prisão em flagrante e
+imediata comunicação ao Ministério Público e ao juiz ou juíza com competência para aplicação da 
+Lei11.340/2006 (Enunciado nº 07/2011, Copevid). Independentemente da controvérsia nos 
+Tribunais Superiores sobre a tipicidade da desobediência à ordem de medida protetiva de urgência, 
+deve-se considerar que esta conduta sempre configura, no mínimo, uma contravenção penal de 
+perturbação da tranquilidade, a justificar a intervenção em flagrante delito.
+Em caso de indeferimento de medida protetiva de urgência ou cautelar, o/a promotor/a de Justiça 
+deverá analisar os motivos utilizados para negar o pleito. Nos casos em que o juiz fundamentar a 
+sua decisão na falta de informações para a análise do pedido ou na falta de prova de risco para a 
+vítima, o membro do Ministério Público deverá providenciar a obtenção de novas provas 
+necessárias à reiteração do pedido. Para tanto, poderá solicitar ao Setor de Análise Psicossocial a 
+elaboração de relatório contendo os elementos necessários. Além disso, poderá solicitar ao 
+Provid/PMDF que elabore plano pessoal de segurança à vítima6.
+4. INÍCIO DA INVESTIGAÇÃO
+As instituições responsáveis pela persecução atuarão com a devida diligência no controle das 
+investigações dos crimes e em regime de coordenação e cooperação entre os agentes envolvidos, de 
+acordo com as suas atribuições e dentro dos limites legais.
+Dentro das suas atribuições de controle externo da atividade policial e de requisição de diligências, 
+o/a(ss) promotores/as de Justiça deverão assegurar que a atuação da Polícia Civil do Distrito Federal
+na investigação dos crimes de violência doméstica e familiar contra a mulher se ajuste às pautas e 
+diretrizes do presente protocolo.
+6N Sobre a metodologia do plano de segurança, ver item 3.10 das diretrizes nacionais.
+
+4.1. Em caso de situação de flagrância 
+Assim que a Polícia Civil ou Militar receber a notícia do crime por intermédio de chamada no 
+Disque 190 ou de aviso de terceiros, elaborará relatório, em que reproduzirá o conteúdo exato das 
+manifestações e requerimentos da pessoa interlocutora.
+Referido relatório deverá conter, pelo menos, as seguintes informações: local, horário e 
+detalhamento dos fatos, nome(s) do(s) denunciante(s), salvo nos casos de anonimato, e relação 
+dele(s) com a mulher em situação de violência doméstica e familiar, qualificação, o mais completa 
+possível, do suposto agressor, enumeração de eventuais testemunhas, com as devidas qualificações, 
+ruídos ambientais do telefonema (prantos, gritos, golpes, barulhos de quebras de objetos, etc), 
+descrição dos sinais físicos apresentados pela vítima.
+As informações relativas à chamada de intervenção deverão ser posteriormente transcritas na 
+ocorrência policial militar ou no boletim de ocorrência da PCDF. Em se tratando de Polícia Militar, 
+a ocorrência policial militar deverá ser juntada aos autos.
+A Polícia Civil ou Militar deverá deslocar-se imediatamente ao local dos fatos, assim que receber 
+telefonema ou requerimento de auxílio, utilizando todos os meios de transporte ao seu alcance, 
+mesmo que a mulher em situação de violência doméstica e familiar esteja num local remoto. Se for 
+necessário, será solicitado o auxílio de outras autoridades.
+A atuação da Polícia Civil ou Militar será orientada, de preferência, a prestar ajuda imediata e direta
+à mulher em situação de violência doméstica e familiar, a deter o suposto agressor, a salvaguardar a 
+integridade física de terceiros, a preservar o local do acontecimento e os meios de prova, bem como 
+a manter a calma e restabelecer a ordem.
+Em caso de flagrância de crime ou de risco grave da sua execução, os policiais podem entrar no 
+domicílio, sem autorização do seu proprietário ou da autoridade judicial, conforme autoriza o inciso
+XI do artigo 5º da Constituição Federal.
+A realização da diligência deverá ser detalhadamente documentada em relatório, para fins de 
+instrução dos autos respectivos.
+Se, quando chegarem ao local dos fatos, os policiais não constatarem de maneira direta a flagrância 
+do crime (silêncio no interior do local, luzes desligadas, ausência de pessoas no exterior), deverão 
+diligenciar, no intuito de descartar a possibilidade de se tratar de falsa denúncia.
+A mulher em situação de violência doméstica e familiar será levada para local seguro, evitando-se a 
+confrontação visual ou auditiva com o suposto agressor, que será contido ou detido, conforme a 
+necessidade. Deve-se evitar, dentro das possibilidades, o transporte da vítima e agressor na mesma 
+viatura. A vítima também será consultada acerca da disponibilidade de algum parente ou pessoa de 
+sua confiança para se responsabilizar por crianças e adolescentes que estejam no local dos fatos, 
+evitando-se, sempre que possível e o quanto antes, que presenciem diligências ou se desloquem para
+a delegacia. Sendo necessário, o Conselho Tutelar será acionado.
+Uma vez acomodada em local seguro, será recolhida a primeira manifestação espontânea da mulher 
+sobre os fatos. De igual modo, será observado se ela apresenta lesões físicas externas, bem como o 
+seu estado anímico enquanto narra o ocorrido.
+
+A Polícia Civil ou Militar informará a mulher em situação de violência doméstica e familiar sobre 
+os direitos que lhe assistem, incluindo-se o de receber assistência médica e jurídica, registrar 
+ocorrência e solicitar a adoção de medidas protetivas de urgência em qualquer momento da 
+investigação ou processo. Tais informações serão renovadas na Delegacia de Polícia, especialmente 
+em relação às medidas protetivas de urgência.
+Havendo suspeita ou constatação de lesões físicas na mulher em situação de violência doméstica e 
+familiar, ainda que não sejam visíveis, ela será levada, imediatamente, à unidade de saúde mais 
+próxima. Deve-se descrever no boletim de ocorrência as lesões aparentes que o agente de polícia 
+constatou.
+A Polícia Civil ou Militar adotará todos os cuidados necessários para evitar que o suposto agressor 
+crie qualquer situação de risco para a mulher em situação de violência doméstica e familiar ou para 
+terceiros. Tentarão acalmá-lo e recolher as suas primeiras manifestações espontâneas. Nos 
+depoimentos do auto de prisão em flagrante os policiais deverão indagados a descrever o estado 
+físico e anímico do autuado, bem como a possível influência de bebidas alcoólicas ou drogas. Em 
+caso de necessidade, ele será levado, imediatamente, à unidade de saúde mais próxima.
+Havendo indícios de fato(s) criminoso(s), não haverá nenhuma tentativa de mediação ou 
+conciliação entre as partes.
+A Polícia Civil ou Militar observará o local dos fatos, no intuito de realizar uma primeira avaliação 
+do sucedido, atentando para cada detalhe da cena (objetos ou mobiliários desalinhados ou 
+danificados, roupas rasgadas ou espalhas pelos cômodos, manchas de fluidos, presença de armas ou 
+desordens de um modo geral), mas sem contaminá-la. Tudo o que interessar à persecução penal será
+objeto de fotografia, filmagem, planimetria e vídeo. 
+Será realizada revista pessoal no suposto agressor, apreendendo-se objetos passíveis de estarem 
+relacionados com os fatos, bem como bens de propriedade da mulher em situação de violência 
+doméstica e familiar. A vítima poderá ser indagada quanto à presença de armas de fogo ilegais na 
+residência, colhendo-se sua autorização para realizar a respectiva busca.
+As testemunhas dos fatos deverão ser qualificadas da forma mais completa possível (nome 
+completo, número da identidade, endereço residencial e profissional, se houver, e número de 
+telefones de contato), no intuito de garantir sua localização posterior.
+Em crimes contra a dignidade sexual, caso haja lesões corporais, a mulher em situação de violência 
+doméstica e familiar será encaminhada, imediatamente, para a unidade de saúde mais próxima, onde
+receberá atendimento comum e também serão realizados os exames, bem como a profilaxia de 
+praxe. Reconhece-se como prática conveniente que o legista e a autoridade policial desloquem-se, 
+neste caso, à unidade de saúde onde a mulher esteja para registro de ocorrência, se for o caso 
+(havendo representação, quando necessária), e coletem as provas periciais cabíveis. Em todos os 
+casos de flagrância e de fatos acontecidos até 72 horas antes, dever-se-á utilizar o kit de crimes 
+contra a dignidade sexual.
+Em todos os casos, devem ser observadas as diretrizes da Política Nacional de Atenção Integral à 
+Saúde da Mulher.
+A ocorrência policial deverá incluir, dentre outras informações consideradas relevantes: 
+
+a. Dados de identificação da mulher em situação de violência doméstica e familiar e da pessoa 
+agressora, incluindo-se nomes próprios e de família, documentos de identificação, endereços e 
+números de telefones para contato.
+b. Dados de identificação ou localização de supostas testemunhas, acrescentando nomes, 
+documentos de identificação, endereços e números de telefones para contato.
+c. Breve descrição dos fatos.
+d. Identificação dos policiais que foram ao local dos fatos, descrevendo-se a cena do crime, o estado
+físico e emocional da vítima e do suposto agressor, transcrição literal dos relatos espontâneos de 
+ambos, bem como referências a testemunhas.
+e. Referência à presença de crianças e adolescentes, devendo constar os seus dados de identificação,
+as reações que tiveram diante do sucedido, bem como suas declarações acerca dos fatos. 
+f. Se a mulher em situação de violência doméstica e familiar tiver recebido assistência médica num 
+centro de saúde ou numa urgência hospitalar, tentar-se-á obter o relatório médico de apoio, redigido 
+de forma legível, preferencialmente em fotocópia e com uma referência descritiva às lesões 
+sofridas, à narração da mulher em situação de violência doméstica e familiar e ao tratamento 
+recebido.
+g. Relatório médico do suposto agressor, se apresentar lesões físicas.
+h. Referência a denúncias ou intervenções policiais anteriores por fatos de violência doméstica e 
+familiar praticados contra a mulher e relativos ao suposto agressor.
+Havendo requerimento de medidas protetivas de urgência, o requerimento deverá ser encaminhado 
+com a maior celeridade ao Poder Judiciário.
+Mesmo que não haja requerimento de medidas protetivas de urgência, a ocorrência policial deverá 
+ser comunicada com a maior celeridade ao Ministério Público do Distrito Federal e Territórios (Lei 
+n. 11.340/2006, art. 11, inciso I).
+Sempre que for possível, as mulheres em situação de violência doméstica e familiar serão atendidas 
+prioritariamente nas Delegacias de Polícia. 
+Quando a mulher em situação de violência doméstica e familiar, devido às lesões sofridas, às 
+limitações decorrentes de sua incapacidade civil, ou por causa das dificuldades para se deslocar (no 
+caso de pessoas idosas), não possa ir à Delegacia de Polícia, tentar-se-á o deslocamento da 
+autoridade policial e agentes de polícia ao local onde ela esteja. 
+4.2. Em caso de comunicação da ocorrência perante a Polícia e a Promotoria de Justiça 
+A autoridade competente para registrar a comunicação dos fatos deverá atuar com perspectiva de 
+gênero, adotando todas as cautelas para evitar a revitimização. Para isso: 
+a. Os policiais militares e civis e os servidores ou servidoras do Ministério Público, independente de
+realizarem atendimento direto ao público ou exercerem funções administrativas internas em suas 
+respectivas instituições, deverão contar com formação especializada na atenção a mulheres em 
+situação de violência doméstica e familiar. 
+
+b. As ofendidas receberão atenção de forma imediata e prioritária. 
+c. Deve-se realizar atendimento humanizado à ofendida, utilizando a empatia, a escuta ativa, a não 
+naturalização da violência, a não vitimização e uma posição próxima e respeitosa. 
+d. A entrevista deverá realizar-se, preferencialmente, em local reservado, sem interrupções, 
+garantindo a sua privacidade. Os espaços serão projetados para facilitar o acesso das ofendidas, 
+evitando o contato com os agressores, bem como com espaços de espera agradáveis e que permitam
+a estadia protegida e segura das crianças e adolescentes que lhes possam acompanhar. 
+e. A autoridade deverá auxiliar a ofendida, examinar com ela o problema de forma objetiva, não 
+minimizar nem dramatizar os fatos e circunstâncias, de modo a ajudá-la na tomada de decisões. 
+f. O agente de polícia ou servidor da Promotoria de Justiça ajudará a ofendida na sistematização e 
+ordenação da(s) informação(ões) fornecida(s). 
+g. Avaliar-se-á em cada caso a oportunidade de a ofendida prestar declarações de forma imediata. 
+No entanto, convém que a mulher relate os fatos de forma livre, para que possa sentir-se acolhida e 
+depois se proceda à sistematização da informação.
+h. Dever-se-á estimular a comunicação dos fatos delituosos como ação que se empreende para 
+romper uma relação abusiva. Deve-se compreender o estado emocional da ofendida, e não julgar a 
+sua decisão em caso de não querer comunicar os fatos delituosos ou no caso de retratar-se 
+posteriormente. Não se deve culpabilizá-la ou minimizar o ato de violência. 
+i. Quando se considerar necessário em função do grau de abalo emocional da ofendida, esta poderá 
+ser acompanhada durante o procedimento de registro da comunicação dos fatos delituosos por uma 
+pessoa da rede de atenção ou da unidade de apoio à mulher em situação de violência doméstica e 
+familiar. 
+Durante sua oitiva, será perguntado à mulher em situação de violência doméstica e familiar sobre as
+diferentes formas de violência que tenha sofrido durante a sua relação, seja física, psíquica, sexual 
+ou patrimonial. Para documentar os diversos atos de violência, deverão ser registrados o local e a 
+data de prática, os meios utilizados, as supostos testemunhas, os relatórios médicos anteriores, os 
+tratamentos médicos ou psicológicos que a ofendida tenha recebido, dados referentes à sua situação 
+patrimonial, dentre outras informações. 
+Do mesmo modo, a oitiva da ofendida terá por finalidade avaliar a situação de risco em que esta se 
+encontra. Deverá conter perguntas relativas a comunicações de fatos delituosos anteriores, medidas 
+protetivas de urgência ou cautelares vigentes ou revogadas, antecedentes psiquiátricos do agressor, 
+dependência do agressor em relação a bebidas alcoólicas ou a drogas, comportamentos agressivos 
+com outros membros da família ou terceiros, posse de armas etc. Esta avaliação será 
+complementada com outros elementos de investigação baseados nas investigações policiais ou 
+provas periciais, devendo permitir a avaliação de risco para subsidiar o requerimento de medidas 
+protetivas de urgência ou cautelar adequadas às necessidades de proteção da mulher em situação de 
+violência doméstica e familiar. Também será preenchido formulário de avaliação de risco, 
+construído pela rede distrital, de forma a subsidiar as decisões pelo sistema de justiça e os 
+encaminhamentos de proteção.
+
+Se a ofendida apresentar lesões físicas que necessitem de assistência médica, será encaminhada 
+pelos serviços policiais ou servidores ou servidoras do Ministério Público, antes do registro dos 
+fatos delituosos ao hospital ou posto de saúde e ao Instituto Médico Legal (Lei no 11.340/2006, art. 
+11, inciso II). O relatório médico será incorporado ao procedimento de investigação criminal.
+Se a ofendida informar que sofreu violência sexual, será conduzida para aos serviços de saúde de 
+modo a receber atenção aos agravos sofridos e aplicação imediata do protocolo de atenção às 
+vítimas de violência sexual.
+Cópias de registro de ocorrências anteriores noticiando violência, inclusive contra outras pessoas, 
+deverão ser juntadas nos inquéritos e nos pedidos de medidas protetivas.
+Caso a ofendida manifeste a sua intenção de não registrar ocorrência, não colaborar com a 
+investigação ou se retratar da representação, dever-se-á proceder conforme o disposto na seção 3.9 
+(“Intervenção do Ministério Público caso a mulher em situação de violência doméstica e familiar 
+não colabore com a investigação ou com o processo”). 
+Após o registro da comunicação dos fatos delituosos, a autoridade policial ou o servidor do 
+Ministério Público, deverá obrigatoriamente indagar a ofendida sobre o seu interesse em lhe serem 
+deferidas medidas protetivas de urgência. Será utilizado modelo de formulário específico para o 
+requerimento das medidas protetivas de urgência.
+O inquérito deve se encerrar no prazo máximo de 30 (trinta) dias, se o indiciado estiver solto, 
+conforme art. 10, caput, do CPP, devendo o Ministério Público e a Polícia estabelecer regras para o 
+cumprimento do prazo, tais como:
+a) incluir informações completas que permitam identificar os envolvidos e testemunhas, bem como 
+endereços e todos os telefones de contato possíveis;
+b) juntar fotos das mensagens ou ligações delituosas feitas pelo agressor;
+c) notificar pessoas por telefone para oitiva;
+d) permitir que o Ministério Público notifique o agressor durante eventual audiência de justificação 
+das medidas protetivas, para ser ouvido pela polícia em data certa;
+e) possibilitar a oitiva informal de testemunhas, sendo suficiente o resumo de sua fala em relatório 
+ou certidão policial;
+f) evitar que o Ministério Público devolva os autos à polícia sem indicar qual(is) diligência(s) 
+considera imprescindível(is) para formação da opinio delicti;
+g) realizar mutirões para encerramento de inquéritos instaurados há mais de seis meses.
+4.3. Servidores/as públicos/as e profissionais obrigados/as a realizar a notificação compulsória 
+dos fatos delituosos
+Todos os serviços de saúde deverão realizar a notificação compulsória de casos de violência 
+doméstica e familiar contra a mulher (Lei n. 10.778/2003). Esta notificação é interna, para fins de 
+estatísticas e controle epidemiológico, de forma a subsidiar a construção das políticas públicas 
+respectivas.
+
+A comunicação externa, para fins de responsabilização do agressor, pelos serviços de saúde, 
+educação e assistência social será obrigatória nas seguintes hipóteses: (i) crimes envolvendo 
+crianças ou adolescentes como vítimas diretas ou indiretas (ECA, art. 13); (ii) idosos (Estatuto do 
+Idoso, art. 19); (iii) pessoas incapazes (analogia). Nesses casos, a omissão de comunicação externa 
+poderá ensejar a responsabilização administrativa (ECA, art. 245) e criminal (LCP, art. 66, II).
+Reconhece-se que o sigilo profissional possui relevância para a proteção ao direito fundamental à 
+saúde das mulheres adultas em situação de violência doméstica. Nesses casos, a comunicação 
+externa apenas ocorrerá nas hipóteses do art. 3º, parágrafo único, da Lei n. 11.778/2003, que 
+estabelece:
+A identificação da vítima de violência referida nesta Lei, fora do âmbito dos serviços de saúde, somente poderá efetivar-se, em caráter excepcional, em caso de risco
+à comunidade ou à vítima, a juízo da autoridade sanitária e com conhecimento prévio da vítima ou do seu responsável.
+Deve-se considerar como hipóteses autorizadoras de quebra do sigilo profissional com fundamento 
+no risco à vítima os fatores de risco de violência doméstica à mulher indicados na literatura 
+especializada. É conveniente que o Núcleo de Gênero do MPDFT colabore com as capacitações aos
+profissionais de saúde para o reconhecimento de tais fatores de risco, incentivando a realização de 
+comunicações externas. 
+É conveniente que seja criado um protocolo para que, caso a vítima de violência doméstica informe 
+ao profissional de saúde ou assistência social que deseja que seu caso seja comunicado às 
+autoridades de responsabilização criminal, que ela assine uma autorização escrita de quebra de 
+sigilo, permitindo-se o encaminhamento de relatório do caso e laudo médico, se for o caso, à 
+Delegacia de Polícia ou ao Ministério Público. Esse procedimento é especialmente relevante nos 
+casos de lesões corporais.
+Em qualquer caso, os profissionais da área de saúde deverão sempre incentivar que a vítima de 
+violência doméstica, diagnosticada conforme subsídios da medicina forense (e ciências afins), seja 
+encaminhada à rede de proteção, especialmente aos serviços psicossociais de empoderamento, para 
+conseguirem sair da situação de violência doméstica.
+Considerando que os profissionais das áreas de saúde, educação e assistência social que realizaram 
+o atendimento à vítima estão expostos na comunidade local, é recomendável que o documento de 
+comunicação externa seja subscrito pelo superior do órgão público, de forma a não expor os 
+profissionais que realizaram o atendimento à vítima ao risco de eventuais retaliações pelo agressor. 
+Os/As promotores/as de Justiça devem avaliar a efetiva imprescindibilidade de arrolarem como 
+testemunhas em juízo tais profissionais que realizaram a comunicação externa de casos de violência
+doméstica, dando preferência à coleta de informações por relatório técnico, à semelhança da oitiva 
+de peritos da Polícia Civil. Em caso de imprescindibilidade da oitiva de tais profissionais, deve-se 
+atentar para que eles sejam devidamente informados, antes da audiência judicial, da possibilidade 
+de chegarem mais cedo que o horário agendado para a audiência e aguardarem em sala reservada, 
+sem contato visual com o agressor, bem como de prestarem depoimento na ausência do réu. Em 
+sendo necessário, deve-se informar o endereço residencial de tais profissionais em pasta sigilosa, a 
+ser arquivada no cartório judicial, sem acesso ao réu.
+
+4.4. Prisão do suposto agressor
+As autoridades policiais poderão representar e os/as promotores/as de Justiça poderão formular 
+requerimento de prisão preventiva (Lei 11.340/2006, art. 20 e CPP, art. 312): 
+a. Para garantia da ordem pública, quando houver desobediência a medida protetiva de urgência 
+anteriormente deferida, ou quando os fatos forem tão graves que façam recear pela inefetividade de 
+eventual medida protetiva de urgência; 
+b. Por conveniência da instrução criminal, quando houver fundado receio de que o suposto agressor 
+venha destruir provas ou coagir a mulher em situação de violência doméstica e familiar ou 
+testemunhas; 
+c. Para assegurar a aplicação da lei penal, quando houver fundado receio de que o suposto agressor 
+venha se ocultar ou empreender fuga.
+d. No caso de homicídio doloso (art. 121, caput e §2º), sequestro ou cárcere privado (art.148, caput 
+e §§1º e 2º), estupro (art. 213, caput), todos do Código Penal, ou demais crimes previsto na Lei nº 
+7.960/1999, as autoridades policiais poderão representar e os/as promotores/as de Justiça poderão 
+formular requerimento de prisão temporária quando: 
+(i) imprescindível para as investigações do inquérito policial (Lei nº 7.960/1989, art. 1º, inciso I); ou
+(ii) o indicado não tiver residência fixa ou não fornecer elementos necessários ao esclarecimento de 
+sua identidade (Lei nº 7.960/1989, art. 1º, inciso II). 
+Caso a Polícia Civil ou Militar aborde o suposto agressor em situação de flagrante delito, assim 
+entendido quando ele está cometendo a infração, acaba de cometê-la, é perseguido logo após, em 
+situação que se faça presumir ser o autor da infração, ou ainda, é encontrado, logo após, em 
+circunstância que se faça presumir ser ele o autor da infração, deverá dar-lhe voz de prisão e 
+conduzi-lo imediatamente à Delegacia de Polícia, para lavratura do auto de prisão em flagrante, o 
+qual deverá ser comunicado ao Juízo, ao Ministério Público e à defesa, em até 24 (vinte e quatro) 
+horas após a realização da prisão (CPP, art. 301 a 306 e Lei Complementar nº 75/1993, art. 10). 
+Durante a prisão, realizar-se-ão as seguintes diligências: 
+a. Informação de direitos. 
+b. comunicação à Defensoria Pública, caso o suposto agressor não tenha advogado ou advogada, 
+que será instruída com cópia integral do auto de prisão em flagrante (CPP, art. 306, § 1º). 
+c. Realização de exame de corpo de delito para identificar lesões, impressões, roupa manchada com 
+sangue ou objetos que possam estar relacionados com o fato criminoso. 
+d. Se necessário o recolhimento de amostras de fluídos corporais ou tecidos para fins de 
+identificação criminal mediante perfil genético, a autoridade realizará a representação e o Ministério
+Público formulará requerimento de decisão judicial, nos termos do art. 3º, inciso IV e art. 5-A, da 
+Lei nº 12.037/2009 (Lei de Identificação Criminal). 
+e. Exame médico-forense, para elaborar um exame físico, psíquico e toxicológico que permita 
+determinar o estado do provável responsável no momento da sua entrada nas instalações da 
+
+Delegacia de Polícia, lesões que apresente, estado emocional, bem como possível influência de 
+álcool ou alguma substância psicotrópica. Em caso de intoxicação alcoólica ou semelhante, esperarse-á até que o detido recupere seu estado psicofísico normal para que possa prestar declarações. 
+Caso se considerar necessário, serão recolhidas amostras de urina para determinar a presença de 
+álcool ou de substâncias tóxicas por intermédio de relatório pericial químico. O relatório emitido 
+será incorporado ao procedimento de investigação criminal. 
+Uma vez recebida a comunicação do auto de prisão em flagrante, o/a promotor/a de Justiça deverá 
+solicitar ao/à juiz/juíza a medida cautelar adequada, inclusive a conversão da prisão em flagrante 
+em prisão preventiva do suposto agressor, quando se considerar necessária pela avaliação do caso, 
+da análise da presença dos pressupostos processuais e de fatores de risco para a mulher em situação 
+de violência doméstica e familiar. Caso a avaliação de risco não seja elevada, o/a promotor/a de 
+Justiça avaliará a conveniência de se conceder a liberdade provisória e de serem deferidas as 
+medidas protetivas de urgência adequadas à proteção da mulher em situação de violência doméstica 
+e familiar. 
+Caso haja a apresentação do preso em audiência de custódia, deverão ser observadas as seguintes 
+especificidades do procedimento em caso de violência doméstica contra a mulher:
+a. Deve-se assegurar que, caso a mulher tenha formulado pedido de medidas protetivas de urgência 
+quando do registro da ocorrência, tais pedidos sejam efetivamente apreciados pelo juiz da audiência
+de custódia quando da eventual concessão de liberdade provisória ao autuado, bem como, mesmo 
+que esta não tenha formulado tais requerimentos, o membro do Ministério Público analise a efetiva 
+necessidade de requerer de ofício medidas cautelares para condicionarem a liberdade do autuado, 
+com a finalidade de assegurar a efetiva proteção à mulher em situação de violência doméstica e 
+familiar.
+b. Deve-se atentar para a presença de fatores de risco próprios do contexto dessa forma de 
+criminalidade para se avaliar quanto à necessidade de requerimento de decretação da prisão 
+preventiva, especialmente em casos de desobediência à ordem de medida protetiva de urgência.
+c. Convém criar mecanismos de compartilhamento de informações aos juízes, às juízas e aos 
+promotores/as de Justiça que realizem as audiências de custódia sobre os processos em tramitação 
+relacionados às mesmas partes, privilegiando-se na audiência de custódia a proteção à vítima, diante
+de fundados indícios violência crônica, sem prejuízo da reapreciação da causa pelo juiz natural.
+d. Sempre que houver a concessão de liberdade provisória ao autuado, deve-se realizar a intimação 
+da vítima, nos termos do art. 21 da Lei n. 11.340/2006. Para assegurar a efetividade da proteção à 
+vítima, deve-se dar preferência à intimação telefônica e, sempre que possível, antes da expedição da
+ordem de liberação.
+e. O Ministério Público deve assegurar a realização de capacitação em criminologia da violência 
+doméstica e familiar contra a mulher, especialmente sobre os fatores de risco e o ciclo da violência, 
+de forma a assegurar uma atuação mais efetiva dos membros do Ministério Público nas audiências 
+de custódia, assim como nos demais ofícios que atuam com a aplicação da Lei 11.340/2006. Devem
+ser realizadas gestões perante o Tribunal de Justiça para que igualmente os magistrados que atuam 
+no tema recebam a necessária sensibilização.
+
+f. Tenha o Ministério Público sempre uma atuação efetiva na promoção da defesa da mulher vítima 
+de violência doméstica e familiar e na defesa dos direitos fundamentais de todos os envolvidos na 
+persecução criminal.
+5. A CONDUÇÃO DA INVESTIGAÇÃO
+Ao receber os autos do inquérito policial, das medidas protetivas de urgência ou outro expediente 
+com a comunicação dos fatos delituosos, o promotor ou a promotora de Justiça deverá, no menor 
+tempo possível e com a devida atenção e cuidado, requisitar diligências de investigação ou realizálas diretamente. É recomendável que Promotorias de Justiça de Defesa da Mulher em Situação de 
+violência doméstica e familiar das Circunscrições tenham em consideração o protocolo-modelo de 
+investigação célere, no prazo de 30 dias, firmado entre as Promotorias de Justiça de Violência 
+Doméstica de Brasília e a Deam.
+Cabe ao Ministério Público o controle externo da atividade policial, que abrange o 
+acompanhamento obrigatório de todas as investigações policiais, a requisição de diligências 
+investigativas, a fiscalização da legalidade da investigação, nos termos da legislação vigente (art. 
+129, inciso VII, da Constituição Federal, Lei Complementar 75/1993, art. 3º e 9º, e CPP, art. 13, 
+inciso II).
+Deve o promotor ou a promotora de Justiça promover a articulação dos serviços policiais e judiciais
+com as unidades de apoio às mulheres em situação de violência doméstica e familiar integrantes da 
+rede intersetorial distrital e/ou federal, conforme o “Projeto de proteção integral à mulher”, 
+construído pelo Núcleo de Gênero do MPDFT, em parceria com a rede distrital. Deve o/a 
+promotor/a de Justiça zelar pela rápida conclusão das investigações, inclusive realizando diligências
+diretamente, evitando-se o retorno desnecessário do inquérito policial à delegacia de polícia. 
+Após o registro da ocorrência policial do fato delituoso e o preenchimento, pela vítima, do 
+questionário de avaliação de risco para subsidiar a decisão acerca de medidas protetivas e, 
+eventualmente, o encaminhamento da vítima para atendimento pela rede intersetorial (conforme 
+projetos-piloto de Brasília e das Regiões Administrativas de Santa Maria e do Gama), o Delegado 
+de Polícia expedirá a Portaria de instauração do IP com a indicação das diligências necessárias à 
+investigação criminal, as quais devem abranger o maior número possível de elementos probatórios 
+físicos, científicos, testemunhais, documentais, patrimoniais, por exemplo: exames periciais no 
+local, em objetos e no corpo da vítima e do agressor, reconhecimento fotográfico de pessoas e 
+objetos etc., de modo que a prova do crime não dependa, de forma exclusiva ou primordial, da 
+declaração da mulher em situação de violência doméstica e familiar.7
+É possível que o promotor ou a promotora de Justiça tome conhecimento do fato delituoso pelo 
+comparecimento da vítima ou de testemunha às unidades do Ministério Público, oportunidade em 
+que será formalizado termo com a declaração minuciosa do fato e das circunstâncias, sendo 
+anexadas fotografias, documentos e outros elementos de prova apresentados. Caberá ao membro do 
+Ministério Público requerer as medidas necessárias para a proteção da mulher e realizar o 
+encaminhamento dela aos serviços de apoio da rede distrital ou solicitar a elaboração de estudo 
+7N Ver item 210 do Protocolo Nacional.
+
+psicossocial ou o preenchimento de questionário de risco. Após, o/a promotor/a de Justiça, 
+verificando a necessidade de outras diligências indispensáveis à promoção de ação penal, 
+requisitará a instauração de inquérito policial, procedendo-se, assim, em conformidade com o 
+parágrafo anterior.
+A mulher em situação de violência doméstica e familiar terá direito a ser informada do andamento 
+da investigação, independentemente de possuir assistência de advogada(o). Sempre que a mulher 
+solicitar informação a respeito, a autoridade competente (Polícia Civil ou Militar, Ministério 
+Público, Defensoria Pública ou Poder Judiciário) deverá prestar-lhe de forma clara, concisa e 
+acessível. A autoridade competente terá em consideração as possíveis contribuições que a mulher 
+em situação de violência doméstica e familiar realize durante a investigação, com a finalidade de 
+incorporar novos meios de prova. Não é recomendável que a mulher em situação de violência 
+doméstica e familiar participe de diligências na presença do agressor ou de acareações que possam 
+revitimizá-la.
+O Ministério Público do DF e Territórios e a Polícia Civil do DF deverão atentar para os elementos 
+de prova que indiquem possível tentativa de feminicídio, procedendo-se à correção da adequação 
+típica ou do indiciamento, no caso da polícia civil, nos termos da Lei n. 13.104/2015. Serão 
+observados, dentre outros aspectos, as “Diretrizes Nacionais para investigar, processar e julgar com 
+a perspectiva de gênero as mortes violentas de mulheres (feminicídios)”, elaboradas pela ONU 
+Mulheres.
+5.1. Diligências no local dos fatos
+Após a comunicação da notícia do crime, de acordo com a natureza e a gravidade do crime, a 
+autoridade policial poderá considerar necessário ir ao local dos fatos, garantindo-se a legalidade das
+atuações policiais e da cadeia de custódia. Para crimes especialmente graves, é possível que o 
+Ministério Público requisite que seja imediatamente comunicado da ocorrência, com a finalidade de
+acompanhar as diligências no local do crime (Lei Complementar nº 75/1993, art. 7º, inciso II, e 
+CPP, art. 159, § 3º).
+Na investigação, serão recolhidas e apreendidas todas as evidências possíveis, tais como: armas, 
+sangue, pelos, sêmen, saliva, fibras, unhas, terra ou qualquer outro objeto que ajude a estabelecer a 
+presença do suposto agressor ou a situação da mulher em violência doméstica e familiar no local 
+dos fatos.
+Devem os policiais militares ou civis, que atenderem a ocorrência no local dos fatos, descrever o 
+cenário encontrado, especialmente: objetos desordenados, danificados ou quebrados. A cena do 
+crime deverá ser fotografada. É recomendável sempre fotografar a mulher em situação de violência 
+doméstica e familiar, sendo necessário, para tanto, o consentimento da mulher que será informada 
+sobre o direito de resguardo da privacidade, da intimidade e da imagem. Nos feitos perante os 
+Juizados de Violência Doméstica e Familiar contra a Mulher do TJDFT que não tramitem em 
+segredo de justiça, o promotor ou a promotora de Justiça deverá solicitar a decretação do sigilo, 
+quando houver fotografias da vítima.
+As fotografias podem ser tiradas tanto pela guarnição da Polícia Militar que atender ao chamado no 
+local dos fatos, quanto pelos policiais civis responsáveis pelo atendimento e registro de ocorrência 
+na Delegacia de Polícia (a exemplo da rotina já adotada pela Deam). Os policiais militares e civis, 
+
+portanto, deverão certificar as lesões corporais que estejam aparentes no corpo da mulher, 
+descrevendo-as, na medida do possível, assim como indagar à mulher se há mais lesões além 
+daquelas que o policial pôde perceber, fazendo-se constar a informação no histórico da ocorrência 
+policial. No Instituto Médico Legal da PCDF (IML), o rosto da mulher e as lesões devem ser 
+registradas por fotografia pelos médicos-peritos, desde que ela autorize, devendo tais fotografias ser
+anexadas ao laudo pericial. 
+5.2. Diligências relacionadas com a mulher em situação de violência doméstica e familiar
+Serão realizadas todas as diligências de investigação em paralelo com a adoção de medidas que 
+permitam a proteção e o fortalecimento da mulher em situação de violência doméstica e familiar, 
+conforme “Projeto de proteção integral à mulher”, construído pelo Núcleo de Gênero do MPDFT 
+em parceria com a rede distrital.
+Caso a autoridade policial ou o promotor ou a promotora de Justiça considere que existe risco de 
+que a mulher em situação de violência doméstica e familiar sofra, ao longo da investigação ou do 
+procedimento, pressões por intermédio de violência, ameaça, oferta ou promessa de dinheiro ou 
+outros benefícios para que desista do processo ou se retrate da sua declaração, formulará 
+representação ou requerimento quando for oportuno, para a produção antecipada de prova como 
+meio de assegurar a participação da mulher em situação de violência doméstica e familiar ao longo 
+do processo. Tal recomendação é válida também para qualquer testemunha dos fatos.
+Sempre que possível, serão adotadas as medidas necessárias para realizar o mínimo de diligências 
+ou audiências relacionadas com a mulher em situação de violência doméstica e familiar (registro de 
+ocorrência dos fatos delituosos, colheita de declaração, exame médico forense, fotografias da 
+mulher, atendimento pelas unidades de apoio à mulher em situação de violência doméstica e 
+familiar). A mulher em situação de violência doméstica e familiar deverá ser, em todo caso, 
+examinada pelo IML para certificar as lesões que sofreu e as suas sequelas, bem como o dano 
+psicológico sofrido.
+Quando, por qualquer motivo, não for possível a obtenção da prova da materialidade das lesões por 
+intermédio de perícia médico-legal, o Ministério Público diligenciará pela obtenção de cópia da 
+guia de atendimento emergencial – GAE da mulher e eventualmente de prontuários ou relatórios 
+médicos, para realização do exame de corpo de delito, pela via indireta (Enunciado nº 03/2012, 
+COPEVID).
+Nos locais em que a distância do IML usualmente inviabilize a elaboração da perícia, pelo não 
+comparecimento da vítima após encaminhamento, é recomendável que a Polícia Civil oriente a 
+vítima a se dirigir à rede pública de saúde mais próxima, para atendimento emergencial, já colhendo
+sua autorização para acesso ao prontuário médico, servindo a GAE e/ou o relatório médico como 
+meio de prova para atestar a lesão corporal, conforme artigo 12, § 3º, da Lei 11.340/2006 (Oficina 
+ESMPU de 2015).
+A autoridade policial efetuará uma busca de expedientes policiais e judiciais prévios que envolvam 
+a mulher em situação de violência doméstica e familiar e o suposto agressor. Para tal fim, deverão 
+ser informados no histórico de ocorrência policial os números das ocorrências anteriores e os 
+requerimentos de medidas protetivas anteriores, bem como deverá ser efetuada pesquisa no sítio 
+eletrônico do TJDFT, a fim de se fazer constar também outros expedientes judiciais em tramitação, 
+
+além de promover a juntada de cópia de decisões e sentenças anteriores eventualmente disponíveis 
+eletronicamente. Deverão ser sempre juntados aos autos de procedimento policial ou de medidas 
+protetivas os antecedentes policiais do ofensor a partir do sistema PROCED MILENIUM.
+A mulher em situação de violência doméstica e familiar não poderá ser obrigada a se submeter a 
+uma prova pericial médica, psicológica ou social, nem esta poderá ser realizada na presença dos 
+representantes da defesa. Reconhece-se como fator de elevada revitimização a exposição da mulher 
+em situação de violência doméstica e familiar à reconstrução dos fatos delituosos, devendo-se evitar
+a realização desse tipo de diligência.
+Caso a defesa do suposto agressor manifeste a sua vontade de participar na realização da prova 
+pericial, poderá apresentar, com caráter prévio, uma série de quesitos para esclarecimento pelos 
+peritos, ou ainda formular requerimento de quesitos complementares (CPP, art. 159, § 3º).
+Os depoimentos de crianças e adolescentes serão realizados, preferencialmente, na modalidade de 
+depoimento especial (Recomendação nº 33/2010, CNJ): em sala adequada, com recursos de 
+videoconferência, por intermédio de profissional especificamente capacitado nessa metodologia, 
+habilitado a transmitir confiança à criança e ao adolescente e ciente de que deve evitar exposição a 
+qualquer tipo de constrangimento e, ainda, impedir perguntas indutivas ou com potencial 
+revitimizador. O Ministério Público deverá zelar para que o TJDFT crie equipes especializadas na 
+metodologia do depoimento especial de crianças e adolescentes. É recomendável que as autoridades
+policiais evitem a oitiva de crianças e adolescentes, formulando representação para que se proceda à
+sua oitiva em juízo, em sede de produção antecipada de provas. Nesse sentido, recomenda-se que as
+Promotorias de Justiça adotem o modelo implementado pelas Promotorias de Justiça de Violência 
+Doméstica de Brasília junto à DPCA, no caso de crianças e adolescentes vítimas de crimes sexuais.
+Em crimes de ameaças ou de injúrias praticadas por mensagem de celular, e-mail ou por rede social 
+de internet, como WhatsApp, recomenda-se a impressão (ou fotografia) das mensagens, no 
+momento do registro da ocorrência policial, de forma a ser evitar o perecimento da materialidade. 
+No caso de mensagens de texto em aparelho celular, deve-se permitir à vítima que grave os dados 
+em mídia e os entregue à Polícia Civil, evitando-se a apreensão do aparelho de telefonia celular, 
+diante dos transtornos que tal apreensão causa à vítima. A princípio, não haveria necessidade de 
+encaminhar o aparelho celular da mulher ao Instituto de Criminalística da PCDF (IC), pois o agente 
+de polícia responsável pelo atendimento da ocorrência, que tem fé pública, pode simplesmente 
+documentar o conteúdo das mensagens, a data e o horário, bem como o número de origem ou 
+simplesmente imprimir a captura das telas para juntar a procedimento (Oficina ESMPU/2015). 
+Caso as ameaças, injúrias ou perturbações tenham sido praticadas através de internet (e-mail ou 
+rede social), a autoridade policial deverá providenciar a impressão das informações e solicitará que 
+o setor técnico especializado na investigação de crimes cibernéticos elabore informação técnica, 
+indicando os passos para o esclarecimento dos fatos (obtenção de dados da conta de e-mail ou do 
+perfil da rede social, número de IP de acesso, e vinculação de IP de acesso pelo provedor de internet
+aos dados cadastrais do cliente etc.), diligenciando pela imediata preservação das informações junto
+aos provedores de internet e pela oportuna representação pela quebra de sigilo de dados de internet 
+(Lei nº 12.965/2014, art. 10, § 2 e art. 13, § 2º). Em casos de crimes praticados por rede social, 
+especialmente o facebook, deve-se atentar para imprimir a URL da página onde as mensagens 
+foram postadas, a URL do perfil do usuário que postou as mensagens, bem como a identificação do 
+
+dia e hora da postagem. O/A promotor/a de Justiça zelará pela requisição de realização destas 
+diligências, conforme orientações de cartilha elaborada pelo MPDFT Deve-se atentar ainda para as 
+situações indicativas de injúria racial, cuja iniciativa da ação penal é pública, condicionada à 
+representação da ofendida, sendo o processamento de atribuição do Núcleo de Enfrentamento à 
+Discriminação (NED/MPDFT).
+Os/As promotores/as de Justiça deverão zelar pela realização de todas as averiguações oportunas 
+para determinar com exatidão o modo em que ocorreram as agressões recíprocas, os instrumentos 
+ou as armas utilizados na agressão e as circunstâncias que enquadraram o. fato violento e, caso se 
+certifique o uso da legítima defesa pela mulher em situação de violência doméstica e familiar, 
+poderá decidir pela promoção do arquivamento. Caso se entenda pela responsabilidade da mulher 
+em crime conexo com do agressor, o Ministério Público poderá exercer a persecução penal, 
+atentando-se para os benefícios legais eventualmente cabíveis à mulher (transação penal ou 
+suspensão condicional do processo) ou circunstâncias que atenuem a culpabilidade, como a 
+“síndrome da mulher maltratada”.
+Para isso, deve-se entender que frequentemente estas respostas violentas defensivas, por parte da 
+mulher, são reações aos múltiplos ataques prévios sem que a mulher em situação de violência 
+doméstica e familiar tenha tratado de se defender ou procurado o auxílio das autoridades. 
+Ocasionalmente, as mulheres que se sentem sozinhas, isoladas, sem apoio do sistema de proteção às
+mulheres em situação de violência doméstica e familiar, recorrem à violência como único 
+mecanismo para pôr fim à sua situação. Cabe às instituições e aos órgãos de persecução criminal a 
+adoção da perspectiva de gênero e a análise do ciclo da violência em cada caso concreto para 
+compreender o comportamento da mulher e formular a resposta penal mais adequada a essa 
+situação, evitando-se a vitimização secundária. Os estudos psicossociais poderão subsidiar uma 
+atuação mais adequada nesses contextos.
+5.3. Dos laudos periciais e relatórios psicológicos, psicossociais e psiquiátricos8
+Recomenda-se que as Promotorias de Justiça de Violência Doméstica fomentem que o 
+encaminhamento da vítima para acolhimento coletivo e/ou individual na Promotoria de Justiça, a 
+ser realizado pelo SETPS, conforme diretriz do Projeto de Proteção Integral. 
+A intervenção deve conter, pelo menos, cinco eixos de discussão: (i) tipos de violências sofridas por
+mulheres; (ii) percepções sobre uso de álcool e de drogas nas violências sofridas por elas; (iii) ciclos
+de violência doméstica e familiar/dinâmicas desta violência; (iv) como essas mulheres podem criar 
+planos e estratégias de segurança; (v) esclarecimentos e informações sobre procedimentos judiciais, 
+inclusive o que fazer em caso de descumprimento de medidas protetivas de urgência, dinâmicas de 
+audiências e consequências para autor de violências. Caso necessário, outros encaminhamentos 
+poderão ser oferecidos (saúde, educação, assistência social, emprego e renda). Em nenhum 
+momento a vítima deve ser desencorajada de levar adiante o processo criminal.
+Nesse sentido, há várias experiências exitosas, como o Projeto Portas Abertas, das Promotorias de 
+Justiça de Defesa da Mulher em Situação de Violência Doméstica e Familiar de Sobradinho, no qual
+8N
+
+as mulheres já são intimadas quando do registro da ocorrência policial para a data do acolhimento 
+na Promotoria de Justiça. Ou as Tardes de Reflexão com Mulheres.
+Ao ser identificada uma situação de risco, deve-se priorizar a produção de relatório de acolhimento 
+ou estudo técnico, pelo setor psicossocial do MPDFT, que contemple o estado emocional da mulher 
+e a situação de risco vivenciada. O promotor ou a promotora de Justiça avaliará a pertinência de 
+requerer medidas protetivas de urgência (ou sua ampliação) e até a prisão preventiva, 
+independentemente de prévio descumprimento de medida protetiva. O promotor ou a promotora de 
+Justiça poderá auxiliar a vítima na elaboração de um plano de segurança, solicitando apoio da 
+PMDF, por meio do Provid, para que haja monitoramento acerca do cumprimento das medidas 
+protetivas de urgência.
+O relatório de acolhimento ou o estudo técnico, a ser elaborado pelo Setor Psicossocial do MPDFT 
+deverá avaliar o estado emocional da mulher em situação de violência doméstica e familiar e os 
+supostos danos à sua saúde mental, fazendo-se constar, se o caso, a presença de violência 
+psicológica continuada. Relatórios psicossociais ou psicológicos poderão determinar o impacto na 
+saúde física e psicológica da mulher em situação de violência doméstica e familiar (alterações do 
+sono e da alimentação, depressão, insegurança e desconfiança, mudanças bruscas de 
+comportamento, falta de rendimento ou faltas ao trabalho, entre outros) como decorrentes da 
+violência sofrida. Em nenhuma circunstância, o relatório pericial psicológico ou o relatório 
+psicossocial procurará avaliar a veracidade do depoimento da mulher.
+O relatório psicossocial será orientado no sentido da avaliação psicológica e social das 
+consequências da violência na vida pessoal, familiar, profissional, afetiva, de descanso e de 
+perspectivas de futuro da mulher em situação de violência doméstica e familiar. Por intermédio de 
+entrevistas aos seus familiares mais próximos, colegas de trabalho, vizinhos ou amizades, poder-seá avaliar o impacto que a violência exerceu em diversos planos da vida da mulher. Nesse sentido, 
+devem ser juntados aos autos judiciais todos os relatórios médicos ou psicológicos que certifiquem 
+a atenção recebida pela mulher em situação de violência doméstica e familiar como consequência 
+das supostas agressões prévias.
+É importante comprovar, mediante relatório psicossocial, o contexto peculiar de violência de gênero
+em que a mulher está inserida, pois, a depender da fase vivenciada no ciclo da violência, a mulher 
+pode mudar a versão dos fatos por ocasião das suas declarações judiciais, devendo tal mudança ser 
+adequadamente compreendida na perspectiva dos estudos de gênero e não ser interpretada como 
+ausência de prova ou fragilidade probatória tendente a desresponsabilizar ou facilitar a impunidade 
+do ofensor.
+Na investigação dos crimes que envolvam violência psicológica, o relatório deverá indicar a prática 
+dos atos de intimidação, ameaça ou coação que representem um ataque à liberdade e integridade 
+moral da mulher em situação de violência doméstica e familiar, independentemente do grau de 
+danos à saúde psicológica que tal conduta possa ter produzido.
+O promotor ou promotora de Justiça deverá ter em consideração, para formação de sua convicção 
+(opinio delicti), as consequências da chamada “síndrome da mulher maltratada”. Os integrantes do 
+Setor Psicossocial do MPDFT e de outras instituições da rede distrital devem receber capacitação 
+para que identifiquem elementos e sintomas em conexão com o quadro de violência que, isolados 
+ou em conjunto, sugiram a chamada síndrome da mulher maltratada, tais como sofrimento 
+
+constante, ansiedade, insônia, baixa autoestima, pânico, dores crônicas e generalizadas, depressão, 
+angústia etc.
+Dever-se-á compilar relatórios médicos emitidos pelos serviços públicos e privados de saúde, bem 
+como relatórios emitidos por psicólogos que tenham atendido a mulher em situação de violência 
+doméstica e familiar ou com quem tenha recebido tratamento ou terapia como consequência da 
+situação de violência doméstica e familiar que a mulher estava sofrendo, qualquer que seja o tipo de
+violência exercida.
+Caso a violência praticada pelo suposto agressor gere danos à saúde psicológica da mulher em 
+situação de violência doméstica e familiar, o promotor/a de Justiça poderá requisitar a realização de 
+perícia médica psiquiátrica para atestar as lesões à saúde, tais quais depressão, estresse póstraumático, síndrome do pânico, transtorno obsessivo-compulsivo, anorexia, dentre outras, para 
+posterior oferecimento de denúncia por crime de lesão corporal, na modalidade de lesão à saúde 
+psicológica (CP, art.129, caput, segunda parte, c/c § 9º, ou modalidades agravadas) (Enunciado nº 
+04/2014, Copevid).
+5.4. Diligências relacionadas com o suposto agressor
+O suposto agressor terá direito a ser assistido por um advogado na prestação de declarações, bem 
+como terá direito ao acesso dos autos do procedimento de investigação criminal. A autoridade 
+policial solicitará a realização do exame de corpo de delito ad cautelam quando o suposto agressor 
+apresentar sinais de ter sofrido lesões como consequência da agressão.
+Caso seja necessário para a investigação do crime, a autoridade policial representará ou o Ministério
+Público formulará requerimento de autorização judicial para a coleta de material biológico (sangue, 
+saliva etc.) para obtenção de perfil genético, para fins de identificação criminal (Lei 12.037/2009, 
+art. 3º, inciso IV, e art. 5º, parágrafo único). Também será possível a análise dos genitais para 
+verificar se teve contato sexual com a mulher em situação de violência doméstica e familiar, bem 
+como das amostras necessárias para procurar evidências da mulher no corpo e nos genitais do 
+suposto agressor. Estas diligências terão mais importância no caso de crime de feminicídio ou de 
+crime contra a dignidade sexual.
+Se o suposto agressor for membro da polícia, o Ministério Público deverá ser informado dessa 
+circunstância de forma imediata, assumindo uma postura ativa na fiscalização do direcionamento da
+investigação, devendo zelar para que a investigação de policiais civis seja realizada pela 
+Corregedoria de Polícia. A violência doméstica praticada por policial militar não é crime militar, 
+sendo investigada pela Delegacia de Polícia da PCDF. Em eventual sindicância disciplinar da 
+PMDF, devem ser observadas as cautelas de proteção à vítima indicadas na Recomendação n. 
+03/2014 – NG e PJM. Sem prejuízo da avaliação de risco que se efetue, serão adotadas as cautelas 
+necessárias para o deferimento de medida protetiva de urgência de suspensão da posse ou restrição 
+do porte de armas durante o tempo que durar a investigação ou até a finalização do processo (Lei 
+11.340/2006, art. 22, inciso I). Se for necessário, em coordenação com as autoridades policiais, o 
+suposto agressor será afastado do serviço policial, particularmente em relação ao acesso às armas de
+fogo, na forma de suspensão parcial do exercício da função pública, com base no disposto no art. 
+319, inciso VI, do CPP.
+
+Caso a mulher em situação de violência doméstica e familiar informe que o suposto agressor possui 
+armas, sem porte ou registro, os policiais responsáveis pelo atendimento da ocorrência deverão 
+perguntar-lhe se franqueia acesso de seu domicílio a eles para a busca e apreensão da arma ilegal. 
+Caso não seja possível a autorização, ou a arma ilegal não esteja no domicílio da mulher em 
+situação de violência doméstica e familiar, a autoridade policial deverá representar e o Ministério 
+Público formular requerimento judicial pela expedição de mandado de busca domiciliar visando à 
+apreensão da arma de fogo ilegal.
+Caso a mulher em situação de violência doméstica e familiar informe que o suposto agressor possui 
+porte legal de arma, mesmo que não formule requerimento de medidas protetivas de urgência, tal 
+informação deverá ser imediatamente repassada ao Ministério Público, para que avalie a pertinência
+de formular requerimento de medida protetiva de urgência de suspensão da posse ou restrição do 
+porte ilegal de arma (Lei 11.340/2006, art. 22, inciso I).
+5.5. Especificidades na investigação dos crimes contra a dignidade sexual
+Os crimes contra a dignidade sexual (CP, arts. 213 e seguintes) são objeto de ação penal pública 
+condicionada à representação da mulher em situação de violência doméstica e familiar (CP, art. 
+225), ressalvadas as hipóteses da Súmula 608/STF.
+No caso de crimes contra a dignidade sexual, dever-se-á observar as normas técnicas aplicáveis à 
+prevenção e ao tratamento dos agravos resultantes da violência sexual, dentre as quais, destacandose a Política Nacional de Atenção Integral à Saúde da Mulher e a Norma Técnica sobre Prevenção e 
+Tratamento dos Agravos Resultantes da Violência Sexual contra Mulheres e Adolescentes.9
+As instituições e os órgãos de persecução penal deverão realizar as seguintes diligências de 
+investigação, além das expostas em itens anteriores:
+Quando a mulher em situação de violência doméstica e familiar apresentar lesões que requeiram 
+atenção médica, será levada a um centro hospitalar ou médico. Para conservar os possíveis indícios 
+do crime e assegurar à mulher em situação de violência doméstica e familiar a atenção devida, esta 
+deverá ser examinada por uma equipe interdisciplinar formada, preferencialmente, por um médico 
+forense e um psiquiatra ou psicólogo ou por profissionais de saúde que atuem em coordenação com 
+o Instituto Médico Legal. Cabe ao médico que realizar o atendimento de saúde preservar materiais 
+de possível interesse para a investigação criminal, remetendo-os aos peritos para o exame de DNA 
+de identificação do agressor (Lei nº 12.845/2013, art. 3º, §§ 2º e 3º).
+De preferência, as mulheres em situação de violência doméstica e familiar serão atendidas por 
+profissionais do sexo feminino, exceto quando não manifestarem qualquer preferência, e 
+observando-se as diretrizes e normas técnicas que asseguram o atendimento humanizado, 
+9N BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas 
+Estratégicas. Norma técnica: prevenção e tratamento dos agravos resultantes da violência sexual contra 
+mulheres e adolescentes. 2. ed. rev. e ampl. Brasília: Ministério da Saúde, 2007. (Série Direitos Sexuais e 
+Direitos Reprodutivos, caderno n.6). Disponível em: <http://www.compromissoeatitude.org.br/wpcontent/uploads/2013/01/MS-Norma-Prevencao-Tratamento-Agravos-Violencia-Sexual.pdf>. Acesso: 14 
+fev. 2015.
+
+qualificado e a não vitimização da mulher, tais como as que estão previstas na Política Nacional de 
+Atenção Integral à Saúde da Mulher.10
+Dever-se-á informar à mulher em situação de violência doméstica e familiar sobre o seu direito em 
+receber o atendimento médico de profilaxia à gravidez e às doenças sexualmente transmissíveis 
+(DST) e demais direitos previstos na Lei nº 12.845/2013. Se a mulher concordar, será levada ao 
+hospital, se ainda não o tiver sido. O consentimento poderá ser prestado pela mulher adulta em 
+situação de violência doméstica e familiar, por seu representante legal ou por instituição autorizada. 
+Se for necessário, a autoridade policial fornecerá os meios necessários para transportar a mulher ao 
+hospital e ao seu domicílio (Lei nº 11.340/2006, art. 11, incisos II e III).
+A avaliação física da mulher em situação de violência doméstica e familiar deve determinar a 
+existência de lesões extragenitais, paragenitais e intragenitais, tempo de evolução e de cura, bem 
+como as suas sequelas. Do mesmo modo, certificará que foi encontrado na mulher ou nas suas 
+roupas restos de sangue, sêmen, saliva, elementos pilosos ou outros elementos que permitam 
+identificar o agressor e o local onde ocorreu o fato. O relatório referirá também a presença, se for o 
+caso, de substâncias tóxicas na mulher bem como outros dados relevantes para o caso. Poderão ser 
+realizadas análises de urina, de sangue ou ser recolhidas amostras de cabelo para analisar a presença
+de substâncias tóxicas.
+Caso a mulher em situação de violência doméstica e familiar seja criança ou adolescente, o exame 
+médico, caso seja realizado, será feito por especialistas em cuidados à infância ou à adolescência, 
+ou pediatras preferencialmente de sexo feminino.
+Caso o registro da ocorrência seja realizado após mais de 72 horas da prática do ato de violência, o 
+Delegado de Polícia deverá atuar com toda a diligência devida para comprovar os fatos, entre 
+outros:
+Avaliar com o Instituto Médico Legal a conveniência e oportunidade de ser realizado um exame 
+pericial para coleta de amostras ou avaliação das lesões, tendo em conta o tempo decorrido. Deve-se
+considerar que a ausência de lesões físicas externas não é sinônimo de consentimento por parte da 
+mulher em situação de violência doméstica e familiar.
+Realizado o registro da ocorrência policial, deve-se assegurar o profissionalismo e o rigor na 
+atenção à mulher em situação de violência doméstica e familiar, para se conhecer as circunstâncias 
+exatas do local dos fatos, atos realizados, supostas lesões ou testemunhas que possam contribuir 
+para corroborar a sua declaração.
+Se a mulher em situação de violência doméstica e familiar tiver guardado peças de roupa do dia dos 
+fatos, deverá ser enviada ao Instituto Médico Legal com a finalidade de se realizar o exame das 
+mesmas para recolher amostras de cabelo, sêmen ou qualquer outra amostra que permita determinar
+a existência de contato ou relação sexual.
+10N BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas 
+Estratégicas. Política nacional de atenção integral à saúde da mulher: princípios e diretrizes. Brasília: 
+Ministério da Saúde, 2004. Disponível em: 
+<http://bvsms.saude.gov.br/bvs/publicacoes/politica_nac_atencao_mulher.pdf>. Acesso: 14 fev. 2014.
+
+Caso se considere necessário e o tempo decorrido o permita, será possível a realização de uma 
+inspeção visual do local dos fatos, para que se verifique se ainda é possível obter alguma prova que 
+apoie a versão da mulher em situação de violência doméstica e familiar.
+5.6. Especificidades na investigação da violência patrimonial
+O Ministério Público atuará com toda a diligência devida para certificar a prática de atos de 
+violência patrimonial, de maneira que sempre que a mulher em situação de violência doméstica e 
+familiar refira ter sofrido algum tipo de pressão ou impedimento para o exercício dos seus direitos 
+patrimoniais, sejam realizadas as diligências de averiguação oportunas para certificar, entre outros:
+a. Certificação documental de negócios jurídicos pelos quais se impede o acesso à titularidade dos 
+bens ou pelos quais se impeça ou dificulte a posse dos bens, por exemplo, limitações à disposição 
+dos salários ou a existência de contas bancárias de titularidade exclusiva do marido ou 
+companheiro.
+b. Prova testemunhal de familiares, de parentes ou de terceiras pessoas que certifiquem a limitação 
+no acesso ou posse de bens com titularidade ou cotitularidade da mulher ou atos de privação de 
+bens com sua titularidade.
+c. Certificação de diferenças no estilo de vida de ambos os cônjuges ou companheiros, desde que 
+seja possível demonstrar a desproporção de patrimônio do marido ou companheiro, face à situação 
+de penúria ou escassez da mulher em situação de violência doméstica e familiar e dos seus filhos.
+d. Caso as condutas descritas nos itens anteriores sejam praticadas em um contexto de violência ou 
+grave ameaça, o promotor ou a promotora de Justiça deve avaliar a possibilidade de tipificar a 
+conduta como crime de extorsão (CP, art. 158).
+e. No caso de destruição ou deterioração dos bens de titularidade da esposa, poder-se-á realizar 
+inspeção visual no domicílio ou local dos fatos, que será apoiado por meios fotográficos ou 
+gravações que permitam certificar o estado final dos objetos e bens da sua propriedade depois do 
+fato violento denunciado, bem como, se possível, a realização da avaliação dos objetos danificados.
+f. Deve-se atentar que, caso o crime de dano seja praticado com violência à pessoa ou grave 
+ameaça, a ação penal será pública incondicionada (CP, art. 163, parágrafo único, inciso I, c/c art. 
+167). Deve-se considerar como forma de grave ameaça e intimidação a destruição de objetos na 
+presença da mulher em situação de violência doméstica e familiar durante uma discussão.
+6. FIM DA INVESTIGAÇÃO
+A formação da convicção pelo/a promotor/a de Justiça será realizada incorporando a perspectiva de 
+gênero.
+O/A promotor/a de Justiça, ao oferecer denúncia por infração penal praticada em contexto de 
+violência doméstica e familiar contra a mulher, promoverá a proteção devida da mulher em situação
+de violência e assegurará a resposta penal adequada à gravidade dos fatos. 
+O/A promotor/a de Justiça deve zelar para que a solução do processo não minimize o 
+comportamento violento e não perpetue estruturas de poder e domínio do homem sobre a mulher; 
+
+para isso, evitarão a aplicação de soluções que beneficiem e fortaleçam o agressor, sem garantir 
+devidamente a segurança da mulher em situação de violência doméstica e familiar. 
+O/A promotor/a de Justiça assegurará que as medidas protetivas de urgência ou cautelares adotadas 
+estejam em vigor até a finalização do processo por sentença definitiva, transitada em julgado, para 
+garantir às mulheres em situação de violência doméstica e familiar a proteção, independentemente 
+do curso seguido pelo processo, em particular em caso de recursos. Também avaliará a 
+conveniência de se requerer o deferimento de medidas protetivas de urgência de natureza 
+exclusivamente cível, com duração para além do processo criminal, pelo período de tempo 
+necessário à proteção à mulher.
+Para tanto, o/a promotor/a de Justiça, no exercício do controle de acompanhamento da investigação 
+criminal, deverá ter uma postura ativa em indicar as diligências necessárias, de forma a incorporar o
+maior número possível de elementos probatórios físicos, científicos, testemunhais, documentais, 
+patrimoniais, fazendo com que a prova do crime não dependa de forma exclusiva ou primordial da 
+declaração da mulher em situação de violência doméstica e familiar.
+6.1. Oferecimento de denúncia
+O/A promotor/a de Justiça deve incorporar a abordagem de gênero no oferecimento da denúncia, 
+atentando-se para os seguintes itens: 
+a. Sempre que possível a narração dos fatos descritos na denúncia será correlacionada com os meios
+de prova de que se dispõe para certificá-los, como testemunhas, documentos ou laudos periciais.
+b. A narração dos fatos será realizada tendo como sujeito da ação o acusado.
+c. Não se deve utilizar nenhuma expressão que atue como justificativa do comportamento do 
+agressor.
+d. Não se deve utilizar expressões que possam culpabilizar a mulher em situação de violência 
+doméstica e familiar ou minimizar a violência exercida, baseadas em estereótipos ou preconceitos 
+sobre as mulheres.
+e. O/A promotor/a de Justiça, ao exercer a ação penal, atuará com abordagem de gênero para 
+realizar as medidas necessárias a fim de garantir a reparação do dano e indenização integral dos 
+prejuízos da mulher em situação de violência doméstica e familiar (CPP, art.387, inciso IV). 
+Convém, ao final da denúncia, formular requerimento de indenização em favor da mulher em 
+situação de violência doméstica e familiar, com valor determinado.
+Dessa forma, facilita-se e agiliza-se o reparo digno e integral do dano causado, ao não obrigar a 
+mulher em situação de violência doméstica e familiar, uma vez finalizado o processo penal, a 
+exercitar novas ações judiciais. A reparação da mulher em situação de violência doméstica e 
+familiar deve ser entendida em sentido amplo, não meramente patrimonial, incluindo outras formas 
+de reparação, de cumprimento de obrigações de fazer ou de não fazer ou por qualquer outro meio 
+que permita à mulher ou aos seus familiares obter a compensação e a reparação integral do dano 
+derivado do crime, inclusive a indenização por danos morais e estéticos. 
+f. O/A promotor/a de Justiça deverá avaliar, analisar e abordar a investigação de modo a descartar 
+estratégias de defesa que pretendam justificar a violência doméstica e familiar contra a mulher, 
+
+argumentado o estado de emoção violenta ou a defesa da honra por parte do suposto agressor. Estas 
+práticas são contrárias à abordagem de gênero e atuam como justificativas do comportamento 
+dominante sobre a mulher, culpabilizando esta pelo sucedido. 
+g. Se o arguido tiver cometido os fatos sob os efeitos do álcool ou drogas, e isso constituir o 
+comportamento habitual, os/as promotores/as de Justiça não deverão sustentar a aplicação de 
+atenuante da responsabilidade criminal por atuar sob os efeitos das referidas substâncias, quando a 
+ingestão habitual de álcool ou de drogas expuser a mulher em situação de violência doméstica e 
+familiar a maior situação de risco.
+6.2. Arquivamento da persecução penal
+Nos casos em que o comportamento não tenha tipicidade penal, não tenha sido possível comprovar 
+a autoria do crime ou não existam meios de prova suficientes, o/a promotor/a de Justiça promoverá 
+o arquivamento da persecução penal. 
+Independentemente do arquivamento da persecução penal, caso a mulher esteja em situação de risco
+e existam indícios da necessidade de proteção, será possível o deferimento de medidas de proteção 
+cíveis, devendo perdurar enquanto existir a situação de risco para a mulher (Enunciado nº 04/2011 
+da COPEVID e decisão do STJ no REsp nº 1.419.421/GO). 
+6.3. Das penas e medidas alternativas
+As audiências para os fins do artigo 16 da Lei nº 11340/06 somente devem ser designadas quando 
+houver manifestação espontânea da mulher pela retratação (Enunciado 003/2011 – COPEVID). 
+Não haverá conciliação e mediação criminal em nenhum das fases de investigação e do 
+procedimento, segundo as diretrizes da Lei nº 11340/06.
+Não se aplica o critério de oportunidade e nem o princípio da insignificância nos crimes de 
+violência doméstica e familiar contra a mulher. Eventual reconciliação do casal não é fator 
+impeditivo da persecução criminal. Não deve ser utilizado o argumento da necessidade de 
+preservação da família para minimizar a gravidade da violência.
+O art. 41 da Lei n. 11.340/2006 veda a aplicação dos institutos da Lei nº 9.099/1995 (Enunciado nº 
+001/2011 – COPEVID).
+Não se impõe à mulher em situação de violência doméstica e familiar a submissão a qualquer 
+terapia, mas o Ministério Público deve zelar para que o agressor seja atendido por serviços 
+psicossociais. 
+Os programas de reedução do agressor fazem parte das políticas integradas de proteção às mulheres 
+(Enunciado 19 – COPEVID), sendo possível fixar comparecimento obrigatório a referidos 
+programas de reeducação como uma das condições da medida protetiva de urgência (Enunciado 20 
+– COPEVID). 
+Devem ser priorizadas medidas que busquem restabelecer o estado físico, psíquico e patrimonial da 
+mulher em situação de violência doméstica e familiar, bem como que lhe assegurem uma 
+independência financeira.

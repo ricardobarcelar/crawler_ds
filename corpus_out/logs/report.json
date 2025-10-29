@@ -1,0 +1,25 @@
+{
+  "total_urls": 119,
+  "ok": 105,
+  "too_short": 4,
+  "http_non200": 3,
+  "errors": [
+    {
+      "url": "https://www.stf.jus.br/arquivo/cms/publicacaoPublicacaoTematica/anexo/protecao_da_mulher.pdf",
+      "status": "fetch_error:HTTPSConnectionPool(host='www.stf.jus.br', port=443): Max retries exceeded with url: /arquivo/cms/publicacaoPublicacaoTematica/anexo/protecao_da_mulher.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "url": "https://www.tjpa.jus.br/CMSPortal/VisualizarArquivo?idArquivo=953005",
+      "status": "fetch_error:HTTPSConnectionPool(host='www.tjpa.jus.br', port=443): Max retries exceeded with url: /CMSPortal/VisualizarArquivo?idArquivo=953005 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))"
+    },
+    {
+      "url": "https://www.mpba.mp.br/sites/default/files/area/criminal/2025/medidas-protetivas-digital.pdf",
+      "status": "fetch_error:HTTPSConnectionPool(host='www.mpba.mp.br', port=443): Max retries exceeded with url: /sites/default/files/area/criminal/2025/medidas-protetivas-digital.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    },
+    {
+      "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=4890401",
+      "status": "fetch_error:HTTPSConnectionPool(host='portal.stf.jus.br', port=443): Max retries exceeded with url: /jurisprudenciaRepercussao/verPronunciamento.asp?pronunciamento=4890401 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+    }
+  ],
+  "shards": 1
+}

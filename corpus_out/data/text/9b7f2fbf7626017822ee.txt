@@ -1,0 +1,29 @@
+Natureza jurídica das medidas protetivas de urgência na Lei Maria da Penha
+terça-feira, 17 de outubro de 2023, 15h47
+A Lei Maria da Penha (Lei nº 11.340/2006) é um marco na proteção das mulheres em situação de violência doméstica e familiar. Dentre as suas principais inovações, destacam-se as medidas protetivas de urgência, que têm por objetivo garantir a integridade física, psicológica e patrimonial da vítima, bem como prevenir a reiteração da violência.
+A natureza jurídica das medidas protetivas de urgência na Lei Maria da Penha é um tema controvertido na doutrina e jurisprudência. A corrente majoritária entende que elas possuem natureza cautelar, enquanto uma minoria defende que são tutelas inibitórias.
+Medidas cautelares e tutelas inibitórias
+As medidas cautelares são providências judiciais de caráter provisório, que visam acautelar um direito ou interesse processual que se encontra ameaçado. Elas são regidas pelo Código de Processo Civil (CPC), que prevê diversos tipos de medidas cautelares, como a tutela antecipada, a busca e apreensão, a exibição de documentos e a suspensão de atividades.
+As tutelas inibitórias, por sua vez, são espécies de tutelas provisórias que visam impedir ou fazer cessar uma conduta ilícita. Elas são regidas pelo CPC, que prevê dois tipos de tutelas inibitórias: a tutela inibitória antecedente e a tutela inibitória incidental.
+Natureza jurídica das medidas protetivas de urgência na Lei Maria da Penha
+O tema da natureza jurídica das medidas protetivas de urgência na Lei Maria da Penha foi objeto de análise do Superior Tribunal de Justiça (STJ), no julgamento do Tema 789 [1], em 2023. Por maioria dos votos, o STJ decidiu que as medidas protetivas de urgência possuem natureza jurídica de tutela inibitória.
+O STJ fundamentou sua decisão nos seguintes argumentos:
+- As medidas protetivas de urgência visam impedir ou fazer cessar a violência doméstica e familiar contra a mulher, que é uma conduta ilícita.
+- As medidas protetivas de urgência são deferidas inaudita altera parte, ou seja, sem a prévia oitiva do agressor. Essa característica é típica das tutelas inibitórias, que visam proteger um direito ou interesse processual que se encontra em perigo iminente.
+- A Lei Maria da Penha prevê que as medidas protetivas de urgência devem ser efetivas e duradouras. Essa característica também é típica das tutelas inibitórias, que visam garantir a tutela do direito ou interesse processual até o julgamento definitivo da ação.
+Prazo para reanálise das medidas protetivas de urgência
+A natureza jurídica inibitória das medidas protetivas de urgência na Lei Maria da Penha implica que não há prazo mínimo para sua reanalise. Isso porque as tutelas inibitórias são deferidas de forma provisória, e sua eficácia pode ser reavaliada a qualquer tempo, a depender das circunstâncias do caso concreto.
+No entanto, a jurisprudência do STJ vem entendendo que, em regra, as medidas protetivas de urgência devem ser reavaliadas a cada seis meses. Isso porque a violência doméstica e familiar é uma realidade dinâmica, e as necessidades da vítima podem mudar com o tempo.
+Aplicabilidade da cláusula rebus sic stantibus
+A cláusula rebus sic stantibus é uma cláusula geral que permite a revisão de um contrato, ato ou medida quando as circunstâncias que o fundamentaram se alteram de forma imprevisível. Isto é, quando há fatos e circunstância modificativas do direito. Enquanto não houver, permanece vigente sem que haja um prazo específico.
+No contexto das medidas protetivas de urgência na Lei Maria da Penha, a cláusula rebus sic stantibus pode ser aplicada para justificar a revisão ou até mesmo a revogação de uma medida, quando as circunstâncias que justificavam sua concessão se alteram de forma imprevisível.
+Por exemplo, imagine que uma medida protetiva de urgência impeça o agressor de se aproximar da vítima em um raio de 500 metros. Se, posteriormente, a vítima mudar de endereço e passar a morar a 1.000 metros do agressor, a medida protetiva pode ser revista ou revogada, pois as circunstâncias que a justificavam se alteraram.
+Conclusão
+A natureza jurídica inibitória das medidas protetivas de urgência na Lei Maria da Penha é um importante avanço na proteção das mulheres em situação de violência doméstica e familiar. Essa natureza confere às medidas protetivas um caráter mais preventivo, e permite que elas sejam deferidas de forma mais célere e eficaz.
+A aplicabilidade da cláusula rebus sic stantibus nas medidas protetivas de urgência é um importante instrumento para garantir que essas medidas estejam sempre adequadas às circunstâncias do caso concreto.
+Referências
+Lei Maria da Penha, Lei nº 11.340/2006 – Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm ;
+STJ, Tema 789, julgado em 2023 – Disponível em: https://processo.stj.jus.br/jurisprudencia/externo/informativo/ ;
+Raphael Parseghian Pasqual, "Medidas protetivas de urgência na Lei Maria da Penha: uma análise técnica", Revista da Associação dos Advogados de São Paulo (AASP), ano 12, nº 13, 2023 – Disponível em: https://www.aasp.org.br/noticias/a-luta-contra-a-violencia-domestica-no-brasil-um-panorama-historico-e-atual-com-reflexos-da-nova-lei-14-550-2023/
+[1] "As medidas protetivas de urgência na Lei Maria da Penha visam impedir ou fazer cessar a violência doméstica e familiar contra a mulher, que é uma conduta ilícita" (STJ, Tema 789).
+Fonte: Revista Consultor Jurídico

@@ -1,0 +1,50 @@
+Conforme mencionamos nas aulas anteriores, a Lei 9.099/95 traz diversas previsões sobre o
+processo penal. Vamos avaliar nessa aula se a Lei 9.099/95 pode ser aplicada aos casos de
+violência da Lei Maria da Penha.
+Prisão Preventiva do Agressor (art. 20, LMP)
+Em qualquer fase do inquérito policial ou da instrução criminal, é possível a prisão preventiva
+do agressor. Pode ser decretada de ofício pelo juiz, a requerimento do Ministério Público ou
+mediante a representação da autoridade policial.
+O juiz pode ainda revogar a prisão preventiva. Isso ocorre caso ele verifique, no curso do
+processo, a falta de motivo para que subsista (continue existindo). O juiz pode voltar a decretar a
+prisão preventiva caso sobrevierem razões que a justifiquem.
+Surgiu uma grande discussão sobre a constitucionalidade deste dispositivo, uma vez que abra a
+possibilidade de uma prisão ex officio decretada pelo juiz (sendo que ele deve ser imparcial)
+durante o inquérito (e não somente após a denúncia, durante o processo). Quanto a isso, a
+doutrina minoritária acredita ser esta disposição completamente constitucional como uma lei
+especial. Já a doutrina majoritária acredita que somente se pode decretar prisão após a
+denúncia, não sendo, então, um artigo constitucional.
+Sendo assim, embora haja a precisão do art. 20 da LMP, a prisão preventiva pelo juiz só pode
+ser decretada durante o processo.
+Porém, a prisão preventiva não pode ser aplicada só com o descumprimento do agressor frente
+às medidas protetivas. O STJ definiu no HC 100.512 que, além do descumprimento, deve haver
+periculum libertatis, ou seja, o perigo à vítima ou ao processo ocasionado pela liberdade do
+ofensor. Segundo o art. 312 do CPP, esse perigo existe quando o agressor ameaça a
+testemunha ou destrói provas, por exemplo.
+Não é possível a prisão preventiva para assegurar medidas protetivas cíveis, apenas as
+criminais. Isso porque a prisão civil só pode ocorrer no caso de devedor de alimentos, previsto
+pela CF/88.
+Descumprimento de Medidas Protetivas e Crime de Desobediência
+Quando há descumprimento das medidas protetivas, o agressor pode ser preso preventivamente
+ou ter que pagar astreintes. Porém, não é possível o agressor responder por crime de
+desobediência, segundo o REsp 1.374.653 do STJ.
+Com isso, foi criado o art. 24-A:
+
+Art. 24-A, LMP. Descumprir decisão judicial que defere medidas protetivas de urgência
+previstas nesta Lei:
+Pena – detenção, de 3 (três) meses a 2 (dois) anos.
+Sendo assim, configura-se crime, independentemente da competência civil ou criminal do juiz
+que deferiu as medidas de urgência.
+Quando houver prisão em flagrante, apenas a autoridade judicial pode conceder fiança (ou seja,
+é vedada a fiança dada pelo delegado). O disposto neste artigo não exclui a aplicação de outras
+sanções cabíveis.
+Lei 9.099/95 e Violência Doméstica e Familiar contra a Mulher
+Os crimes praticados com Violência Doméstica e Familiar contra a mulher, independentemente
+da pena prevista, não podem ter aplicação da Lei 9.099/95, segundo o art. 41 da LMP.
+Conforme a ADC 19 do STF, a disparidade que esse art. 41 gera (colocando mais dispositivos
+despenalizadores para a mulher que pratique violência contra o marido do que para o marido que
+agride a mulher) é considerada constitucional. A LMP é constitucional como um todo, sendo vista
+como uma medida afirmativa contra o machismo comum no contexto do Brasil e contra a
+vulnerabilidade doméstica da mulher.
+https://trilhante.com.br
+https://trilhante.com.br

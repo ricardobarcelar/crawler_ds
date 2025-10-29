@@ -1,0 +1,8 @@
+requests
+urllib3
+tqdm
+trafilatura
+beautifulsoup4
+lxml
+PyMuPDF
+pdfminer.six

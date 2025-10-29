@@ -1,0 +1,501 @@
+NORMA DE PROCEDIMENTO – PCES Nº 12 
+Tema: Procedimento para atendimento emergencial de vítimas de violência 
+doméstica/familiar e sexual – Salas Marias 
+Emitente: Polícia Civil do Estado do Espírito Santo - PCES 
+Sistema: N/A 
+Código: 
+N/A 
+Versão: 01 
+Aprovação: IS nº 424/2024 
+Vigência: 
+23/10/2024 
+ 
+ 
+1. OBJETIVOS 
+ 
+ 
+1.1 Definir o procedimento padrão a ser adotado por todos os servidores policiais 
+civis e colaboradores envolvidos no atendimento a mulheres em situação de violência 
+doméstica/familiar e sexual em caráter emergencial nas ocorrências recebidas pelas 
+Unidades de Polícia Civil do Estado do Espírito Santo – PCES. 
+ 
+ 
+2. ABRANGÊNCIA 
+ 
+ 
+2.1 Todas as Unidades de Policial Civil do Estado do Espírito Santo – PCES - que atuam 
+em atendimento emergencial às vítimas de violência doméstica/familiar e sexual. 
+ 
+ 
+3. FUNDAMENTAÇÃO LEGAL 
+ 
+ 
+3.1 Lei Federal nº 11.340/2006, de 07.08.2016 – Lei Maria da Penha 
+3.2 Lei Federal nº 14.540/2023, de 03.04.2023 - Institui o Programa de Prevenção e 
+Enfrentamento ao Assédio Sexual e demais Crimes contra a Dignidade Sexual e à 
+Violência Sexual 
+3.3 Lei Federal nº 14.149/2021, de 05.05.2021 - Institui o Formulário Nacional de Avaliação 
+de Risco, a ser aplicado à mulher vítima de violência doméstica e familiar. 
+3.4 Decreto-Lei Nº 2.848, de 07.12.1940 – Código Penal Brasileiro 
+3.5 Decreto-Lei nº 3.689, de 03.10.1941 – Código de Processo Penal 
+3.6 Portaria SESP/ES nº 035-R, de 20.10.2022 
+3.7 Portaria Conjunta Nº 18-R, de 10 de setembro de 2021 
+3.8 Norma de Procedimento – PCES Nº 007, aprovada pela IS nº 406/2024, em 
+09/10/2024 
+3.9 Lei Estadual Nº 10.585 de 27.10.2016 – Institui o Programa Estadual Patrulha 
+Maria da Penha 
+ 
+ 
+4. DEFINIÇÕES 
+ 
+ 
+4.1 Salas Marias: Espaço humanizado e acolhedor instalado no interior das 
+Delegacias Regionais e/ou Unidades de Polícia Civil do Estado do Espírito Santo 
+
+ 
+que atuam em atendimento emergencial às vítimas de violência doméstica/familiar 
+e sexual com a finalidade de recepcionar adequadamente mulheres em situação 
+de violência doméstica/familiar e sexual e seus filhos menores de idade. 
+4.2 Central Teleflagrante: Unidade Policial na qual se realizam atos de polícia 
+judiciária para lavratura de procedimentos, flagrancias ou não, em que os 
+envolvidos na ocorrência podem se encontrar em localidade diversa dos 
+responsáveis pela lavratura do ato, sendo aplicado o uso de videoconferência, 
+digitalização, e tramitação eletrônica dos documentos produzidos, assinados por 
+escrito, e devidamente encaminhados através da plataforma do sistema DEON. 
+4.3 Serviço Social da Central Teleflagrante: Núcleo existente na Central 
+Teleflagrante cujo objetivo é a articulação com os serviços especializados da rede 
+de proteção social que atendem às mulheres vítimas de violência doméstica, 
+familiar e sexual em âmbito estadual, com a finalidade de contribuir com a 
+inserção das vítimas nos serviços especializados; auxiliar com informações que 
+possam subsidiar os municípios na elaboração de estratégias de prevenção e 
+enfrentamento; colaborar com a divulgação da rede de proteção possibilitando 
+que a vítima tenha conhecimento dos serviços disponíveis em seu território. 
+Ademais, presta assistência às ocorrências em andamento na Central 
+Teleflagrante no que se refere às atribuições do Serviço Social, quando a 
+autoridade policial julgar necessário, bem como prestar apoio, em matéria de 
+Serviço Social, às Delegacias Regionais no que tange ao atendimento das 
+vítimas de violência doméstica e sexual. 
+4.4 Formulário Nacional de Avaliação de Risco – (FONAR): instrumento voltado à 
+prevenção e enfrentamento de crimes e demais atos praticados no contexto da 
+violência doméstica e familiar contra a mulher, tendo como objetivo identificar os 
+fatores que indicam o risco de a mulher vir a sofrer qualquer forma de violência 
+no âmbito das relações domésticas, para subsidiar a atuação dos órgãos de 
+segurança pública, do Ministério Publico, do Poder Judiciário e dos órgãos e das 
+entidades da rede de proteção na gestão do risco identificado, devendo ser 
+preservado, em qualquer hipótese, o sigilo das informações. 
+4.5 Violência Doméstica e Familiar contra a Mulher – De acordo com o art.5° da 
+Lei Maria da Penha é qualquer ação ou omissão baseada no gênero que lhe 
+cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou 
+patrimonial. 
+4.6 Formas de violência doméstica e familiar – De acordo com o art.7° da Lei Maria 
+da Penha, são tipos de violência doméstica e familiar contra a mulher, entre 
+outras, a violência: física, psicológica, moral, sexual, patrimonial. 
+4.7 Medidas Protetivas de Urgência – Mecanismos criados pela Lei Maria da Penha 
+para prevenir e coibir a violência doméstica e familiar, ao viabilizar a preservação 
+da a sua saúde física, psicológica e patrimonial. Podem ser requeridas pelo 
+Ministério Publico ou a pedido da vítima e devem ser remetidas ao Judiciário no 
+prazo máximo de 48 (quarenta e oito) horas para que se avalie a concessão das 
+medidas solicitadas, conforme previsto no art.12 da Lei Maria da Penha. 
+4.8 Patrulha Maria da Penha – O Programa Estadual Patrulha Maria da Penha é 
+realizado pela Polícia Militar do estado do Espírito Santo e consiste no 
+desenvolvimento de ações direcionadas à proteção, prevenção secundária, 
+monitoramento e acompanhamento às mulheres em situação de violência 
+doméstica familiar, que tenham requerido Medidas Protetivas de Urgência, 
+integrando-se às ações realizadas pela Rede de Atendimento e de Enfrentamento 
+à Violência contra a Mulher, no estado do Espírito Santo. 
+ 
+
+ 
+4.9 Casa Abrigo – Equipamento público cuja atribuição é assegurar abrigo às 
+mulheres vítimas de violência doméstica e familiar (Lei 11.340/2006), em risco 
+iminente de morte. Atualmente o abrigo institucional encontra-se sob a gestão da 
+Secretaria Estadual das Mulheres (SESM). 
+ 
+5. UNIDADES FUNCIONAIS ENVOLVIDAS 
+ 
+5.1 Todas as Delegacias Regionais da Policial Civil do Estado do Espírito Santo – PCES 
+5.2 Outras Unidades Policiais da Polícia Civil do Estado do Espírito Santo que atendam 
+em regime de emergência ocorrências que envolvam violência doméstica e familiar 
+contra a mulher. 
+5.3 Central de Teleflagrante da Polícia Civil do Estado do Espírito Santo – PCES 
+ 
+6. PROCEDIMENTOS 
+ 
+6.1. Diagrama: O diagrama ilustra o procedimento para atendimento emergencial de 
+vítimas de violência doméstica/familiar e sexual – Salas Marias. 
+ 
+ 
+ 
+ 
+Eventos (E01) 
+ E01: Chegada de ocorrência no contexto da Lei nº 11.340/2006 (Evento de 
+Início): O fluxo de sequência inicia com o recebimento da ocorrência policila na 
+Delegacia Regional ou em qualquer outra Unidade Policial de plantão que contenha 
+em seu contexto violência doméstica/familiar e sexual contra mulher, conduzida por 
+quaisquer forças de segurança. 
+ 
+Desvio (D01 e D02) 
+D01: Resultado da orientar preliminarmente a vítima (Desvio exclusivo): 
+Considerando a realização da T02, seguir para uma das seguintes possibilidades: 
+Necessita de apoio socioassistencial? 
+ →Sim; 
+
+ 
+ →Não. 
+ 
+D02: Resultado de executar atos de polícia judiciária (Desvio exclusivo): 
+Considerando a realização da T08, seguir para uma das seguintes possibilidades: 
+Necessita de apoio socioassistencial? 
+ →Sim; 
+ →Não. 
+ 
+T01- Executar procedimentos preparatórios 
+ 
+O servidor policial deverá: 
+ 
+ 
+Antes de receber a ocorrência, observar se a vítima necessita de atendimento 
+médico hospitalar. Em caso positivo, solicitar aos condutores da ocorrência que a 
+encaminhe a unidade hospitalar mais próxima. Havendo recusa da vítima, a 
+informação deverá constar no Boletim de Ocorrência. 
+ 
+Ao ser designado para a recepção da Unidade Policial e tomar conhecimento de uma 
+ocorrência envolvendo violência doméstica e familiar com conduzido, deve-se assegurar 
+que a vítima e o conduzido ingressem na unidade por entradas distintas, caso existam. A 
+partir desse momento, é fundamental garantir que não ocorra nenhum contato entre ambos 
+durante toda a permanência na unidade. 
+ 
+Encaminhar a vítima e seus filhos menores de idade, caso a acompanhem, para 
+as Salas Marias, onde houver. 
+ 
+Permitir o acesso de familiares, pessoas próximas e advogados à vítima nas Salas Marias, 
+caso ela assim solicite. 
+ 
+Assegurar que familiares, amigos e advogados do conduzido não ingressem nas Salas 
+Marias, evitando constrangimentos e/ou intimidação à vítima. 
+ 
+T02- Orientar preliminarmente a vítima 
+ 
+O servidor policial deverá esclarecer a vítima que ela aguardará na Salas Marias, 
+onde houver, até o início do procedimento. Na ocasião, prestará orientações gerais 
+sobre os principais aspectos dos procedimentos e dos direitos assegurados por lei. 
+Após prestar os esclarecimentos gerais, deverá informar à vítima que ela será 
+atendida pela Central Teleflagrante, que colherá o seu depoimento detalhado e a 
+orientará sobre os direitos, programas estaduais e encaminhamentos previstos em 
+lei. 
+Em caso de dúvidas sobre as orientações e providências a serem adotadas, devido à 
+complexidade do caso concreto, o servidor policial poderá buscar auxílio junto ao 
+Serviço Social da Central Teleflagrante, nos dias úteis, das 09h às 19h, por meio 
+do telefone do setor: (27) 99647-5181. 
+ 
+T03- Prestar auxílio socioassistencial 
+ 
+
+ 
+O Serviço Socioassistencial da Central Teleflagrante prestará auxílio aos servidores da 
+Delegacias Regionais e/ou outras Unidades Policiais que atuam em regime de plantão, 
+no que se refere a dúvidas relativas a serviços socioassistenciais. 
+ 
+ 
+T04- Disponibilizar Formulário Nacional de Avaliação de Risco 
+ 
+O servidor policial deverá disponibilizar o Formulário Nacional de Avaliação de Risco – 
+(FONAR) para preenchimento a todas as vítimas de violência doméstica e familiar 
+atendidas, a fim de anexá-lo ao procedimento policial. (Preenchimento apenas da parte I 
+– questões objetivas) 
+ 
+O preenchimento do FONAR é realizado pela própria vítima; porém, em caso de dúvidas 
+ou quaisquer dificuldades, o servidor policial deverá auxiliá-la. 
+ 
+ 
+T05- Conferir e Receber a ocorrência 
+ 
+Ao ser entregue na Unidade Policial uma ocorrência envolvendo violência 
+doméstica/familiar e sexual, o servidor policial deverá observar a Norma de 
+Procedimento – PCES Nº 007, aprovada pela IS nº 406/2024, em 09/10/2024, 
+publicada no site da Polícia Civil do Estado do Espírito Santo, https://pc.es.gov.br/, 
+que define o procedimento padrão a ser adotado por todos os servidores policiais 
+civis, policiais militares, policiais penais, policiais científicos, guardas civis municipais, 
+agentes socioeducativos, policiais rodoviários federais nas ocorrências criminais 
+lavradas e entregues nas unidades policiais da Polícia Civil do Estado do Espírito 
+Santo que serão analisadas pela Autoridade Policial para instauração de 
+procedimento cabível. 
+ 
+T06- Iniciar Atos Procedimentais 
+ 
+O servidor policial deverá: 
+ 
+ 
+Atuar em acordo com todas as disposições contidas na Portaria Conjunta nº 
+18-R, de 10 de setembro de 2021 que dispõe sobre a normatização e 
+regulamentação da metodologia e o fluxo de procedimento para a utilização do 
+sistema audiovisual e de videoconferência na realização da lavratura dos 
+procedimentos de Polícia Judiciária no âmbito da Polícia Civil do Estado do Espírito 
+Santo – PCES, em especial: 
+ 
+ 
+Art. 11 Nos procedimentos em que seja apresentada pessoa conduzida 
+em situação de flagrante delito, e/ ou material apreendido, deverá o 
+servidor policial civil do local do recebimento da ocorrência, sem prejuízo 
+de suas atribuições, conforme o caso, providenciar: 
+ I - O registro de ocorrência no sistema DEON, descrevendo, 
+minuciosamente os fatos e todos os objetos apresentados, quando a 
+ocorrência não for de responsabilidade de outra agência; 
+II - A conferência e recebimento da ocorrência, dos conduzidos e dos 
+objetos apresentados quando a ocorrência for de responsabilidade de 
+outra agência; 
+III - A conferência e acondicionamento dos objetos em envelope lacrado 
+e/ou lacre de segurança com numeração individualizada, o qual deverá 
+ser guardado/armazenado em local próprio e seguro, conforme dispuser 
+a administração da unidade policial, de forma a garantir o cumprimento 
+do disposto na Instrução de Serviço nº 192 de 26/05/2021, que instituiu a 
+
+ 
+utilização dos Formulários de Cadeia de Custódia - FCC; 
+IV - O encaminhamento eletrônico de todas as informações apuradas pela 
+plataforma do sistema DEON ao Delegado de Polícia responsável pela 
+lavratura do procedimento; 
+V - O encaminhamento dos envolvidos à sala de videoconferência para 
+realização da oitiva conforme determinação ou por ordem do Delegado 
+de Polícia; 
+VI - O acompanhamento de todo o procedimento, recebendo as 
+impressões das respectivas peças/ documentos, colhendo assinaturas, 
+entregando documentos determinado pelo Delegado de Polícia, 
+digitalizando documentos e anexando eventuais arquivos ao sistema 
+DEON; 
+VII - A comunicação imediata ao Delegado de Polícia de qualquer 
+irregularidade, distúrbio ou problema de qualquer ordem durante o 
+plantão. 
+VIII - A comunicação imediata ao Delegado de Polícia sobre a presença 
+do(s) advogado do(s) envolvido(s), caso seja solicitada entrevista com o 
+cliente ou com o Delegado de Polícia, cópias do procedimento, ou demais 
+requerimentos. 
+IX - No ato de conferência do conduzido, o policial civil deverá: 
+a) Realizar consultas visando à confirmação da identificação da pessoa 
+apresentada; 
+b) Pesquisas sobre informações de antecedentes criminais e mandado 
+de prisão; 
+c) Revistar o conduzido e verificar se possui qualquer sinal de lesão 
+corporal; 
+d) Realizar o cadastramento de fotos, sinais e peculiaridades do 
+envolvido no sistema DEON. X - O cumprimento de todas as suas demais 
+atribuições legais. 
+Parágrafo único. O Policial Civil que concorrer ao Plantão deverá estar 
+apto e cadastrado nos sistemas de informação de Segurança Pública, tais 
+como DEON, SISP, POLINTER, INFOSEG, DETRANET e DISQUE 
+DENÚNCIA, bem como possuir e-mail institucional ativo. 
+ 
+ 
+Anexar arquivos digitais que tenham relação com o fato, tais como: fotografias 
+das lesões aparentes e do objeto utilizado para a prática do crime, áudios e prints 
+de conversas por aplicativo com conteúdo criminoso cedido pela vítima, dentre 
+outros eventualmente existentes. 
+ 
+ 
+Caso haja anuência da vítima, as lesões aparentes deverão ser fotografadas e 
+anexadas ao procedimento. 
+ 
+ Comunicar a Autoridade Policial: 
+ 
+a) Registrar a recusa da vítima em preencher o Formulário Nacional de Avaliação de 
+Risco (FONAR) para que tal informação conste nos autos do procedimento; 
+b) Informar a existência de criança e/ou adolescente expostos à situação doméstica e 
+familiar de grave risco para que seja providenciada a notificação ao Conselho 
+Tutelar; 
+c) Relatar quaisquer outras situações que considerar necessárias, considerando o 
+caso concreto. 
+ 
+ 
+T07 – Executar atos de Polícia Judiciária 
+ 
+A Central Teleflagrante executará atos de polícia judiciária previstos na legislação 
+vigente, regulamentos internos da PCES, e: 
+ 
+→Sempre utilizar a peça do sistema DEON “Termo de Declaração (vítima) Lei 
+
+ 
+Maria da Penha” – Código: 05.G3 – (ANEXO 4) 
+ 
+ →Sempre utilizar a peça do sistema DEON “Encaminhamento a Rede Municipal 
+de Atendimento à Mulher em Situação de Violência” – Código: 11.A 12 (ANEXO 
+5) 
+ 
+T08- Prestar auxílio socioassistencial 
+ 
+O Serviço Socioassistencial da Central Teleflagrante, no que se refere a dúvidas relativas 
+a serviços socioassistenciais. 
+ 
+ 
+T09- Entregar cópia do procedimento à vítima 
+ 
+O servidor policial deverá entregar à vítima uma cópia do boletim de ocorrência e do 
+requerimento de Medida Protetiva de Urgência, a fim de que ela possa apresentar nos 
+serviços aos quais acessar posteriormente. 
+ 
+ 
+T10 – Realizar as comunicações 
+ 
+Após a finalização do procedimento, o servidor policial deverá realizar as 
+comunicações necessárias do procedimento de acordo com o caso concreto, como o 
+Requerimento de Medida Protetiva, Judiciário, Ministério Público, Defensoria Pública, 
+etc. 
+ 
+T11- Acionar a Rede Socioassistencial do município 
+ 
+O Serviço Socioassistencial da Central Teleflagrante comunicará, por meio de ofício, o 
+serviço socioassistencial do território da vítima atendida, bem como quaisquer outros serviços 
+semelhantes existentes, para que realize a busca ativa e adote as providências que considerar 
+necessárias. 
+ 
+T12- Monitorar a devolutiva da Rede Socioassistencial 
+ 
+O Serviço Socioassistencial do Teleflagrante deverá monitorar se a Rede 
+Socioassistencial do território realizou devolutiva sobre o acionamento realizado, 
+principalmente quanto à confirmação de recebimento do ofício e se houve a busca ativa 
+da vítima e eventual adesão. 
+ 
+7. INFORMAÇÕES ADICIONAIS 
+ 
+ 
+7.1 Solicitação de esclarecimento, atualização e/ou de melhoria na presente Norma 
+de Procedimento deve ser enviada à Polícia Civil do Estado do Espírito Santo- PCES 
+por meio da Unidade Executora de Controle Interno (UECI). 
+ 
+ 
+8. ANEXOS 
+ 
+ 
+8.1 Anexo 1- Hiperlink para Portaria SESP/ES nº 035-R, de 20.10.2022, que 
+
+ 
+estabelece o fluxo e metodologia padronizados a serem adotados pelas Polícias Militar 
+e Civil, unidades policiais e serviço “Teleflagrante” no atendimento das ocorrências 
+envolvendo violência doméstica e familiar contra a mulher. 
+→https://sesp.es.gov.br/Media/Sesp/UECI/Portaria%2018-R%20-%20Teleflagrante%20%20publica%C3%A7%C3%A3o%20DIO%2013.09.2021.pdf 
+ 
+8.2 Anexo 2 – Hiperlink para Norma de procedimento– PCES Nº 007, aprovada 
+pela IS nº 406/2024, em 09/10/2024, que define o procedimento padrão a ser adotado 
+por todos os servidores policiais civis, policiais militares, policiais penais, policiais 
+científicos, guardas civis municipais, agentes socioeducativos, policiais rodoviários 
+federais nas ocorrências criminais lavradas e entregues nas unidades policiais da 
+Polícia Civil do Estado do Espírito Santo que serão analisadas pela Autoridade Policial 
+para instauração de procedimento cabível. 
+→https://sesp.es.gov.br/Media/Sesp/UECI/Portaria%20n%C2%BA%20035R,%20de%2020%20de%20outubro%20de%202022%20%20teleflagrante%20viol%C
+3%AAncia%20contra%20a%20mulher.pdf 
+ 
+8.3 Anexo 3- Hiperlink para Portaria Conjunta nº 18-R, de 10 de setembro de 2021 
+que dispõe sobre a normatização e regulamentação da metodologia e o fluxo de 
+procedimento para a utilização do sistema audiovisual e de videoconferência na 
+realização da lavratura dos procedimentos de Polícia Judiciária no âmbito da Polícia 
+Civil do Estado do Espírito Santo – PCES 
+→https://sesp.es.gov.br/Media/Sesp/UECI/Portaria%2018-R%20-%20Teleflagrante%20%20publica%C3%A7%C3%A3o%20DIO%2013.09.2021.pdf 
+ 
+8.4 Anexo 4- Termo de Declaração (vítima) Lei Maria da Penha” – Código: 05.G3 – 
+ 
+8.5 Anexo 5- Encaminhamento a Rede Municipal de Atendimento à Mulher em 
+Situação de Violência” – Código: 11.A 12 
+ 
+ 
+9. ASSINATURAS 
+ 
+ 
+EQUIPE DE ELABORAÇÃO: 
+Michele Meira Costa 
+Delegada de Polícia - GPM 
+Natália Tenónio Sampaio 
+Delegada de Polícia - GPM 
+Nicolle Santiago de Castro Perúsia 
+Delegada de Polícia – Coordenadora 
+UECI-PCES 
+Elaborado em 21/10/2024 
+ APROVAÇÃO: 
+José Darcy Santos Arruda 
+Delegado-geral da PCES 
+Aprovada em: 22/10/2024 
+IS nº 424, de 22/10/2024 
+ 
+ 
+ANEXOS 
+
+ 
+ 
+Anexo 1- Portaria SESP/ES nº 035-R, de 20.10.2022 - estabelece o fluxo e 
+metodologia padronizados a serem adotados pelas Polícias Militar e Civil, unidades 
+policiais e serviço “Teleflagrante” no atendimento das ocorrências envolvendo violência 
+doméstica e familiar contra a mulher. 
+→ https://sesp.es.gov.br/Media/Sesp/UECI/Portaria%2018-R%20-%20Teleflagrante%20%20publica%C3%A7%C3%A3o%20DIO%2013.09.2021.pdf 
+ 
+Anexo 2 –Norma de procedimento– PCES Nº 007/2024 - define o procedimento 
+padrão a ser adotado por todos os servidores policiais civis, policiais militares, policiais 
+penais, policiais científicos, guardas civis municipais, agentes socioeducativos, policiais 
+rodoviários federais nas ocorrências criminais lavradas e entregues nas unidades 
+policiais da Polícia Civil do Estado do Espírito Santo que serão analisadas pela 
+Autoridade Policial para instauração de procedimento cabível. 
+→ https://pc.es.gov.br/Media/PCES/Legisla%C3%A7%C3%A3o/NP%200072024%20-%20ENTREGA%20DE%20OCORRENCIAS%20POLICIAIS%20%20OUTRAS%20AG%C3%8ANCIAS%20aprovada.pdf 
+ 
+Anexo 3- Portaria Conjunta nº 18-R, de 10 de setembro de 2021 - dispõe sobre a 
+normatização e regulamentação da metodologia e o fluxo de procedimento para a 
+utilização do sistema audiovisual e de videoconferência na realização da lavratura dos 
+procedimentos de Polícia Judiciária no âmbito da Polícia Civil do Estado do Espírito 
+Santo – PCES 
+→ https://sesp.es.gov.br/Media/Sesp/UECI/Portaria%2018-R%20%20Teleflagrante%20-%20publica%C3%A7%C3%A3o%20DIO%2013.09.2021.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anexo 4- Termo de Declaração (vítima) Lei Maria da Penha” – Código: 05.G3 – 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Anexo 5- Encaminhamento a Rede Municipal de Atendimento à Mulher em 
+Situação de Violência” – Código: 11.A 12

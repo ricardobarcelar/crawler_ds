@@ -1,0 +1,3208 @@
+1
+
+2
+ANÁLISE DA RELAÇÃO
+SISTEMA DE JUSTIÇA CRIMINAL E
+VIOLÊNCIA DOMÉSTICA CONTRA A MULHER
+
+República Federativa do Brasil
+Ministério Público da União
+Procurador-Geral da República
+Antonio Fernando Barros e Silva de Souza
+Diretor-Geral da Escola Superior do Ministério Público da União
+Rodrigo Janot Monteiro de Barros 
+ 
+ 
+ 
+Câmara Editorial Geral 
+ 
+Odim Brandão Ferreira – Coordenador (MPF) 
+Francisco Rezek (MPF) 
+ 
+Cristiano Otávio Paixão Araújo Pinto (MPT) 
+José Eymard Loguércio (MPT) 
+ 
+Alexandre Concesi (MPM) 
+José Carlos Couto de Carvalho (MPM) 
+ 
+Paulo José Leite Farias (MPDFT) 
+Márcio Nunes Iorio Aranha Oliveira (MPDFT)
+
+4
+ANÁLISE DA RELAÇÃO
+SISTEMA DE JUSTIÇA CRIMINAL E
+VIOLÊNCIA DOMÉSTICA CONTRA A MULHER
+A perspectiva de mulheres em situação de violência e dos
+profissionais responsáveis por seu acompanhamento
+ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DA UNIÃO
+Alessandra Campos Morato | Claudiene Santos |
+Maria Eveline Cascardo Ramos | Suzana Canez da Cruz Lima
+Brasília, DF
+2009
+
+ESCOLA SUPERIOR DO MINISTÉRIO PÚBLICO DA UNIÃO
+SGAS Av. L2-Sul, Quadra 604, Lote 23
+70200-901 – Brasília-DF
+Tel.: (61) 3313-5114 – Fax: (61) 3313-5185
+<www.esmpu.gov.br> – <<EMAIL>>
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS
+Eixo Monumental, Praça do Buriti, Lote 2 – Edifício-Sede
+70091-900 – Brasília-DF
+Tel.: (61) 3343-9500
+<www.mpdft.gov.br>
+© Copyright 2009. Todos os direitos autorais reservados.
+Elaboração do Relatório Final
+Alessandra Campos Morato – Promotora de Justiça do Ministério Público do Distrito Federal e Territórios
+Claudiene Santos – Doutora em Psicologia pela Universidade de São Paulo e Professora da Universidade Católica 
+de Brasília
+Maria Eveline Cascardo Ramos – Mestre em Psicologia pela Universidade de Brasília e Professora da Universidade 
+Católica de Brasília
+Suzana Canez da Cruz Lima – Mestre em Psicologia Social pela Universidade do Estado do Rio de Janeiro e 
+Professora da Universidade Católica de Brasília
+Secretaria de Ensino e Pesquisa
+Miriam Lúcia de Azevedo
+Divisão de Apoio Didático
+Adriana Ferreira Tosta
+Núcleo de Editoração
+Cecilia Fujita
+Lizandra Nunes Marinho da Costa Barbosa – Chefia do Setor de Revisão
+Renata Filgueira – Preparação de originais 
+Lara Litvin Villas Bôas e Thaise dos Santos Leandro – Revisão de provas
+Projeto gráfico, diagramação e capa
+André de Sena e Reinaldo Dimon
+Impressão
+Gráfica e Editora Ideal Ltda. – SIG Quadra 8, 2268 – CEP 70610-480 – Brasília-DF – Tel.: (61) 3344-2112
+E-mail: <<EMAIL>>
+Tiragem – 1.000 exemplares
+As opiniões aqui expressas são de exclusiva responsabilidade dos autores.
+Biblioteca da Escola Superior do Ministério Público da União
+A532 Análise da relação sistema de justiça criminal e violência doméstica contra a 
+ mulher: a perspectiva de mulheres em situação de violência e dos profissionais responsáveis por seu acompanhamento / Alessandra Campos Morato, Claudiene Santos, Maria Eveline Cascardo Ramos, Suzana Canez da Cruz Lima. 
+– Brasília: Escola Superior do Ministério Público da União, 2009.
+ 110 p. 
+ ISBN 978-85-88652-25-5
+ Disponível em:
+ <http://www.esmpu.gov.br/linha-editorial/ >
+ Publicado também em versão impressa, ISBN 978-85-88652-24-8
+ 1. Violência contra a mulher 2. Violência doméstica 3. Assistência judiciária 
+ I. Morato, Alessandra Campos
+ 
+ CDD 341.53322
+
+6
+1 
+Introdução
+2 
+Referencial teórico
+2.1 Psicologia institucional: uma perspectiva de análise 
+das práticas institucionais
+2.2 Situando o fenômeno social da violência contra a 
+mulher
+2.3 As categorias de análise desta investigação
+3 
+Objetivos
+3.1 Objetivo geral
+3.2 Objetivos específicos
+4 
+Hipóteses
+5 
+Método
+5.1 Sujeitos
+5.1.1 Mulheres em situação de violência
+5.1.2 Operadores de justiça e psicólogos
+Sumário
+7
+9
+9
+14
+24
+29
+29
+29
+31
+33
+35
+35
+37
+
+5.2 Procedimento de coleta de dados e instrumentos utilizados
+5.3 Procedimento de análise dos dados
+6 
+Resultados e discussão
+6.1 Perfil da vítima, do autor da agressão, estrutura familiar e 
+histórico da agressão
+6.2 A Lei n. 9.099/1995 e sua aplicação na ótica dos operadores 
+de justiça e das mulheres em situação de violência
+6.3 Vivências dos profissionais responsáveis pelo 
+acompanhamento de mulheres em situação de violência 
+e sua avaliação do serviço prestado pelo sistema 
+de justiça criminal
+6.4 Estratégias alternativas para o sistema de justiça criminal com 
+vistas na melhoria do atendimento das mulheres em situação 
+de violência
+7 
+Considerações finais
+Referências
+Anexos
+38
+40
+43
+51
+69
+83
+86
+91
+95
+99
+
+
+Este documento apresenta os dados obtidos na pesquisa Análise da relação sistema de justiça criminal e violência doméstica contra a mulher: a perspectiva de mulheres em situação de violência e dos profissionais responsáveis por seu 
+acompanhamento, que mostra os casos de violência no casal heterossexual que 
+chegaram aos Juizados Especiais Criminais (Jecrims) de Ceilândia e de Samambaia em período específico, com a finalidade de quantificar os conflitos 
+desta natureza que foram judicializados, de conhecer as respostas dadas pelo 
+sistema, bem como de mostrar a perspectiva das mulheres e dos profissionais 
+envolvidos, buscando alternativas para o enfrentamento do fenômeno.
+A violência sistemática contra as mulheres, praticada por pessoas que 
+privam de sua convivência íntima, é uma grave violação dos direitos humanos 
+reconhecida internacionalmente. O Ministério Público integra o sistema de 
+justiça criminal e é a instituição incumbida da defesa dos interesses sociais 
+e individuais indisponíveis, daí a importância do investimento em pesquisas 
+que possibilitem a obtenção de informações sobre esse tipo de violência, sobre os sujeitos envolvidos, bem como a avaliação periódica das alternativas 
+oferecidas pelo sistema ao casal em situação de violência.
+Para tanto foram consultados dados armazenados no sistema de controle processual do Ministério Público do Distrito Federal e Territórios 
+(Sispro/MPDFT), registros datados entre agosto de 2003 e julho de 2006, 
+Introdução
+1
+
+
+nas Regiões Administrativas de Samambaia e de Ceilândia, além de entrevistas com as mulheres em situação de violência, com os operadores de justiça (promotores, juízes e conciliadores) e com os psicólogos que integram a 
+rede local de parceiros.
+Os participantes dessas duas localidades foram convidados a expressar suas experiências a fim de compreendermos como a violência no casal 
+e a atuação do sistema de justiça criminal são percebidas por esses atores 
+sociais.
+
+10
+2.1 
+Psicologia institucional: uma perspectiva de análise das 
+práticas institucionais
+Nosso objeto de estudo refere-se à análise da prática jurídica sobre 
+a violência contra a mulher a partir da ótica das próprias mulheres e dos 
+operadores de justiça. Nesse sentido, consideramos que a psicologia institucional, como abordagem de análise das instituições, é uma visão teórica 
+que pode contribuir para esta reflexão, dando visibilidade às suas práticas 
+instituídas, às relações simbolizadas e representadas na instituição, e às possibilidades/limites das forças que se pretendem instituintes.
+A psicologia institucional é formada por diversas escolas que se interessam pela análise das instituições e organizações. Seu surgimento teve 
+forte influência da psicanálise, num esforço de articulação com a política, e 
+da análise institucional francesa, com referencial sociológico e político.
+As tendências mais conhecidas do institucionalismo são a sociopsicanálise de Gerard Mendel, a análise institucional de Lourau e Lapassade e a 
+esquizoanálise de Deleuze e Guattari. Na presente investigação, a abordagem adotada é a da análise institucional, especialmente na leitura de Gregorio Baremblitt.
+Referencial teórico
+2
+
+11
+Podemos considerá-la como uma nova psicologia social que aponta 
+para uma visão integradora do homem, colocado em determinada situação 
+histórica e social. Como diz Guirado (1987, p. 70), a intervenção institucional coloca “a necessidade de se pensarem sujeitos constituídos nas e constitutivos das relações institucionais”.
+Para o institucionalismo, a sociedade é uma rede de instituições, “um 
+tecido de instituições que se interpenetram e se articulam entre si para regular a produção e a reprodução da vida humana sobre a terra e a relação entre 
+os homens” (Baremblitt, 1996, p. 29).
+As instituições são tidas como entidades abstratas, que podem ser leis, 
+normas e, quando não estão enunciadas de maneira manifesta, pautas, regularidades de comportamentos, que têm por objetivo regular, criar e manter 
+formas de condições de convívio e de relações entre os sujeitos.
+Burgess (apud Bleger, 1984, p. 37-38) sugere quatro tipos principais 
+de instituições: “instituições culturais básicas (família, igreja, escola), instituições comerciais (empresas comerciais e econômicas, empresas do Estado), instituições recreativas (clubes, teatros) e instituições de controle social 
+formal (agências de serviços sociais e governamentais)”. Baremblitt (1996) 
+indica que a instituição da língua, a instituição das relações de parentesco, a 
+instituição da religião e a instituição da divisão do trabalho são, no mínimo, 
+o alicerce para uma dada sociedade. Entretanto, não existe consenso entre os 
+institucionalistas para a classificação das instituições.
+As instituições materializam-se em dispositivos concretos, que são as organizações. Assim, o Juizado Especial Criminal (Jecrim) e as Promotorias de 
+Justiça (PJs) situam-se na instituição da Justiça, ou seja, na lógica da Justiça, fazendo parte de organizações como o Poder Judiciário e o Ministério Público.
+Toda organização, portanto, é sustentada por instituições vistas como lógicas e que funcionam como estruturantes de práticas. Por outro lado, toda prática evidencia-se como materialização de instituições que são cultivadas no âmbito 
+da sociedade e que se expressam nas diferentes organizações desta sociedade.
+Partindo do pressuposto de que as instituições são produzidas e engendradas nas relações sociais, podemos identificar duas vertentes importantes na sua constituição, o instituinte e o instituído.
+
+12
+Compreende-se por instituinte as forças que tendem a transformar as 
+instituições, ou seja, “as forças produtivas de códigos institucionais” (Baremblitt, 1996, p. 32), enquanto instituído é o resultado desta ação instituinte. 
+“O instituinte transmite uma característica dinâmica; o instituído transmite 
+uma característica estática, congelada” (Baremblitt, 1996, p. 32).
+É evidente que o instituído cumpre um papel histórico importante, porque as leis criadas, as normas constituídas ou as pautas, os padrões, vigoram para regular as atividades sociais, essenciais à vida da sociedade. 
+Mas acontece que essa vida é um processo essencialmente cambiante, 
+mutativo; então, para que os instituídos sejam úteis, sejam funcionais 
+na vida social, eles têm de estar acompanhando a transformação da vida 
+social mesma para produzir cada vez mais novos instituídos que sejam 
+apropriados aos novos estados sociais (Baremblitt, 1996, p. 32-33).
+Dito de outra forma, o que é problematizado pela psicologia institucional é que a vida social, entendida como processo permanente de transformação que deve buscar seu aperfeiçoamento, deve estar regulada por instituições e organizações que se mantenham flexíveis a este campo de forças 
+entre o instituído e o instituinte. Do contrário, o engessamento desse campo 
+dinâmico favorecerá o estabelecimento de deformações sociais, como os processos de exploração, de dominação e de mistificação.
+[...] exploração de uns pelos outros (expropriação da potência e do resultado produtivo de uns por parte de outros), dominação, ou seja, imposição da vontade de uns sobre os outros e não-respeito à vontade coletiva, 
+compartilhada, de consenso, e mistificação, ou seja, uma administração 
+arbitrária ou deformada do que se considera saber a verdade histórica, 
+que é substituída por diversas formas de mentira, engano, ilusão, sonegação de informações etc. (Baremblitt, 1996, p. 34).
+Assim como as instituições fundamentam práticas que produzem 
+normas para os atores sociais, estas também podem sofrer mudanças advindas da própria ação dos sujeitos. Nesse sentido, o sujeito é concebido 
+
+13
+como efeito das instituições que o perpassam e também é considerado como 
+ativo dentro das possibilidades que lhe são dadas pelas instituições que o 
+subjetivam.
+Então, quando nesta produção predomina o instituído, a reprodução de 
+um sujeito do desejo assujeitado aos interesses dominantes, aos interesses 
+exploradores, aos interesses mistificantes, ele adota as características de 
+um sujeito mais ou menos universal e eterno. A isto chama de produção de 
+subjetividade assujeitada, subjetividade submetida. Quando o que predomina neste processo é a geração do novo, de subjetividade absolutamente 
+original, absolutamente singular, absolutamente instituinte [...] a isto se 
+chama produção de subjetividade livre (Baremblitt, 1996, p. 50-51).
+Uma das tendências identificadas no campo social é a de se naturalizar 
+o instituído, de se reconhecer a ordem estabelecida como natural e autêntica. 
+Daí o esforço da psicologia institucional de utilizar dispositivos de análise 
+para a possibilidade de instituir novas relações.
+Como exemplo, professores, diretores, orientadores, crianças de uma escola perpetuam um certo cotidiano, porque o “vivenciam” como relações 
+“naturais”: como tendo sido sempre assim, e como tendendo a se repetir 
+sempre desta forma, porque educação e ensino, é isto. Reconhecem este 
+cotidiano como sendo as práticas de ensino e desconhecem a possibilidade de criar novas práticas. Sua ação não está sendo percebida como 
+instituída, ou seja, como a que produz esta “ordem natural” (Guirado, 
+1987, p. 73).
+Como afirma Guirado (1987, p. 74), o objeto da psicologia institucional são “as relações (imaginadas, simbolizadas, representadas, enfim) que, 
+nascendo dos lugares que a burocracia (o ‘grande simbólico’) estabelece, passam a ser ratificadas, legitimadas e assumidas pelos sujeitos ou grupos como 
+‘naturais’, como ‘tendo que ser assim’ ”.
+Outro aspecto importante, indicado pela psicologia institucional, 
+refere-se à interpenetração, ao entrelaçamento, que ocorre entre todos os 
+
+14
+instituídos e instituintes dos diferentes contextos institucionais. O caso 
+da interpenetração dos instituintes denomina-se transversalidade e o dos 
+instituídos, atravessamento. Podemos afirmar, por exemplo, que, na prática 
+institucional do sistema jurídico, ocorre um atravessamento de questões de 
+gênero, ou seja, práticas já estabelecidas de relação assimétrica entre os sexos 
+podem ser identificadas atravessando a instituição jurídica.
+Para dar apenas um exemplo, vou mostrar-lhes um caso de atravessamento [...] Nós dizemos, por exemplo, que uma escola é um estabelecimento das organizações do ensino, que por sua vez são uma realização da 
+instituição da educação. Mas acontece que uma escola não só alfabetiza, 
+não só instrui, não só educa dentro dos objetivos manifestos do organizado e do instituído, senão que, de alguma forma ela também prepara 
+para a força de trabalho (alienado), ou seja, uma escola também é uma 
+fábrica (Baremblitt, 1996, p. 36-37).
+Para finalizar, é importante destacar que o desafio da psicologia institucional, independentemente da escola, é o de “propiciar, apoiar, deflagrar nas 
+comunidades, nos coletivos, nos conjuntos de pessoas, processos de auto-análise e processos de autogestão” (Baremblitt, 1996, p. 14). Entendemos por 
+auto-análise que as próprias comunidades produzem um saber sobre suas necessidades, suas condições de vida, recursos e assim por diante, e, conseqüentemente, auto-organizam-se para que possam transformar suas condições e suprir suas necessidades. Auto-análise e autogestão são processos simultâneos.
+Inevitavelmente, a orientação da psicologia institucional traz como 
+problemática central a crítica ao pensamento científico como hegemônico e 
+defende o diálogo dos diferentes saberes, incluindo o saber popular, artístico, 
+entre outros, e, além disso, indica a necessidade de que os experts (os especialistas das diversas áreas, “conhecedores da estrutura e do processo da vida 
+social”) estabeleçam uma posição horizontal que favoreça a riqueza de tal 
+diálogo (Baremblitt, 1996, p. 15).
+
+15
+2.2 
+Situando o fenômeno social da violência contra a mulher
+Conceituar o fenômeno da violência é um desafio, em razão de seu 
+caráter polissêmico, que
+denota grande alargamento de nomeações, que vão desde as formas 
+mais cruéis da tortura e do assassinato em massa até aspectos mais 
+sutis, mas considerados opressivos na vida moderna cotidiana, como a 
+burocracia, a má distribuição de renda, certas normas culturais, entre 
+outros (Schraiber; D’Oliveira, 1999, p. 12).
+As práticas de violência fazem parte da história da humanidade, mas 
+nem sempre foram percebidas como as enxergamos hoje, ou seja, as percepções variam conforme as normatizações estabelecidas por determinada 
+sociedade, em um dado momento, em um determinado espaço. A noção de 
+violência da cultura ocidental não é a mesma que se apresenta para os povos 
+de cultura oriental, por exemplo. O ato de furar as orelhas de uma menina 
+recém-nascida para lhe colocar um par de brincos pode ser considerado natural em uma certa comunidade e ato de violência em outros círculos. Domenach (1981, apud Schraiber; D’Oliveira, 1999, p. 12-13) assinala que
+tornar certas práticas sociais uma questão de violência associa-se à própria modernidade com seus valores de liberdade e felicidade, consolidados na criação da cidadania e dos direitos humanos para todos. A 
+partir deste momento, ações que eram percebidas como inevitáveis na 
+ordem do mundo e mesmo desejáveis passam a ser indesejáveis e combatidas. Criação humana, a violência, como as demais práticas sociais, 
+pode e deve ser controlada, senão erradicada. O autor considera que a 
+violência é uma liberdade (real ou suposta) que se opõe e pretende submeter outras. E se é sempre moralmente condenável, por outro lado, 
+é indissociável da experiência humana. Para ele, pois, condenar todas 
+as violências é impossível e hipócrita. Fazer o elogio da violência, por 
+outro lado, é criminoso.
+
+16
+O imaginário popular associa os vocábulos violência e força e, diante 
+de uma cena qualquer, é fácil constatar a primeira, por exemplo, quando 
+vemos a segunda sendo usada para subjugar. Talvez por isso o senso comum 
+tenha-se apropriado do conceito de violência como ruptura de qualquer forma de integridade: física, psíquica, sexual ou moral.
+Qualquer conceito de violência que se proponha não será universal, 
+pois há que se considerar sua historicidade e apreensão subjetiva de quem 
+a julga, vê ou ignora. Coimbra (2002, apud Guareschi et al., 2005, p. 51) 
+afirma que,
+na ausência de verdades universais acerca da violência, o que existe são 
+práticas tomadas como violentas em um dado contexto histórico e cultural. Como exemplo disso, temos a compreensão da violência doméstica. 
+Atualmente, essa concepção traz para o campo da violência práticas que anteriormente eram tomadas como modos de regulamentação das relações 
+sociais. Como exemplo destes modos de regulamentação podemos citar 
+a violência contra a mulher, crianças e adolescentes, principalmente no 
+espaço da família.
+Nem toda violência é reconhecida pelo Estado como tal. A situação 
+dos meninos e meninas de rua é percebida como um problema social, por 
+exemplo. A seletividade do sistema penal opera também na escolha das práticas sociais que serão proibidas pela norma. A violência reconhecida pelo 
+sistema de justiça criminal recebe o status de crime, figura descrita nos códigos e leis penais especiais, sendo a partir desse filtro que começamos a 
+constituir nosso objeto de pesquisa.
+Assim, na imensa gama de conceitos e percepções aplicáveis ao vocábulo violência, nosso olhar detém-se na violência reconhecida pelo Estado 
+como criminosa, mais especificamente na violência que chega ao Juizado Especial Criminal sob as rubricas de lesões corporais leves, vias de fato e ameaças praticadas em um contexto que evidencia a influência das representações 
+de gênero.
+Os movimentos de mulheres vêm trazendo visibilidade à questão da 
+violência de gênero desde os anos 70, denunciando-a “como um grave pro
+17
+blema que afeta a saúde física e mental das mulheres, comprometendo severamente o seu desenvolvimento integral na sociedade” (Angulo-Tuesta, 
+1997, p. 10).
+Em 1994, a Organização dos Estados Americanos reconhece a violência contra a mulher como violação aos direitos humanos das mulheres, 
+a partir da Convenção Interamericana para prevenir, sancionar e erradicar a 
+Violência contra a Mulher – conhecida como Convenção de Belém do Pará 
+(Angulo-Tuesta, 1997; Campos; Carvalho, 2006; Campos, 2003). Essa 
+Convenção passou a conceituar juridicamente a violência de gênero, que inclui a violência física, sexual e psicológica (Campos; Carvalho, 2006; Campos, 2003).
+Diversas teóricas feministas associaram diretamente a sexualidade 
+com a situação de opressão e desigualdade e o controle da sexualidade, dos 
+corpos e mentes das mulheres nas culturas patriarcais (Dantas-Berger; 
+Giffin, 2005). As autoras destacam que a luta dos movimentos feministas e 
+dos estudos de gênero chamaram a atenção “sobre o quanto o que é da ordem 
+privada da família é operado no social: ‘o pessoal é político’ ” (Dantas-Berger; Giffin, 2005, p. 418).
+Constatamos essa questão ao nos aproximarmos do fenômeno da violência contra a mulher, cuja invisibilidade torna-se sua marca maior, pois é 
+caracterizada pelo encobrimento do que ocorre no espaço privado, no âmbito doméstico, e pelo atravessamento das questões de gênero.
+A violência de gênero tem sido constantemente “traduzida” como 
+violência contra as mulheres. Isso ocorre porque, via de regra, diante da 
+complexidade do fenômeno da violência, o que se vê é “sua alta incidência e severidade quando comparada com a violência praticada por mulheres contra homens” (Suárez; Bandeira apud Dantas-Berger; Giffin, 
+2005, p. 418).
+Os homens vítimas de violência freqüentemente o são no espaço público (em bares, nas ruas, no trabalho) e tendem a ser agredidos por desconhecidos ou por conhecidos ocasionais (Dobash, 1992, apud Heise, 1994). 
+Entretanto, Dantas-Berger e Giffin (2005, p. 418) alertam que, ao considerarmos a perspectiva relacional dos gêneros, “não se pode ignorar nem o fato 
+das violências que atingem homens na esfera pública também serem relacio
+18
+nadas aos papéis e ideologias de gênero masculino, nem as possíveis conseqüências destas violências públicas para as relações íntimas entre os gêneros”, 
+como, por exemplo, repassar a violência sofrida para a mulher, em casa.
+As mulheres, as crianças e os idosos têm maior vulnerabilidade à violência no âmbito doméstico, que é perpetuada por fatores sociais, permeados pela construção sociohistórica dos papéis de gênero. A violência no casal 
+apresenta-se em um contexto de disputa, alimentada pelo real desequilíbrio 
+de poder existente entre homens e mulheres. Diz-se que, quando as mulheres são agressivas com seus parceiros, em geral, estão buscando defender-se 
+de agressões sofridas (Dobash, 1992, apud Heise, 1994), o que faria essa 
+violência ser percebida como reativa. Essa interpretação poderia também ser 
+problematizada, uma vez que parte do pressuposto de que o homem age e a 
+mulher reage, demonstrando certa incapacidade de ver a mulher como sujeito ativo de uma situação violenta. O fato é que as mulheres, assim como os 
+homens, podem consubstanciar-se em sujeitos ativos da violência. A violência das mulheres é mais percebida quando se direciona a idosos e crianças. 
+Nosso objeto de estudo, entretanto, concentrar-se-á na violência em que a 
+vítima é a mulher.
+Angulo-Tuesta destaca os estudos de Isis Internacional (1990); Cepal 
+(1992); Heise e outros (1994), em que os seguintes elementos, entre outros, 
+são considerados para a definição de violência contra a mulher (AnguloTuesta, 1997, p. 17):
+a natureza dos atos de violência, ou seja, as formas de violência a serem 
+incorporadas (seja a violência física, a violência verbal ou psicológica e a 
+violência sexual);
+o caráter que define o ato de violência, ou seja, se este expressa ou não 
+exercício de poder, força ou coerção;
+o âmbito onde acontece a situação de violência, se agressor e agredida 
+compartilham o mesmo domicílio;
+a relação entre as pessoas implicadas na situação de violência, ou seja, 
+deve considerar-se o vínculo de parentesco ou a relação íntima atual ou 
+anterior. Nesse sentido, incluem-se o (ex) marido, o (ex) cônjuge, o (ex) 
+parceiro, o (ex) namorado.
+a)
+b)
+c)
+d)
+
+19
+A violência contra a mulher “é um fenômeno extremamente complexo, 
+com raízes profundas nas relações de poder baseadas no gênero, na sexualidade, na auto-identidade e nas instituições sociais” (Heise et al., 1994, apud 
+Angulo-Tuesta, 1997, p. 23), que perpassa todas as classes sociais, os grupos étnico-raciais e as diferentes culturas. Dantas-Berger e Giffin (2005, 
+p. 418) relatam que
+A delimitação conceitual do problema da violência contra mulheres implica enfrentar uma espécie de “ambigüidade terminológica”, um nãoconsenso sobre o modo mais apropriado de nomear os variados tipos de 
+violência física, emocional e sexual. Embora a violência que se baseia em 
+gênero seja mais abrangente, já que “vitima” tanto mulheres como crianças e adolescentes de ambos os sexos, muitas vezes, violência “contra mulheres” e violência “de gênero” ou “baseada em gênero” aparecem como sinônimos ou termos intercambiáveis. Neste bojo, por serem as violências 
+de homens contra mulheres e meninas mais freqüentemente retratadas 
+ou observadas no âmbito das relações familiares e/ou íntimos, os termos 
+“violência doméstica” e “violência intrafamiliar” são outras possibilidades 
+terminológicas, embora não se restrinjam à violência contra as mulheres.
+Angulo-Tuesta (1997, p. 16) traz a noção de violência de gênero
+como um fenômeno complexo e polissêmico, começando pela diversidade 
+de termos que se utilizam para se referir a este tipo específico de violência. Violência contra a mulher, violência intrafamiliar, violência conjugal, 
+violência doméstica contra a mulher, mulher golpeada (Mujer golpeada) 
+como propõe a Cepal ou, mais recentemente, violência de gênero.
+A inserção das questões de gênero agrega nova compreensão ao fenômeno da violência, ao evidenciar a assimetria das relações de poder, que 
+transforma diferença em desigualdade, como discutiremos adiante. Portanto, cabe conceituar o termo gênero, que
+
+20
+torna-se, antes, uma maneira de indicar “construções culturais”– a criação inteiramente social de idéias sobre papéis adequados aos homens e às 
+mulheres. Trata-se de uma forma de se referir às origens exclusivamente 
+sociais das identidades subjetivas de homens e de mulheres. “Gênero” é, 
+segundo essa definição, uma categoria social imposta sobre um corpo 
+sexuado. Com a proliferação dos estudos sobre sexo e sexualidade, “gênero” tornou-se uma palavra particularmente útil, pois oferece um meio 
+de distinguir a prática sexual dos papéis sexuais atribuídos às mulheres e 
+aos homens (Scott, 1995, p. 75).
+Para falar especificamente dessa modalidade de violência, a violência 
+contra a mulher, chamamos a atenção para essa problemática, calcada na 
+tradição social patriarcal de relação social, que
+caracteriza-se pela autoridade imposta institucionalmente, do homem 
+sobre a mulher e os filhos no âmbito familiar. [...] Os relacionamentos interpessoais e, conseqüentemente, a personalidade também são marcados 
+pela dominação e violência que têm a sua origem na cultura e instituições 
+do patriarcalismo (Castells, 2006, p. 169).
+Dantas-Berger e Giffin (2005) destacam que, sob influência do patriarcado, por muito tempo, permitiu-se um certo padrão de violência contra 
+as mulheres, já que ao homem foi designado
+o papel “ativo” na relação social e sexual entre os sexos, ao mesmo tempo 
+em que restringiu a sexualidade feminina à passividade e à reprodução. 
+Com o domínio econômico do homem enquanto provedor, a dependência financeira feminina parecia explicar a aceitação de seus “deveres 
+conjugais”, que incluíram o “serviço sexual”. O controle cotidiano da sexualidade feminina nas sociedades de tradição patriarcal acompanhou 
+a ascensão da ideologia da família nuclear, que passou a funcionar como 
+um dos principais meios de organizar as relações sexuais entre os gêneros 
+(Dantas-Berger; Giffin, 2005, p. 418).
+
+21
+O artigo de Santos e Izumino (2005), intitulado “Violência contra as 
+mulheres e violência de gênero: notas sobre estudos feministas no Brasil”, 
+apresenta dados relevantes para o debate e que destacamos em seguida. As 
+autoras indicam as correntes teóricas que serviram como base aos estudos 
+sobre as questões de violência e gênero, a saber:
+A primeira, que denominamos de dominação masculina, define violência 
+contra as mulheres como expressão de dominação da mulher pelo homem, resultando na anulação da autonomia da mulher, concebida tanto 
+como “vítima” quanto “cúmplice” da dominação masculina. A segunda corrente, que chamamos de dominação patriarcal, é influenciada pela perspectiva feminista e marxista, compreendendo violência como expressão 
+do patriarcado, em que a mulher é vista como sujeito social autônomo, 
+porém historicamente vitimada pelo controle social masculino. A terceira 
+corrente, que nomeamos de relacional, relativiza as noções de dominação masculina e vitimização feminina, concebendo violência como uma 
+forma de comunicação e um jogo do qual a mulher não é “vítima” senão 
+“cúmplice” (Santos; Izumino, 2005, p. 6).
+Tais correntes são representadas, respectivamente, por: Chauí, ao publicar o texto “Participando do debate sobre mulher e violência”, em 1985, 
+Saffioti, como representante da segunda corrente, e, por fim, Gregori, ao publicar, no início dos anos 90, trabalho intitulado Cenas e queixas: um estudo 
+sobre mulheres, relações violentas e a prática feminista.
+Chauí (1985, apud Santos; Izumino, 2005, p. 3) afirma que “a violência contra as mulheres é resultado de uma ideologia de dominação masculina que é produzida e reproduzida tanto por homens como por mulheres”. Para Chauí, a violência é
+uma ação que transforma diferenças em desigualdades hierárquicas com 
+o fim de dominar, explorar e oprimir. A ação violenta trata o ser dominado como “objeto” e não como “sujeito”, o qual é silenciado e se torna dependente e passivo. Nesse sentido, o ser dominado perde sua autonomia, 
+
+22
+ou seja, sua liberdade, entendida como “capacidade de autodeterminação 
+para pensar, querer, sentir e agir” (Santos; Izumino, 2005, p. 3).
+Essa noção de dominação traz como pano de fundo o discurso ideológico, expresso tanto por homens quanto por mulheres, de que a condição 
+feminina é inferior à masculina, o que justificaria o campo fértil para a prática da violência.
+A posição de Chauí nos conduz a resgatar as concepções de masculino 
+e de feminino construídas ao longo da história. As responsabilidades atribuídas à mulher surgiram das transformações iniciadas na família (a partir 
+da Idade Média e consolidadas com o advento do século XVIII), em que a 
+visão da criança e o sentimento de infância “imputam à mulher mais ênfase 
+no papel de reprodutora-responsável em gerar e criar seus filhos” (Ariès, 
+1981). Além desse papel, temos também uma revolução sentimental, ocorrida no século XVIII, em que novos sentidos são acrescidos ao casamento, 
+“conjugando-o ao amor como uma escolha pessoal e estabelecendo como sua 
+razão de ser a procriação e a maternidade” (Cruz Lima, 2003, p. 41).
+Essas transformações levam a um redimensionamento do papel feminino no qual
+a mulher passa a viver para o amor: amor a seus filhos, a seu esposo, a sua 
+casa. Seu trabalho como “reprodutora” é naturalizado e à mulher passa a 
+caber a execução e a supervisão de uma série de tarefas conhecidas como 
+“trabalho doméstico” que se realizam no âmbito da unidade familiar. Apesar dessas atividades serem um trabalho social, na medida em que satisfazem uma necessidade da sociedade – a reprodução presente e futura da 
+força de trabalho –, elas estão organizadas de maneira individual e privada, 
+o que permite que se lhes atribua um caráter de não trabalho. É assim que 
+o trabalho doméstico da dona-de-casa, seu valor e esforço, sua contribuição ao bem-estar social, não é reconhecido como trabalho e não se reveste, 
+portanto, de prestígio social (Rocha-Coutinho, 1994, p. 32-33).
+A invisibilidade do universo privado reflete-se pela ausência de reconhecimento do trabalho doméstico tanto no universo público quanto no pri
+23
+vado. O papel social da mulher, delineado em três faces: mãe/esposa/donade-casa, consolida “um dos pilares da subjetividade feminina, o ser para os 
+outros” (Rocha-Coutinho, 1994, p. 151) [grifos nossos].
+Podemos perceber que a interiorização desses papéis sociais, a constituição da subjetividade sobre os pilares da aceitação, doação, sujeição a 
+um outro, “naturaliza” uma suposta passividade feminina em detrimento da 
+dominação masculina, dificultando sua compreensão como algo dialético e 
+interdependente.
+Saffioti adota visão distinta da de Chauí, ao vincular a dominação 
+masculina ao patriarcado, situando-o no campo político e ideológico, e, 
+principalmente, econômico, para além do sistema de dominação baseado na 
+ideologia machista (Saffioti, 1987, apud Santos; Izumino, 2005, p. 4). A 
+autora aponta que o principal beneficiado do patriarcado-capitalismo-racismo é o homem rico, branco e adulto.
+Segundo ela, a ideologia machista, na qual se sustenta esse sistema, 
+tece a socialização do homem para dominar a mulher e da mulher para se 
+submeter ao “poder do macho”.
+A violência contra as mulheres resulta da socialização machista. “Dada 
+sua formação de macho, o homem julga-se no direito de espancar sua 
+mulher. Esta, educada que foi para submeter-se aos desejos masculinos, 
+toma este ‘destino’ como natural”. Ao contrário de Chauí, Saffioti rejeita 
+a idéia de que as mulheres sejam “cúmplices” da violência. Por outro 
+lado, embora concebendo-as como “vítimas”, a autora as define como 
+“sujeito” dentro de uma relação desigual de poder com os homens. Para 
+Saffioti, as mulheres se submetem à violência não porque “consintam”: 
+elas são forçadas a “ceder” porque não têm poder suficiente para consentir 
+(Saffioti, 1987, apud Santos; Izumino, 2005, p. 6).
+Na terceira perspectiva, Gregori, a partir de seus estudos, problematiza a visão da mulher pelo movimento feminista como vítima da dominação 
+masculina. A autora constatou a partir de suas observações que as mulheres 
+atendidas pela organização feminista na qual realizou suas pesquisas não 
+buscavam necessariamente a separação de seus parceiros. Conforme argu
+24
+menta, “elas não eram simplesmente ‘dominadas’ pelos homens ou meras 
+‘vítimas’ da violência conjugal” (Gregori, 1993, apud Santos; Izumino, 
+2005, p. 6).
+Assim, critica a pressuposição de papéis de gênero de maneira dualista e fixa, em que os homens são vistos como algozes e as mulheres como 
+vítimas.
+Embora a dualidade vítima-algoz facilite a denúncia da violência, Gregori aponta para os limites da visão jurídica dessa dualidade. “Existe alguma coisa que recorta a questão da violência contra as mulheres que não 
+está sendo considerada quando ela é lida apenas como ação criminosa e 
+que exige punição (a leitura reafirma a dualidade agressor versus vítima)” 
+(Gregori, 1993, apud Santos; Izumino, 2005, p. 6-7).
+Para a autora, “a violência conjugal trata-se mais de um jogo relacional 
+do que de uma luta pelo poder” (Gregori, 1993, apud Santos; Izumino, 
+2005, p. 7), isto é, ela desloca a mulher do lugar de vítima para o lugar de 
+protagonista na relação conjugal violenta.
+Santos e Izumino (2005) criticam o posicionamento da autora no que 
+se refere à relação de poder: a ênfase que Gregori atribui à comunicação 
+do casal em detrimento à dimensão do poder, que, segundo elas, parte do 
+pressuposto de que há uma igualdade social entre os parceiros. Louro (1996, 
+p. 10) corrobora essa idéia, ao afirmar que “os sujeitos se produzem em relação e na relação”. Além disso, tais construções necessitam ser plurais, como 
+expõe esta autora:
+A idéia de pluralidade implicaria admitir não apenas que sociedades diferentes teriam diferentes concepções de homem e de mulher, como também no interior de uma sociedade tais concepções seriam diversificadas, 
+conforme a classe, a religião, a raça, a idade, etc.; além disso, implicaria 
+admitir que os conceitos de masculino e feminino se transformam ao 
+longo do tempo (Louro, 1996, p. 10).
+
+25
+A partir dessa breve contextualização, assinalamos duas premissas teóricas importantes para a presente investigação: a violência tem como pano de 
+fundo a importância da dimensão do poder (entendido de forma dinâmica 
+e relacional) nas relações de gênero e a crítica à mulher-vítima em oposição ao homem-algoz ao destacar o lugar de sujeito da mulher, ou seja, com 
+autonomia e poder. Assim, preferiremos o termo mulheres em situação de 
+violência a mulheres vítimas de violência, na mesma linha de compreensão 
+das autoras.
+2.3 
+As categorias de análise desta investigação
+Quando focamos a noção de violência como violência de gênero, o 
+campo ainda é muito amplo. Nosso objeto de estudo não abrange todas as 
+situações de violência de gênero, pois, como já explicitado, a violência de que 
+vamos tratar é a violência criminalizada como lesão leve, ameaça ou vias de 
+fato, praticada numa relação de casal. Como os dados existentes no Sispro/
+MPDFT não estavam previamente classificados, foi preciso construir pelo 
+menos três categorias distintas a partir das quais poderíamos fazer as triagens dos processos de modo que fosse encontrado nosso objeto de pesquisa 
+propriamente dito.
+A violência que estudamos é a violência reconhecida pelo Estado 
+como passível de repressão penal, consubstanciada exclusivamente em três 
+tipos de crimes, quais sejam, as lesões corporais leves, as vias de fato e as 
+ameaças.
+Ameaça é crime previsto no artigo 147 do Código Penal, cuja pena 
+máxima privativa de liberdade não ultrapassa seis meses de detenção. A 
+ameaça de causar mal injusto e grave a alguém pode consistir em palavra, 
+escrito, gesto ou qualquer outro meio simbólico, mas, para que o autor do 
+ 
+O Sistema de Controle de Processos e Documentos (Sispro) é o software desenvolvido 
+pelo Departamento de Modernização Administrativa do MPDFT para o tratamento de 
+informações referentes a processos judiciais, termos circunstanciados, inquéritos policiais e 
+procedimentos e investigação preliminar. O Sispro foi desenvolvido em 1995 e implantado 
+em todo o âmbito do MPDFT em 1996.
+
+26
+crime seja processado, é necessário que a vítima autorize o Ministério Público a dar início à ação penal por meio de um processo.
+A lesão corporal praticada contra a mulher, na época de nossa pesquisa 
+e, portanto, anterior à entrada em vigor da Lei Maria da Penha, era crime 
+cuja pena máxima privativa de liberdade não ultrapassava dois anos, sendo 
+prevista no caput do artigo 129 e nos §§ 6o e 9o do Código Penal brasileiro. 
+Para tanto, o dano à integridade corporal ou à saúde de alguém não pode 
+causar incapacidade para as ocupações habituais por mais de trinta dias ou 
+qualquer dos resultados previstos nos §§ 1o, 2o e 3o do referido artigo 129. 
+Aqui também era preciso autorização da vítima para que fosse deflagrado o 
+procedimento de acusação.
+Vias de fato é contravenção penal punida com prisão simples até três 
+meses, tipo previsto no artigo 21 do Decreto-Lei n. 3.688/1941. Um tapa, 
+puxão de cabelos ou empurrão, que não ocasione na vítima um dano à sua 
+incolumidade física, geralmente configura vias de fato, e não lesão corporal 
+leve. A autorização para que o Ministério Público processe o autor – dada 
+pela vítima ou por seu representante legal – também é exigida. A construção 
+jurisprudencial, antes da Lei Maria da Penha, entendeu que se para a lesão 
+corporal leve (em tese mais gravosa) era exigida a representação do ofendido, 
+com muito maior razão seria necessária no caso das vias de fato.
+Violência de gênero, para os fins de compreensão desta análise, é a relação violenta entre homens e mulheres que se estabelece independentemente da 
+proximidade afetiva dos envolvidos, ocorrendo também entre pessoas que mal 
+se conhecem, mas que, por um motivo qualquer, encontram-se em situação 
+de interação – como, por exemplo, entre colegas de trabalho, companheiros 
+de viagem etc.
+A violência familiar, na proposta deste trabalho, é a que ocorre entre 
+pessoas ligadas por vínculos de parentesco, natural ou por afinidade. A violência familiar pode consubstanciar-se, ou não, em violência de gênero. É um 
+conceito mais amplo do que o de violência doméstica porque não se restringe 
+ 
+Perigo de vida; debilidade permanente de membro, sentido ou função; aceleração de parto; 
+incapacidade permanente para o trabalho; enfermidade incurável; perda ou inutilização de 
+membro, sentido ou função; deformidade permanente; aborto; morte e se as circunstâncias 
+evidenciam que o agente não quis o resultado nem assumiu o risco de produzi-lo.
+
+27
+àqueles que coabitam num mesmo espaço físico. Também difere da violência 
+do casal por abranger relações e sentimentos que extrapolam a dinâmica das 
+relações marido/mulher. O conceito de violência doméstica, por sua vez, está 
+ligado ao conceito de território, abrangendo aqueles casos em que os envolvidos desfrutam de certa intimidade e convivência em um espaço que pode 
+ser concreto ou simbólico. Sabemos que a violência doméstica, de maneira 
+geral, não se restringe ao espaço territorial do domicílio ou da residência das 
+partes, contudo, essa distinção é feita apenas para diferenciá-la da violência 
+familiar, nos termos acima propostos.
+Na elaboração das tabelas, sugerimos que a violência doméstica ou familiar seja um conceito reservado para abranger aqueles casos em que a relação afetiva decorra da convivência sob o mesmo teto (empregados domésticos, 
+agregados etc.) ou da relação de parentesco (pais, avós, primos, tios etc.), mas 
+que não se confunda com a violência no casal, nosso objeto de estudo propriamente dito.
+Embora a Lei Maria da Penha (Lei n. 11.340/2006) utilize a violência 
+doméstica para significar também os casos de violência no casal, optamos 
+por não restringir tal conceito a esses casos por acreditarmos que as crianças 
+e os idosos também podem ser vítimas – e muito freqüentemente o são – da 
+agressão perpetrada no seio da família e principalmente porque queríamos 
+investigar especificamente casos de violência entre companheiros.
+Finalmente, o conceito que atende ao nosso objeto de pesquisa é a violência no casal heterossexual, que ocorre entre homens e mulheres ligados por 
+vínculos afetivos, os quais se consubstanciam em namoro, casamento, relação amorosa, estável ou não, calcada nas representações construídas sobre o 
+masculino/feminino, alimentada por situações de estresse e pela dificuldade 
+de diálogo, levada perante o Juizado Especial Criminal sob as rubricas de lesões leves, vias de fato ou ameaças. Não se confunde com a violência doméstica ou familiar porque constitui um microcosmo próprio na dinâmica das 
+relações familiares. Também não necessita de convivência sob o mesmo teto 
+para se manifestar, não sendo raras as manifestações entre casais de namorados, em que já se constrói, antes mesmo da vida em comum no domicílio 
+conjugal, uma sociabilidade violenta. É muito freqüente também entre ex
+28
+casais, principalmente quando a iniciativa da separação é da mulher, em que 
+o companheiro ainda a considera como propriedade sua e reforça a violência 
+para trazê-la de volta e subjugá-la.
+
+29
+
+30
+3.1 
+Objetivo geral
+Analisar os casos de violência no casal heterossexual que chegaram 
+aos Juizados Especiais Criminais (Jecrims) de Ceilândia e de Samambaia, 
+em período específico, com a finalidade de quantificar tais conflitos, de conhecer as respostas dadas pelo sistema, bem como de mostrar a perspectiva 
+das mulheres e dos profissionais envolvidos, buscando alternativas para o 
+enfrentamento do fenômeno.
+3.2 
+Objetivos específicos
+Identificar o perfil da vítima, do autor da agressão, estrutura familiar e histórico de agressão.
+Analisar a aplicação de medidas legais e o processamento do autor, 
+no período de vigência da Lei n. 9.099/1995.
+Analisar as vivências das mulheres em situação de violência e sua 
+avaliação do serviço prestado pelo sistema de justiça criminal.
+Analisar as vivências dos profissionais responsáveis pelo acompa▪
+▪
+▪
+▪
+Objetivos
+3
+
+31
+nhamento de mulheres em situação de violência e sua avaliação do 
+serviço prestado pelo sistema de justiça criminal.
+Apontar estratégias de enfrentamento da questão da violência contra a mulher para o sistema de justiça criminal.
+▪
+
+32
+A maioria dos casos de lesões leves, ameaças e vias de fato levados 
+ao Juizado Especial Criminal refere-se à violência no casal heterossexual, e o maior número de vítimas está entre as mulheres.
+A maioria dos casais estudados tem pelo menos um filho em comum, 
+ou só do homem ou só da mulher, que está sendo vitimizado secundariamente pela situação de violência que se estabeleceu na família.
+A vítima não denuncia na primeira agressão. A maioria dos casais 
+tem histórico de violência instalada na relação, ou seja, a reincidência é significativa.
+As vítimas não estão interessadas apenas na repressão do autor 
+(prisão), mas principalmente na prevenção, ou seja, querem que o 
+autor interrompa seu comportamento violento.
+A maioria dos processos é arquivada sem qualquer outra providência Estatal que não a do mero questionamento da vítima sobre seu 
+interesse no prosseguimento do feito.
+Há práticas diferenciadas de abordagem do problema dentro do 
+Ministério Público.
+A abordagem multidisciplinar apresenta melhores resultados que 
+a atuação meramente judicial.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+4
+Hipóteses
+
+33
+
+34
+Em face da complexidade do fenômeno da violência contra a mulher, a 
+pesquisa foi desenvolvida numa abordagem quantitativa e qualitativa.
+Partimos do pressuposto de que metodologia é o caminho e o instrumento próprio para a abordagem da realidade, acreditando que ela não significa somente um conjunto de técnicas que podem ser utilizadas em pesquisa, mas que 
+está associada à própria visão de mundo defendida neste trabalho, ao seu corpo 
+teórico, e que assim a ciência e a metodologia estão juntas no mesmo processo.
+Nas ciências sociais, as formas de abordagem da realidade, as formas 
+metodológicas, são polemicamente divididas em quantitativas e qualitativas. 
+Concordamos com Minayo (1992, p. 28) quando afirma que “a dicotomia 
+que se estabelece, de um lado, deixa à margem relevâncias e dados que não 
+podem ser contidos em números e, de outro lado, às vezes contempla apenas 
+os significados subjetivos, omitindo a realidade estruturada”.
+A diferença entre quantitativo e qualitativo é de natureza. Não existe 
+hierarquia, como também oposição; pelo contrário, são aspectos que se complementam. O quantitativo é o visível do fenômeno e o qualitativo é o aprofundamento no mundo dos significados, não perceptível por estatística. Em 
+suma, a realidade possui essas duas dimensões, e, por isso, ambas precisam 
+ser contempladas pela ciência.
+Método 
+5
+
+35
+Entendemos a metodologia quantitativa como sistematização da investigação com base em procedimentos técnico-instrumentais que visa constatar as relações entre os fatos sociais a partir de procedimentos empíricos, 
+comprovados estatisticamente.
+Por outro lado, a metodologia qualitativa
+trabalha com o universo de significados, motivos, aspirações, crenças, 
+valores e atitudes, o que corresponde a um espaço mais profundo das 
+relações, dos processos e dos fenômenos que não podem ser reduzidos à 
+operacionalização de variáveis (Minayo, 1992, p. 22).
+Sendo assim, a finalidade é a busca da compreensão particular do que 
+se estuda, disso resultando sua não preocupação com generalizações e leis. 
+Seu foco é o específico, o peculiar, uma vez que atingido pelas interpretações 
+subjetivas oriundas das experiências vividas.
+O critério de objetividade nestes estudos reside em perseguir as significações em suas especificidades históricas, as quais jamais poderão ser 
+submetidas à prova de certeza ou observação sistemática, vista a dinamicidade que as caracterizam. Assim também, não é possível a predição porque 
+sua finalidade consiste em compreender o fenômeno em sua significação 
+e historicidade, a preocupação não recai na previsibilidade de comportamentos e fatos.
+Neste tipo de pesquisa, a objetividade ganha outro sentido, não se refere à neutralidade científica, porque, como já foi exposto neste tratamento, 
+não é viável. Todavia, diz respeito à objetivação, ao rigor tanto teórico como 
+técnico no desenvolvimento do trabalho científico. Nesta investigação, a técnica de coleta e análise utilizada é a proposta por Bardin (1977).
+Dessa forma, os dados quantitativos e qualitativos são complementares. Consideramos a quantidade como uma das qualidades dos fatos e dos 
+fenômenos e integramos a interioridade e a exterioridade como constitutivas 
+dos fenômenos.
+As etapas da pesquisa são descritas a seguir.
+
+36
+5.1 
+Sujeitos
+A pesquisa foi realizada com mulheres em situação de violência, operadores de justiça e psicólogos que trabalham com essa questão em Ceilândia e Samambaia-DF. Essas localidades foram escolhidas pela sua expressiva população. Conforme a Pesquisa Distrital por Amostra de Domicílios 
+(PDAD), excluindo-se a cidade de Brasília, as três maiores em população 
+são: Ceilândia (16,7%), Samambaia (12,5%) e Taguatinga (11,8%).
+5.1.1 Mulheres em situação de violência
+A partir da análise preliminar dos processos de Ceilândia e de Samambaia-DF, as mulheres foram contactadas para agendar as entrevistas.
+Foram realizadas cinco entrevistas assim distribuídas: quatro entrevistas cujas mulheres, de ambas as localidades, não autorizaram a instauração do processo e uma mulher, de Ceilândia, que estava sendo atendida pelo 
+serviço psicossocial.
+Dada a particularidade do estudo qualitativo, é importante ressaltar 
+que não se tem o objetivo de generalizar, mas sim o de explorar as características de um universo particular.
+Os telefones de contato e os nomes das vítimas foram obtidos a 
+partir dos dados constantes nos processos, e houve grande dificuldade em 
+localizá-las.
+Foram realizadas tentativas de contato e localização de cerca de 120 
+mulheres, dentre as quais seis se recusaram a participar. As demais não 
+foram localizadas, devido à mudança de endereço e/ou de telefone. Doze 
+agendaram entrevista, e apenas cinco compareceram.
+Apresentamos o perfil das cinco mulheres efetivamente consideradas 
+para a análise nesta pesquisa. Para preservar suas identidades, foram atribuídos nomes fictícios às participantes.
+1o caso: Rosalva tem 27 anos e três filhos (9, 7, 6 anos). Foi casada, no 
+ano 2000, durante 6 meses, quando morava na Paraíba. Separou-se do marido porque ele bebia muito e sempre que isso acontecia tentava agredi-la. O 
+
+37
+ato, porém, não era concretizado pela interferência do sogro, que vinha em 
+seu auxílio. Rosalva veio para Brasília há cinco anos e teve um relacionamento com uma pessoa com quem coabitou por dois anos. Este companheiro 
+também bebia muito e sempre a agredia, o que a levou a denunciá-lo por 
+não admitir ser agredida por alguém que nem era pai de seus filhos. Rosalva 
+trabalha fora e sustenta a casa e seus três filhos. Depois da denúncia, o seu 
+companheiro saiu de casa, e ela arquivou o processo por não conseguir localizá-lo. Relata que sua mãe também foi vítima de violência.
+Rosalva falava baixo e, ao relatar sua história, dificilmente direcionava 
+seu olhar para as pesquisadoras, mantendo os olhos sempre baixos.
+2 o caso: Rosana tem 19 anos, é casada há três, tem uma filha e reside 
+em Samambaia. Ela está desempregada e seu marido é mecânico. Rosana já 
+saiu de casa várias vezes por causa das agressões. Na última vez em que se 
+separaram, ela disse que só voltou para o marido porque estava passando 
+por dificuldades financeiras na casa da mãe, estava sem emprego e a mãe não 
+conseguia sustentá-la com a filha. Então, como o marido a procurava sempre para que voltassem a morar juntos, ela resolveu aceitar. Rosana relata o 
+desejo de separar-se do companheiro assim que tiver condições de garantir 
+o sustento dela e da filha.
+Ao longo da entrevista Rosana falava baixo e demonstrou desconhecimento de redes sociais de apoio.
+3 o caso: Tatiane tem 24 anos e dois filhos, está separada há dois anos 
+do marido com quem esteve casada por três e teve um filho. Seu filho mais 
+velho é fruto de um relacionamento anterior ao seu casamento. A separação 
+ocorreu por causa da única agressão que Tatiane sofreu do marido. A ocorrência na delegacia foi registrada em virtude da ameaça de uma nova agressão do companheiro, quando eles já estavam separados. Ela e o filho mais 
+velho foram morar na casa de sua mãe, após a separação. Ela está pleiteando 
+a guarda do filho mais novo, que atualmente mora com a avó paterna. Tatiane trabalha fora e planeja ter casa própria e morar com os filhos novamente. 
+Foi encaminhada para atendimento psicológico pelo fórum, tendo em vista 
+as conseqüências traumáticas da violência sofrida.
+4 o caso: Francisca tem 21 anos e três filhos: um menino de cinco anos, 
+uma menina de três anos e um bebê recém-nascido. É natural de Fortaleza 
+
+38
+e mudou-se para Brasília há um ano com o marido, a sogra e os filhos. Francisca é casada há sete anos e durante esse período por várias vezes buscou 
+a separação devido às agressões do marido. Contudo, reatava seu relacionamento pela falta de apoio de sua família e pelo afeto que dizia sentir por 
+ele. No entanto, com medo e cansada das agressões do marido, no período 
+em que estava grávida de seu terceiro filho, resolveu buscar ajuda no Centro 
+de Desenvolvimento Social (CDS) por indicação de uma vizinha e decidiu 
+denunciá-lo à Justiça. Atualmente, mora na Casa Abrigo, pela ausência de 
+apoio em Brasília. Francisca não está trabalhando e não tem condições financeiras de sustentar seus filhos, por isso seu marido está com a guarda 
+das crianças maiores, o que lhe causa sofrimento. Francisca expressa desejo 
+de romper com o marido, reaver a guarda dos filhos e trabalhar para poder 
+sustentá-los, entretanto, ainda encontra dificuldades para a concretização 
+desse desejo.
+5 o caso: Gisele tem 27 anos, dois filhos, é casada há dez anos e ainda 
+vive com o marido, porém, já se separou devido a uma situação de agressão 
+cometida por ele contra ela. Nesse período, Gisele foi para a casa de sua mãe 
+com seus filhos e deu entrada no processo de separação e de pensão alimentícia, e registrou ocorrência de violência na delegacia. Entretanto, após um 
+entendimento com o marido, resolveu reatar o casamento, pois acredita na 
+manutenção da família e também no afeto pelo companheiro. Gisele relata 
+que seu companheiro não está agressivo. Acredita que discussões entre casais 
+fazem parte do relacionamento e que não aceitará ser agredida novamente.
+5.1.2 Operadores de justiça e psicólogos
+O grupo entrevistado foi composto por juízes de direito, promotores 
+de justiça, conciliadores dos Juizados Especiais Criminais de Ceilândia e de 
+Samambaia e pelos psicólogos responsáveis pelo atendimento psicossocial do 
+Conselho de Direitos da Mulher (CDM) e da Central de Medidas Alternativas (Cema). Os onze participantes desse grupo foram nomeados como sujeitos e numerados de 1 a 11, sem que fosse identificado seu cargo ou profissão.
+
+39
+5.2 
+Procedimento de coleta de dados e instrumentos utilizados
+Pesquisa documental baseada em sistemas de informação do 
+MPDFT e nos processos judiciais respectivos, nas localidades de Ceilândia 
+e de Samambaia-DF, no período de agosto de 2003 a julho de 2006.
+Nesse período as Promotorias de Justiça (PJs) Criminais, Especiais 
+Criminais e de Delitos de Trânsito de Ceilândia registraram 3.323 termos 
+circunstanciados (menor potencial ofensivo/juizado) referentes a casos de 
+lesões, ameaças e vias de fato, incluindo casos de violência doméstica, de 
+gênero e de violência no casal (nosso objeto de estudo). Destes, 2.694 apresentaram vítima de sexo feminino e autor de sexo masculino.
+No mesmo período, nas PJs Criminais, Especiais Criminais e de Delitos de Trânsito de Samambaia, foram registrados 3.063 termos circunstanciados (menor potencial ofensivo/juizado) referentes a casos de lesões, 
+ameaças e vias de fato, incluindo casos de violência doméstica, de gênero e 
+de violência no casal (nosso objeto de estudo). Destes, 2.494 apresentaram 
+vítima de sexo feminino e autor de sexo masculino.
+Para definirmos o tamanho das amostras, o estudo de Morato (2006), 
+na circunscrição de Brazlândia, em que a proporção de casos de violência no 
+casal foi de 81,27%, foi utilizado como referência para estimar o número de 
+casos em Ceilândia, ou seja, 2.190. O tamanho da amostra para a estimação 
+de proporção simples com 95% de confiança e erro de 5% (para mais ou para 
+menos) foi de 327. Considerando a proporção de casos de violência no casal, 
+ajustamos o tamanho da amostra para 402. Como verificamos que em Ceilândia há um número crescente de casos ano a ano, optamos por amostragem sistemática, que, nesse caso, deu um salto de tamanho 6 (seis), gerando 
+novo tamanho de amostra: 449.
+Para Samambaia, a estimativa dos casos foi de 2.027. O tamanho da 
+amostra para a estimação de proporção simples com 95% de confiança e erro 
+de 5% (para mais ou para menos) foi de 323. Considerando a proporção de 
+casos de violência no casal, ajustamos o tamanho da amostra para 398. Também em Samambaia houve um número crescente de casos ano a ano e, dessa 
+forma, optou-se por amostragem sistemática a partir de relação classificada 
+1.
+
+40
+por data de ocorrência, que, nesse caso, dá um salto de tamanho 6 (seis), 
+gerando novo tamanho de amostra: 410.
+Foi elaborada uma ficha (Anexo I) para consulta aos processos selecionados pela amostragem estratificada, em ambas as localidades, para 
+coleta de dados sobre o perfil do autor da agressão e da vítima, estrutura 
+familiar, histórico da agressão, aplicação de medidas legais e processamento 
+do autor.
+Entrevistas individuais do tipo semi-estruturadas com as mulheres 
+em situação de violência, operadores de justiça e psicólogos.
+De acordo com Triviños (1987, p. 146):
+a entrevista semi-estruturada é aquela que parte de certos questionamentos básicos, apoiados em teorias e hipóteses, que interessam à pesquisa, e 
+que, em seguida, oferecem amplo campo de interrogativas, fruto de novas 
+hipóteses que vão surgindo à medida que se recebem as respostas do 
+informante. Desta maneira, o informante, seguindo espontaneamente a 
+linha de seu pensamento e de suas experiências dentro do foco principal 
+colocado pelo investigador, começa a participar na elaboração do conteúdo da pesquisa.
+Entendemos que o modelo de entrevista, apoiada em roteiro, serviu 
+de orientação para os investigadores e não restringiu a expressão dos entrevistados. Foi uma “conversa com finalidade” (Minayo, 1992, p. 122). Em 
+outras palavras, “mantém a presença consciente e atuante do pesquisador 
+e, ao mesmo tempo, permite a relevância na situação do ator” (Triviños, 
+1987, p. 152).
+Os temas abordados no roteiro de entrevista individual com as mulheres (Anexo II) referem-se a informações sobre a vida familiar; a vivência 
+da violência doméstica e a experiência no sistema Judiciário. O roteiro de entrevista com os operadores de justiça e com os psicólogos (Anexo III) listou 
+questões sobre sua experiência profissional e a prática jurídica na questão da 
+violência no casal.
+Os encontros tiveram duração máxima de duas horas e ocorreram em 
+diversos locais. As entrevistas com os operadores de justiça e com os psicó2.
+
+41
+logos foram realizadas nos fóruns, em Brasília, nas promotorias das Regiões 
+Administrativas de Ceilândia e de Samambaia e no Conselho de Direito 
+da Mulher (CDM). As entrevistas com as mulheres foram realizadas no 
+Centro de Formação em Psicologia Aplicada (CEFPA/UCB), nas casas das 
+mulheres, no Conselho de Direito da Mulher (CDM) e na Casa Abrigo do 
+Distrito Federal, dependendo de sua preferência.
+As entrevistas foram gravadas, com o consentimento das entrevistadas, e posteriormente transcritas para a análise de conteúdo.
+Por meio deste instrumental metodológico, buscamos chegar às interpretações feitas pelas mulheres e pelos operadores de justiça sobre a experiência da violência no casal. Consideramos que as formas culturais interiorizadas são reveladas a partir da fala, o que nos possibilita o alcance das 
+relações sociais presentes em determinado contexto (Minayo, 1992).
+Nesse sentido, o foco do estudo não se localiza nas problemáticas 
+individuais, mas se refere à produção coletiva sobre a violência doméstica 
+contra a mulher.
+5.3 Procedimento de análise dos dados
+A forma de tratamento e análise dos dados foi realizada de acordo 
+com a etapa de coleta de dados:
+Pesquisa documental : análise de conteúdo e tratamento estatístico.
+Os processos judiciais analisados foram inseridos em banco de dados 
+Access e submetidos à analise estatística. A partir da elaboração dos gráficos 
+e das tabelas, os dados foram interpretados.
+Entrevistas semi-estruturadas individuais com as mulheres em situação de violência, com os operadores de justiça e com os psicólogos foram 
+submetidas à análise de conteúdo conforme Bardin (1977, p. 121), que apresenta a seguinte definição:
+Um conjunto de técnicas de análise das comunicações, visando, por 
+procedimentos sistemáticos e objetivos de descrição do conteúdo das 
+mensagens, obter indicadores quantitativos ou não, que permitam a in1.
+2.
+
+42
+ferência de conhecimentos relativos às condições de produção/recepção 
+(variáveis inferidas) das mensagens.
+Entre as diferentes técnicas deste método de análise de conteúdo, 
+adotamos a análise temática. Definimos, contando com o apoio teórico específico e com os objetivos do estudo, os diferentes temas ou unidades de 
+significação, que, em nossa ótica, surgiram a partir do material coletado. É 
+importante salientar que analisamos os dados, ou seja, as falas das mulheres 
+e dos operadores de justiça, em sua totalidade, sem privilegiar aqueles com 
+maior freqüência. Seguimos a abordagem qualitativa, detendo-nos mais na 
+presença do dado que na freqüência de aparição destes.
+Tecnicamente, o tratamento de análise dos dados consistiu em três 
+etapas: a) a pré-análise: desde a organização do material a ser analisado até 
+a elaboração de indicadores para interpretação; b) a exploração do material: 
+operacionalização de diversos recortes do conteúdo – da codificação, classificação até a categorização; c) o tratamento dos resultados: interpretação 
+conclusiva apoiada no referencial teórico.
+Esse processo de análise foi realizado por meio de inúmeras releituras 
+das entrevistas, buscando aproximar-se ao máximo do contexto dos entrevistados. Por meio da leitura nos foi possível identificar os aspectos significativos e mais destacados pelos entrevistados, o que permitiu a formação 
+de categorias de análise. Após esta etapa, classificamos as falas, agrupando 
+aspectos semelhantes em um mesmo tópico – classificação que resultou nos 
+capítulos referentes à análise dos dados.
+
+44
+A riqueza dos dados coletados é imensa. Contudo, diante da necessidade de adequação da análise ao tempo que foi fixado para realização e 
+conclusão da pesquisa – em torno de 9 meses –, optamos por apresentar os 
+resultados em quatro principais capítulos, sendo as hipóteses confirmadas 
+ou refutadas ao longo de toda a explanação. Os capítulos discorrem sobre:
+6.1 Perfil da vítima, do autor da agressão, estrutura familiar e histórico da agressão.
+6.2 A Lei n. 9.099/1995 e sua aplicação na ótica dos operadores de 
+justiça e das mulheres em situação de violência.
+6.3 Vivências das mulheres e dos profissionais responsáveis pelo seu 
+acompanhamento, suas avaliações do serviço prestado pelo sistema de justiça criminal.
+6.4 Estratégias alternativas para o sistema de justiça criminal com vistas na melhoria do atendimento das mulheres em situação de violência.
+Como veremos nas tabelas a seguir, dos 2.694 termos circunstanciados registrados em Ceilândia e dos 2.494 registrados em Samambaia, que 
+correspondem a todos os casos de lesões leves, vias de fato e ameaças levados 
+aos Juizados Especiais Criminais de agosto de 2003 a julho de 2006, mais 
+de 1/3 referem-se a conflitos entre homens e mulheres. A tabela 1 ilustra o 
+Resultados e discussão
+6
+
+45
+número de casos de violência registrados nos Jecrims nas duas localidades 
+em que o autor da agressão é homem e a agredida, mulher.
+A partir desses números iniciais, optou-se por uma amostragem estatisticamente confiável, que resultou nos números designados nas tabelas 2 e 
+3, os quais correspondem a processos que foram manuseados um a um, catalogados e cujas informações foram extraídas e agrupadas sistematicamente. Em relação aos tipos de violência ocorrida no âmbito familiar/doméstico, 
+os dados apontam a prevalência da violência no casal:
+ 
+Dos casos de violência no casal em Ceilândia, a análise dos processos aponta que dois 
+deles tinham como vítimas homens e autoras do fato, mulheres, e os 307 restantes tinham como vítimas mulheres e autores, homens. Dos casos de violência no casal em 
+Samambaia, cinco tinham como vítimas homens e dois não especificavam o sexo da vítima. Dos casos de vítima do sexo feminino, um tinha autor também do sexo feminino e 
+cinco tinham autor de sexo não especificado, restando assim 302 casos em que a vítima 
+era mulher e o autor, do sexo masculino. 
+Tabela 1 – Distribuição da freqüência dos casos de termos circunstanciados com
+vítima mulher e autor do sexo masculino, conforme banco de dados do MPDFT
+Período
+Ceilândia
+Samambaia
+ago./2003 – jul./2004
+909
+555
+ago./2004 – jul./2005
+891
+923
+ago./2005 – jul./2006
+894
+1.016
+total
+2.694
+2.494
+Fonte: Banco de dados do MPDFT
+Tabela 2 – Distribuição da freqüência dos casos de violência
+no casal por tipo de violência em Ceilândia-DF
+Tipo de violência
+Freqüência
+Percentual
+Violência no casal
+308
+68,60%
+Violência de gênero
+65
+14,48%
+Violência doméstica
+48
+10,69%
+Não se aplicava
+28
+6,23%
+total
+449
+100%
+Fonte: Banco de dados do MPDFT
+
+46
+As tabelas 2 e 3 nos mostram que a maioria dos conflitos analisados é de violência no casal, ou seja, em torno de 70% dos casos. Os que 
+correspondem à violência doméstica ou familiar (entre pessoas ligadas por 
+consangüinidade, afinidade ou que desfrutam de coabitação em um mesmo 
+espaço doméstico, excluído o casal) estão em menor número. A violência de 
+gênero, ou seja, a que reflete conflitos entre vizinhos, entre pessoas que mal 
+se conhecem ou até mesmo entre estranhos, conforme a definição proposta 
+para este trabalho, corresponde à segunda maior amostra.
+A violência no casal heterossexual é, pois, um dos sérios problemas que se 
+coloca diante do sistema de justiça criminal. A visibilidade que esse tipo de violência adquiriu com a criação dos juizados fica demonstrada. A agressão entre 
+pessoas que desfrutam ou desfrutaram de uma relação amorosa/sexual é muito mais comumente levada ao Judiciário que aquelas outras (familiar/gênero).
+A convivência de um casal é permeada por disputas pelo poder e essas, por sua vez, quando potencializadas pelas representações de gênero, 
+consubstanciam terreno fértil para a proliferação da violência. Nesse confronto, em geral quando o parâmetro é a força física, as mulheres estão em 
+desvantagem, como veremos a seguir.
+Comparando-se os dados obtidos nas duas cidades, observamos que 
+há incidência maior de lesão corporal leve (62,21% em Ceilândia, 86,09% 
+em Samambaia) seguida de ameaça (57,98% em Ceilândia, 59,27% em 
+Samambaia) e das vias de fato (7,17% em Ceilândia, 12,25% em Samambaia). Destacamos que, em diversos casos, há mais de um tipo penal 
+concomitante.
+Tabela 3 – Distribuição da freqüência dos casos de violência
+no casal por tipo de violência em Samambaia-DF
+Tipo de violência
+Freqüência
+Percentual
+Violência no casal
+315
+76,83%
+Violência de gênero
+52
+12,68%
+Violência doméstica
+42
+10,24%
+Não informado
+1
+0,24%
+total
+410
+100%
+Fonte: Banco de dados do MPDFT
+
+47
+Assim, a análise dos dados nos obriga a reformular nossa primeira 
+hipótese para afirmar que:
+de todos os casos de lesões leves, vias de fato e ameaças que chegaram aos juizados no período pesquisado, a maioria apresentava homens e mulheres em situações opostas, em conflito, ou seja, 
+como autores e vítimas (Ceilândia: 3.323/2.694 e Samambaia: 
+3.060/2.494 – ver tabela 1 e item 5.2, pesquisa documental);
+a maioria dos casos envolvendo conflitos entre homens e mulheres 
+consubstancia-se em violência no casal, e as mulheres aparecem 
+como o maior número de vítimas – ver tabelas 2 e 3.
+Tais percepções foram também confirmadas nas pesquisas realizadas 
+por Soares e outros (1996; Safiotti, 1994, apud Angulo-Tuesta, 1997).
+É importante salientar que o sistema penal é seletivo, ou seja, o sistema diz quais são as condutas que podem ser chamadas criminosas e por 
+isso influencia na escolha de quem serão as vítimas e os autores. Os dados 
+nos mostram que as mulheres são as maiores vítimas da violência no casal, 
+ou pelo menos é nessa condição que os conflitos dos casais violentos são 
+trazidos diante do sistema de justiça criminal, se estivermos atentos à seletividade do sistema.
+Os dados também indicam que os homens recorrem menos ao sistema em busca de apoio para interromper a relação violenta. O fato de 
+levar a relação conflituosa para outro espaço de poder (esfera pública) 
+representaria para eles algo muito próximo da humilhação, do “não ser 
+homem suficiente” para resolver a questão, pois, no estereótipo masculino 
+não cabe “pedir ajuda” e muito menos “aceitar que lhes digam como devem 
+ser conduzidas suas questões domésticas”, o que revela o atravessamento 
+de gênero nesta questão. A aparente inexistência de casos envolvendo homossexuais e homens vítimas já é dado significativo que ressalta a seletividade do sistema, o que não significa que essa realidade inexista (Nunan, 
+2004).
+Na seqüência, vemos que as tabelas 4 e 5 mostram que é significativa 
+a existência de filhos nos casais violentos, segundo informações contidas nos 
+processos.
+a)
+b)
+
+48
+Os resultados confirmam nossa segunda hipótese, a de que há uma 
+grande parcela de casais em conflito, com pelo menos um filho em comum, 
+ou só do homem ou só da mulher, que está sendo vitimizado secundariamente pela situação de violência que se estabeleceu na família.
+Apesar da relevância desse dado, observamos nas tabelas que em 
+quase metade dos processos a informação sobre filhos não foi registrada. A 
+omissão dessa informação dificulta a identificação de situações de vulnerabilidade dos filhos em relação à violência doméstica.
+Esse fato indica que o Estado, ao não reunir as informações necessárias, 
+deixa a desejar quanto ao seu papel na intervenção e análise da violência no casal/família e evidencia desconhecimento sobre o fenômeno da violência transgeracional e o papel fundamental que ela tem na reprodução de tais práticas.
+Se a violência é uma construção social, não se pode conceber que o Estado 
+não esteja interessado em mapear, nos processos – documentos oficiais por meio 
+dos quais toma contato com o fenômeno –, a existência de sujeitos em situação 
+de vitimização secundária, a fim de aferir o grau de vulnerabilidade que essa população detém, assim como seu potencial de reprodução da violência aprendida.
+Tabela 4 – Casal possui filhos – Ceilândia-DF
+Filhos
+Freqüência
+Percentual
+Sim
+146
+47,56%
+Não informado
+142
+46,25%
+Não
+19
+6,19%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 5 – Casal possui filhos – Samambaia-DF
+Filhos
+Freqüência
+Percentual
+Sim
+156
+51,66%
+Não informado
+141
+46,68%
+Não
+5
+1,66%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+49
+Essa omissão reflete a não compreensão da violência pelo Estado como 
+algo que ultrapassa os limites da relação homem/mulher, gerando vítimas 
+secundárias que tendem a reproduzir a violência aprendida. Quando se fala 
+em violência no casal, muito pouco se discute sobre os malefícios que isso 
+traz para os filhos, os vizinhos, a família e a comunidade que presencia tais 
+atos cotidianamente. A violência no casal é matéria de ordem pública porque 
+ultrapassa questões individuais, que atingem toda a sociedade.
+A transgeracionalidade da violência corresponde a um histórico de violência na família de origem que implica a repetição deste padrão de relação, 
+fato comprovado por meio da pesquisa qualitativa, e que é percebida pelas mulheres em situação de violência, pelos profissionais e operadores do sistema:
+Ela [minha mãe] também é separada do meu pai, porque meu pai também espancava ela quando a gente era pequena. Na época, eu tinha 8, 9 
+anos. [...] aí eu acho que eu fiquei igual ela, eu fiquei sem sorte (Rosalva, 
+27 anos, mãe de três filhos).
+Na minha visão, mulheres [...] que vivenciam situação de violência também na sua família, criam aquele papel de que se aconteceu com a minha 
+mãe, tá acontecendo comigo, então é esse meu papel na sociedade. Tem 
+uma maior tendência de serem tolerantes com a situação de violência e 
+aceitarem a repetição (Sujeito 4).
+A exposição contínua a situações de violência perpetua a repetição 
+do modelo de relacionamento violento proporcionado pela transgeracionalidade. Investir em políticas públicas que minimizem o impacto da 
+transgeracionalidade da violência, que é um dado real, como a pesquisa 
+comprova, é fundamental. Isso porque a família é o primeiro espaço social 
+em que o indivíduo constrói suas referências sobre si mesmo e sobre a vida 
+em sociedade.
+Berger e Berger (1997) ressaltam a família como o locus da socialização 
+primária, que se constitui no processo por meio do qual a criança se transforma 
+num membro participante da sociedade. Os autores demonstram como o simples ato de amamentar o bebê em horários rígidos ou flexíveis já é uma experiên
+50
+cia de socialização para o infante, que passa a experimentar padrões sociais relativos – variáveis conforme a sua classe social, o grau de instrução de suas famílias, 
+as concepções ocidentais ou orientais de cultura etc. – como se fossem absolutos.
+Alguns dos padrões socialmente impostos à criança podem resultar das 
+características peculiares dos adultos que lidam com ela. [...] Na maior 
+parte das vezes, porém, a opção entre a alternativa de alimentar a criança 
+sempre que a mesma chore ou submetê-la a um horário rígido de refeições não resulta duma decisão individual da mãe, mas representa um 
+padrão bem mais amplo prevalecente na sociedade em que esta vive e foi 
+ensinada que esse padrão constitui a maneira adequada de solucionar 
+o problema. [...] esse macrocosmo invisível e desconhecido da criança, 
+moldou e definiu antecipadamente todas as experiências com que ela se 
+defronta em seu microcosmo (Berger; Berger, 1997, p. 201).
+Os padrões sociais são, dessa forma, impostos à conduta individual 
+muito antes que a criança se dê conta dessa diferenciação, chegando mesmo a interferir nos processos fisiológicos do organismo – como ocorre, por 
+exemplo, com o treinamento para o controle das evacuações ou o uso do 
+toalete.
+Esses padrões – sempre relativos do ponto de vista de um observador 
+adulto e exterior – são percebidos pela criança como os únicos existentes e 
+é justamente esse caráter absoluto que garante o processo de socialização. 
+“Os adultos apresentam-lhe certo mundo – e para a criança, este mundo 
+é o mundo. Só posteriormente a mesma descobre que existem alternativas fora desse mundo, que o mundo de seus pais é relativo no tempo e no 
+espaço e que padrões diferentes podem ser adotados” (Berger; Berger, 
+1997, p. 205). Essa moldagem da criança para ser um membro reconhecido 
+e participante, primeiro da família e depois da sociedade, não é, contudo, 
+um processo unilateral. Mesmo na mais tenra idade a criança resiste e participa ativamente desse processo, basta ver como é comum os pais falarem 
+em “personalidade” do bebê.
+
+51
+A reciprocidade da criança, isto é, sua capacidade de exercer uma ação 
+individual e independente sobre o mundo e as pessoas que o habitam, 
+cresce na razão direta da capacidade de usar a linguagem. No sentido 
+literal da palavra, a criança nessa fase começa a responder aos adultos 
+(Berger; Berger, 1997, p. 207).
+No processo de socialização, a criança aprende a interagir e a se identificar com os outros ou, na expressão de Mead (Mead; Wolfenstein apud 
+Berger; Berger, 1997), passa a “tomar as atitudes do outro”, brincando de 
+médico, policial, índio, pai ou mãe etc. Aqui o importante é o aprendizado 
+da criança em desempenhar papéis tomando como referência os outros significativos – pessoas que mantêm relações mais próximas com a criança – e 
+os outros generalizados – que representam a sociedade. Quando os comandos e proibições específicos – “mamãe não quer que responda mal aos mais 
+velhos” – transformam-se em normas gerais – “não devemos responder mal 
+aos mais velhos” –, podemos dizer que superamos um dos pontos cruciais 
+do processo de socialização.
+Com a interiorização do mundo social na consciência da criança e 
+todos os seus significados, ela passa a se identificar com esses postulados 
+morais, estabelecendo uma espécie de controle interno que passará a mediar 
+suas interações e a conviver com o controle externo exercido pela sociedade, 
+embora agora em outra dimensão. “Seria extremamente dispendioso para a 
+sociedade, e provavelmente até mesmo impossível, se o indivíduo tivesse que 
+ser rodeado constantemente por outros que lhe dissessem ‘faça isto’ ou ‘não 
+faça aquilo’ ” (Berger; Berger, 1997).
+A interiorização da voz do outro é de suma importância para a construção da individualidade da criança. As mensagens significativas vindas de 
+fora, principalmente dos outros significativos, alimentam e moldam uma vida 
+interior mais ou menos rica e saudável, que capacita o indivíduo em maior 
+ou em menor escala para a vida social externa.
+Conforme vimos, a análise dos dados até agora nos permitiu confirmar, com pequenos ajustes, nossas duas primeiras hipóteses. As demais serão 
+objeto de análise dos capítulos seguintes. Assim, verificaremos a seguir se:
+
+52
+a vítima não denuncia na primeira agressão. A maioria dos casais 
+tem histórico de violência instalada na relação, ou seja, a reincidência é significativa;
+as vítimas não estão interessadas apenas na repressão do autor 
+(prisão), mas principalmente na prevenção, ou seja, querem que o 
+autor interrompa seu comportamento violento;
+a maioria dos processos é arquivada sem qualquer outra providência estatal que não o questionamento da vítima sobre seu interesse 
+no prosseguimento do feito;
+há práticas diferenciadas de abordagem do problema no Ministério Público;
+a abordagem multidisciplinar apresenta melhores resultados que a 
+atuação meramente judicial.
+6.1 
+Perfil da vítima, do autor da agressão, estrutura familiar e 
+histórico da agressão
+Quanto ao perfil da mulher vítima de violência, os dados indicam que 
+a maioria delas é natural do Distrito Federal (cerca de 40% em Ceilândia e 
+de 30% em Samambaia, sendo nesta última cidade significativo o número 
+de vítimas nascidas na Bahia, no Piauí e em Goiás, pois, somados, chegam 
+também a 30%). A característica de migração do estado de origem, portanto, 
+é mais evidente para a mulher em situação de violência em Samambaia que 
+para aquela em Ceilândia.
+São mulheres jovens, com pelo menos um filho em comum com o 
+agressor, que não denunciam o companheiro na primeira agressão, com histórico de violência transgeracional que contribui para que demorem a colocar um fim na relação violenta, com pouco conhecimento e acesso a redes 
+sociais de apoio. Muitas acreditam que são responsáveis pela manutenção 
+da família e dos filhos, o que também contribui para o silenciamento e ocultamento da agressão. Muitas são provedoras, mas ainda assim apresentam 
+dificuldade em sair da relação violenta.
+a)
+b)
+c)
+d)
+e)
+
+53
+Existem alguns aspectos presentes no imaginário dos profissionais e 
+integrantes do sistema de justiça criminal sobre qual seria o perfil dessas 
+mulheres, como, por exemplo, o de que as vítimas são mulheres jovens, em 
+média, de baixa escolaridade, donas de casa que não têm atividade profissional, que possuem certa dependência financeira e/ou emocional de seus 
+companheiros:
+Mulheres que normalmente não têm independência econômica têm uma 
+maior vulnerabilidade para aceitar situações de violência doméstica, porque elas têm uma dependência econômica do agressor, não querem perder a casa que têm, o salário que recebem todo mês, às vezes ela tem filhos de outros relacionamentos e ele tá sustentando esses filhos, tem um 
+medo muito grande de perder, não estou dizendo que ela vai ser vítima, 
+mas se ela for, ela tem uma maior propensão de não romper o relacionamento e aceitar a violência (Sujeito 4).
+O perfil da mulher, aqui especificamente, tem baixa escolaridade, não trabalha, tem muitos filhos e acaba que fica com o marido porque precisa 
+manter os filhos. Por ela não ser independente acaba que ela não tem 
+condições de manter a sua família, aí acaba sofrendo, engolindo, suportando todo aquele tipo de violência moral e física por causa dos filhos 
+(Sujeito 7).
+Mas também tem essa parte de dependência emocional, ele tem essa figura de protetor e também de punidor [...] E o homem assume muito 
+isso de tratar como filha, como objeto ou como posse (Sujeito 10).
+A questão do nível cultural também, apesar que a violência doméstica, 
+ela não tem classe, me recordo bem que na época que eu passei no Plano 
+Piloto era comum, infelizmente, em famílias mais abastadas ter problema de violência doméstica também. Mas a questão da dependência econômica é crucial, infelizmente é uma realidade extremamente negativa 
+(Sujeito 3).
+
+54
+Os entrevistados assinalam que esses dados referentes ao perfil das 
+mulheres em situação de violência advêm de sua prática profissional. Contudo, problematizamos que esses fragmentos de depoimentos, ou seja, essa 
+visão da mulher dependente, esposa, mãe, apontam para os estereótipos de 
+gênero tradicionalmente correntes na sociedade, que não encontram respaldo nas falas das mulheres entrevistadas.
+Nosso estudo quantitativo não incluiu a análise socioeconômica dos envolvidos na violência no casal, porém, nas entrevistas qualitativas, há indícios 
+de que a dependência econômica é apenas mais um estereótipo aceito por todos 
+os envolvidos. Das mulheres entrevistadas, apenas duas referiram dependência 
+econômica do agressor como fator dificultador da separação (Rosana e Francisca), uma foi explícita quanto à responsabilidade pela manutenção da família 
+e ao sentimento de afeto pelo companheiro (Gisele) e as outras duas seriam 
+consideradas mulheres independentes economicamente (Tatiane e Rosalva):
+Rosalva trabalha fora e sustenta a casa e seus três filhos.
+A separação ocorreu por causa da única agressão que Tatiane sofreu do 
+marido.
+Rosana relata o desejo de separar-se do companheiro assim que tiver 
+condições de garantir o sustento dela e da filha.
+Francisca não está trabalhando e não tem condições financeiras de sustentar seus filhos, por isso seu marido está com a guarda das crianças maiores, o que lhe causa sofrimento. Francisca expressa desejo de romper com 
+o marido, reaver a guarda dos filhos e trabalhar para poder sustentá-los, 
+entretanto, ainda encontra dificuldades para a concretização desse desejo.
+[...] resolveu reatar o casamento, pois acredita na manutenção da família 
+e também por sentir afeto pelo companheiro. Gisele relata que seu companheiro não está agressivo. Acredita que discussões entre casais fazem 
+parte do relacionamento e que não aceitará ser agredida novamente.
+
+55
+Esse dado expressa que a situação de violência também é atravessada 
+por outras variáveis sociais, ou seja, é preciso salientar que não temos “a mulher em situação de violência”, mas mulheres em situação de violência, como 
+indica Louro (1996) na noção de pluralidade. Desse modo, é importante 
+olhar criticamente essa realidade e reconhecer seus atravessamentos.
+A faixa etária das vítimas é apresentada nas tabelas 6 e 7. Verifica-se 
+que quase 70% delas estão entre os 18 e 30 anos de idade, em ambas as cidades. Portanto, a crença dos profissionais e operadores do sistema quanto ao 
+fato de as vítimas serem mulheres jovens, em média, encontra respaldo nos 
+dados quantitativos.
+Tabela 7 – Distribuição da freqüência dos casos de
+violência no casal por idade da vítima em Samambaia-DF
+Faixa etária da vítima
+Freqüência
+Percentual
+NI
+2
+0,65%
+12 a 17
+11
+3,58%
+18 a 23
+38
+12,38%
+24 a 28
+74
+24,10%
+Tabela 6 – Distribuição da freqüência dos casos de
+violência no casal por idade da vítima em Ceilândia-DF
+Faixa etária da vítima
+Freqüência
+Percentual
+NI
+3
+0,98%
+12 a 17
+8
+2,61%
+18 a 23
+67
+21,82%
+24 a 28
+81
+26,38%
+29 a 33
+63
+20,52%
+34 a 38
+36
+11,73%
+39 a 43
+31
+10,10%
+44 a 48
+8
+2,61%
+Acima de 48
+10
+3,26%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+
+56
+Nas tabelas 8 e 9 verifica-se que a mulher em situação de violência em 
+Samambaia tende a referir mais agressões anteriores por parte do mesmo parceiro que a mulher de Ceilândia. Ainda assim, o número de mulheres que 
+relata essa agressão anterior em Ceilândia é significativo, chegando a 40% dos 
+casos. Com essa ressalva, podemos reformular a nossa terceira hipótese – a de 
+que as mulheres não denunciam na primeira agressão – para afirmar que esse 
+fenômeno é mais observado em Samambaia que em Ceilândia, mas, ainda assim, os percentuais são significativos em ambas as cidades pesquisadas.
+Tabela 8 – Vítima refere-se a agressão anterior – Ceilândia-DF
+Agressão anterior
+Freqüência
+Percentual
+Não
+164
+53,42%
+Sim
+113
+36,81%
+Não informado
+30
+9,77%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 9 – Vítima refere-se a agressão anterior – Samambaia-DF
+Agressão anterior
+Freqüência
+Percentual
+Sim
+147
+48,68%
+Não
+101
+33,44%
+Não informado
+54
+17,88%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+29 a 33
+63
+20,52%
+34 a 38
+45
+14,66%
+39 a 43
+37
+12,05%
+44 a 48
+21
+6,84%
+Acima de 48
+11
+3,58%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+57
+As afirmações de nossa terceira hipótese encontram respaldo também 
+na fala das mulheres e dos operadores de justiça, indicando que esta continuidade da violência na relação conjugal nem sempre é seguida de denúncia 
+imediata.
+[A primeira agressão] acho que foi com uns dois anos de casada. [...] da 
+primeira vez, não registrei com medo do que ele pudesse fazer contra 
+mim (Tatiane).
+Porque ele me batia muito, muito mesmo. Por qualquer coisinha ele me 
+batia, aí ele me batia num dia, depois de uma semana, duas semanas, ele 
+achava que eu esquecia e aí vinha de novo. Aí eu peguei um dia e liguei 
+pra polícia (Rosalva).
+A gente percebeu o seguinte, a violência nunca ocorre isoladamente. 
+Antes de tudo, todos esses casos que nós tivemos, a violência ocorreu 
+um tempo, e não pegamos nenhum caso aqui que foi a primeira vez que 
+ocorreu a violência. [...] Mas, quando a gente vai verificar, a violência era 
+comum, era normal e era um pedido de socorro mesmo e ela foi na delegacia por que ela não suportava mais (Sujeito 3).
+Como se pode notar,
+a mulher, quase sempre, encontra-se inserida no ciclo da violência doméstica, caracterizada por relações prolongadas, cíclicas e sucessivas de tensão – 
+agressão – reconciliação em uma espiral progressiva de violência com a qual 
+é difícil romper e que em boa parte dos casos acaba levando à prática de crimes ainda mais graves, como o homicídio (Castilho et al., 2004, p. 131).
+Outro dado interessante é que muitas das mulheres que referem 
+agressão anterior admitem que não denunciaram os companheiros por essas 
+práticas, ou seja, a subnotificação é um dado que pode ser confirmado também por nossa pesquisa.
+
+58
+E como essas mulheres vivenciam essa situação de violência? A análise 
+dos dados qualitativos indicam que os sentimentos mais presentes nessa experiência são o medo, a vergonha e a desqualificação pessoal:
+E eu sentia muita vergonha, eu me sentia o último dos seres humanos, de 
+viver com uma pessoa e a pessoa me bater. É horrível. Eu fui no hospital 
+e eu tive muita vergonha de falar com o médico (Tatiane).
+Aí uma vez a professora dele falou assim pra mim: “Francisca, o quê que 
+é que tá acontecendo na sua casa?” Porque eu não gosto de falar essas coisas pra todo mundo, né? Aí ela perguntou: “Francisca, o quê que é que tá 
+acontecendo na sua casa? Porque seu filho era um menino tão bonzinho, 
+agora o menino tá todo rebelde” [choro]. Aí a professora [disse]: “alguém 
+tá batendo nessa criança?” Eu fiquei com vergonha de falar pra ela: “num 
+sei não!” [...] Agora ele tá batendo nos meninos, mas ele não fazia isso, ele 
+era bem bonzinho (Francisca).
+Elas apontam o medo e a vergonha como os responsáveis por tornar 
+a violência um segredo pessoal e familiar, o que leva ao silenciamento da 
+situação vivenciada.
+Tabela 10 – Registrou ocorrência pela agressão anterior –
+considerando só os informados – Ceilândia-DF
+Registrou ocorrência
+Freqüência
+Percentual
+Não
+67
+63,81%
+Sim
+38
+36,19%
+total
+105
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 11 – Registrou ocorrência pela agressão anterior –
+considerando só os informados – Samambaia-DF
+Registrou ocorrência
+Freqüência
+Percentual
+Não
+51
+52,04%
+Sim
+47
+47,96%
+total
+98
+100%
+Fonte: Banco de dados do MPDFT
+
+59
+[...] um dia ele tava na casa dos amigos dele bebendo, aí eu sabia que 
+ele não tinha chave de casa. Aí eu fui lá levar pra ele. Aí, quando eu 
+cheguei lá, ele começou a me xingar na frente dos amigos dele. Aí eu 
+falei pra ele: “você tá me fazendo passar vergonha”. Aí ele veio e começou a me bater, me deu tapa, me derrubou no chão, me deu chute 
+(Tatiane).
+Essas mulheres temem por novas agressões do companheiro atual e, 
+até mesmo, em relacionamentos futuros.
+Eu fiz a minha parte como mãe. Enquanto eu puder trabalhar, eu tô fazendo o que eu posso por eles. Mas nada de marido pro meu lado [...] 
+Eu ficava com medo. Eu tinha medo. Eu tenho até hoje. Eu fiquei com 
+trauma de quem bebe. Eu não arrumo mais ninguém pra botar na minha 
+casa que bebe. Eu não tenho coragem de arrumar um marido pra mim 
+que bebe. Eu sou traumatizada até hoje (Rosalva).
+Consideramos que esses sentimentos, aliados a sintomas como insônia, pesadelos e ansiedade caracterizam a experiência da violência como 
+traumática. Associadas a esse quadro, as entrevistadas demonstram desesperança na vida conjugal pelo medo de repetição da violência.
+Eu fiquei muito magoada. Mais por dentro do que por fora. Não foi 
+uma agressão assim... mas, eu cheguei a ir no IML, fiz exame de corpo delito. Mas, por dentro, psicologicamente, a gente fica pior por 
+dentro do que por fora, com certeza. Isso aí sem sombra de dúvida 
+(Gisele).
+Aí eu passei semanas tendo pesadelo, não dormia à noite. Eu dormia 
+assim de 9h da manhã até meio-dia, uma da tarde, durante o dia, porque 
+a noite era em claro por causa dos pesadelos horríveis. Não conseguia 
+dormir por causa dos tapas que ele me deu, doía todo o meu maxilar. A 
+cabeça doía (Tatiane).
+
+60
+Percebemos que os sentimentos de medo, vergonha e humilhação das 
+mulheres diante das situações agressivas perpetradas pelos parceiros caracterizam uma experiência traumática e dolorosa.
+Como já adiantamos linhas atrás, outro fator constatado, no que diz 
+respeito ao perfil dessas mulheres, refere-se à responsabilidade que sentem 
+pela manutenção da família, comportamento que lhes é ensinado socialmente, muito calcado no mito da unidade familiar. Entre as causas utilizadas 
+para justificar a dificuldade das mulheres em abandonar o marido violento 
+está a tentativa de proteger os filhos e a família. O paradoxo é que os filhos 
+estão assistindo a todas as agressões e estão expostos a uma situação de violência primária ou secundariamente.
+A concepção de gênero que está subjacente à conduta dessas mulheres 
+na manutenção da família é a crença de que são responsáveis pelo sucesso 
+ou fracasso do casamento. O “sentimento de família”, do qual já falamos em 
+tópicos anteriores, é aprisionador para essas mulheres. As vítimas referemse à “unidade da família” como fundamento para manutenção do casamento. 
+A família – independentemente de ser uma unidade saudável ou não – é 
+algo que deve ser protegido até o último instante, tarefa da qual ela (mulher 
+e esposa) é a guardiã por excelência.
+Agora eu acho assim, a gente tem que procurar o máximo manter 
+a família. Eu pelo menos fui criada assim. [...] Pro meu pai a separação era a pior coisa do mundo, coisas dessas pessoas mais antigas 
+(Gisele).
+Bourdieu (2004) já evidenciara a capacidade criadora do habitus – conhecimento adquirido, disposição incorporada, funcionamento sistemático 
+do corpo socializado –, ressaltando sua historicidade, e como os indivíduos vão adquirindo, em suas trajetórias, disposições que acabam tornandose permanentes, parecendo inatas, quando na verdade não o são. O que se 
+aproxima da vida humana ou com ela interage por certo tempo passa a fazer 
+parte do que Arendt (2005) denominou de condição humana, porque os homens são seres essencialmente condicionados.
+
+61
+Quanto ao perfil do homem agressor, verificou-se que esses homens 
+também são jovens e que, em Samambaia, apresentam característica de migração do estado de origem. Os nascidos na Bahia, no Piauí, em Goiás, em 
+Minas Gerais e na Paraíba respondem, juntos, por cerca de 44% do universo 
+total, enquanto os nascidos no Distrito Federal correspondem a cerca de 
+29% dos homens em situação de violência naquela cidade. Em Ceilândia, 
+essa característica de migração acentuada não é observada na mesma proporção, uma vez que os nascidos no Distrito Federal correspondem a quase 
+40% desses homens, sendo o restante distribuído entre as demais unidades 
+da federação, em proporções mais ou menos uniformes.
+Tabela 12 – Distribuição da freqüência dos casos de violência no casal
+por idade do autor em Ceilândia-DF
+Faixa etária do autor
+Freqüência
+Percentual
+NI
+16
+5,21%
+18 a 23
+46
+14,98%
+24 a 28
+67
+21,82%
+29 a 33
+62
+20,20%
+34 a 38
+44
+14,33%
+39 a 43
+28
+9,12%
+44 a 48
+19
+6,19%
+Acima de 48
+25
+8,14%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 13 – Distribuição da freqüência dos casos de violência no casal
+por idade do autor em Samambaia-DF
+Faixa etária do autor
+Freqüência
+Percentual
+NI
+15
+4,89%
+18 a 23
+37
+12,05%
+24 a 28
+46
+14,98%
+29 a 33
+57
+18,57%
+34 a 38
+53
+17,26%
+39 a 43
+41
+13,36%
+44 a 48
+29
+9,45%
+Acima de 48
+24
+7,82%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+62
+O homem em situação de violência apresenta ainda considerável histórico de envolvimento com álcool, conforme observamos nas tabelas a seguir. 
+Em alguns casos, os autores de agressões fazem uso de outros entorpecentes 
+como cocaína, maconha e narcóticos. A maior incidência de uso de substâncias refere-se ao álcool, mas releva observar que em mais de 60% dos casos 
+a informação não consta nos processos, o que pode dificultar a identificação 
+de fatores de risco e de vulnerabilidade à violência. Ainda assim, o índice de 
+uso do álcool no momento da agressão chega perto de 30% em Ceilândia 
+e ultrapassa esse percentual em Samambaia, sendo números significativos 
+que não podem ser ignorados na elaboração de uma política pública para o 
+enfrentamento da questão.
+Tabela 14 – Autor utilizou/ingeriu, em Ceilândia-DF
+Cocaína
+Maconha
+Álcool
+Não 
+disponível
+Freqüência
+Percentual
+×
+×
+1
+0,33%
+×
+×
+2
+0,65%
+×
+83
+27,04%
+×
+221
+71,98%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 15 – Autor utilizou/ingeriu, em Samambaia-DF
+Narcótico
+Cocaína
+Maconha
+Álcool
+Não há 
+informação
+Freqüência
+Percentual
+×
+5
+1,66%
+×
+×
+3
+0,99%
+×
+×
+1
+0,33%
+×
+110
+36,42%
+×
+183
+60,60%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+63
+A análise qualitativa também indica que o uso de bebida alcoólica é 
+freqüente nas situações de ocorrência da violência e influi diretamente na 
+intensidade da agressão, como pode ser expresso por Rosana, que afirmou 
+serem as agressões do marido piores quando ele estava sob influência do 
+álcool: “quando ele estava bêbado, ele me batia sem dó”.
+Soares e outros (1996, apud Angulo-Tuesta, 1997, p. 13) alertam, 
+todavia, que:
+definir o agressor como alcoólatra ou embriagado envolve, sem dúvida, 
+uma acusação. Mas a bebida funcionará como agravante em alguns casos e como atenuante em outros, dependendo dos rumos que tomará o 
+“diálogo” – disruptivo ou conciliatório – que a vítima estabelece com o 
+agressor e para o qual convoca a mediação da delegacia. Em qualquer um 
+dos casos, contudo, a presença do álcool não fará mais do que acentuar 
+ou minimizar o teor da violência.
+Ainda quanto ao perfil desse homem em situação de violência, verificamos que a maioria jamais foi processada criminalmente e, entre os que 
+foram, em Ceilândia, nenhum apresentou episódio de crime doloso contra 
+a vida (homicídio), enquanto em Samambaia esse tipo de crime, embora 
+tenha ocorrido, também não correspondeu à maioria dos casos. Esses dados 
+indicam que o autor da agressão se aproxima do cidadão comum, do chamado “cidadão de bem”, ou seja, em geral, não apresenta histórico de violência 
+em outros contextos que não o familiar.
+Tabela 16 – Autor processado por crime anterior –
+considerando só os informados – Ceilândia-DF
+Autor processado
+Freqüência
+Percentual
+Não
+208
+85,95%
+Sim
+34
+14,05%
+total
+242
+100%
+Fonte: Banco de dados do MPDFT
+
+64
+Tabela 18 – Autor processado por crime anterior –
+considerando só os informados – Samambaia-DF
+Autor processado
+Freqüência
+Percentual
+Não
+169
+80,48%
+Sim
+41
+19,52%
+total
+210
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 19 – Se processado, que tipo de crime –
+considerando só os informados – Samambaia-DF
+Tipo de crime
+Freqüência
+Art. 155, CP
+4
+Arts. 129 e 147, CP
+2
+Art. 147, CP
+2
+Art. 16 da Lei n. 6.368/1976
+2
+Art. 306, CNT
+1
+Tabela 17 – Se processado, que tipo de crime –
+considerando só os informados – Ceilândia-DF
+Tipo de crime
+Freqüência
+Art. 129, CP
+3
+Art. 147, CP
+2
+Art. 157, CP
+2
+Arts. 129/147, CP
+1
+Art. 129, CP, art. 303 da Lei n. 9.503/1997
+1
+Art. 129, CP, e art. 309 do Código de Trânsito Brasileiro 
+1
+Art. 155, CP
+1
+Arts. 155 e 121, CP, art. 306 da Lei n. 9.503/1997
+1
+Art. 155, § 4o, IV, CP
+1
+Arts. 155, 157, CP
+1
+Homicídio culposo na direção de veículo
+1
+Porte de drogas
+1
+total
+16
+Fonte: Banco de dados do MPDFT
+
+65
+Nas falas das entrevistas, verifica-se, tanto da parte das mulheres 
+quanto da dos profissionais, uma certa dificuldade em objetivar o homem 
+em situação de violência como um criminoso. Talvez porque no imaginário 
+popular a figura do criminoso esteja mais ligada às figuras do ladrão, do latrocida, do estuprador, que à do marido que bate na esposa. Como os dados 
+comprovam que a maioria desses homens realmente não tem histórico anterior de crimes daquela natureza, fica mais fácil compreender porque é tão 
+difícil para os envolvidos perceberem que estão diante de um criminoso.
+Aqui é preciso fazer uma consideração, uma vez que nosso marco teórico não nos permite simplesmente dizer que a saída está em etiquetar o homem violento como criminoso, justamente porque é preciso compreender o 
+crime como uma construção social. O que chamamos a atenção é justamente 
+Tipo de crime
+Freqüência
+Art. 10 da Lei n. 9.437/1997, arts. 129, 147, CP
+1
+Art. 121, CP
+1
+Arts. 121 e 157, CP
+1
+Arts. 121 c/c 14, II, CP 
+1
+Art. 129, CP
+1
+Arts. 129, 140 e 147, CP
+1
+Arts. 129 e 147, CP
+1
+Arts. 155, § 4 o, II e IV, c/c 71, CP 
+1
+Arts. 155, § 1o, c/c 14, I, CP 
+1
+Arts. 155, 158, CP, e arts. 330 e 32, LCP 
+1
+Art. 157, CP, e art 1o da Lei n. 2.252/1954
+1
+Arts. 157, 121 c/c 14, CP 
+1
+Arts. 157, 158 c/c 69, CP 
+1
+Art. 171, CP
+1
+Arts. 171, 297, 298 e 304, CP
+1
+Art. 180, CP
+1
+Arts. 21, LCP, e 129, CP
+1
+Arts. 288 e 171, CP 
+1
+total
+29
+Fonte: Banco de dados do MPDFT
+
+66
+para isso, a construção social compartilhada por todos os envolvidos e pela 
+sociedade, de modo geral, de que a violência no casal – nas modalidades em 
+que se apresenta na pesquisa – não é um crime de status semelhante a um 
+furto, um roubo, um latrocínio, um homicídio, por exemplo.
+Prosseguindo em nossa análise, verifica-se que a estrutura familiar do 
+casal em situação de violência apresenta, no geral, uma relação afetiva duradoura, inclusive, com alta incidência de pelo menos um filho em comum, 
+como vimos anteriormente.
+Em ambas as populações investigadas, notamos que a porcentagem 
+de relacionamentos duradouros ultrapassa 85%. Essa constatação caberia 
+no raciocínio daqueles que entendem a violência como forma de interação 
+social, pois, quanto maior a proximidade e a durabilidade da convivência, 
+maiores as chances de que a violência seja construída e vivenciada como inTabela 20 – Grau de relacionamento – Ceilândia-DF
+Situação afetiva
+Freqüência
+Percentual
+Companheiros/União Estável
+194
+63,19%
+Casados
+75
+24,43%
+Namorados/Noivos
+36
+11,73%
+Não informado
+2
+0,65%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 21 – Grau de relacionamento – Samambaia-DF
+Situação afetiva
+Freqüência
+Percentual
+Companheiros/União Estável
+204
+67,55%
+Casados
+69
+22,85%
+Namorados/Noivos
+21
+6,95%
+Ex-companheiro
+4
+1,32%
+Ex-namorado
+2
+0,66%
+Não informado
+2
+0,66%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+67
+tegrante da dinâmica relacional. Se a violência no casal é um constructo, ela 
+precisa de tempo e proximidade para que se estabeleça.
+Para aqueles que entendem a violência como ruptura das relações interativas/sociais – estas fundadas no diálogo e na negociação dos conflitos que 
+naturalmente existem –, a maior incidência entre casais com relacionamentos 
+relativamente duradouros indicaria a dificuldade de diálogo entre os sexos, 
+a incapacidade da linguagem para negociação dos conflitos. Assim, nesta última hipótese, o investimento na desconstrução das linguagens estanques – 
+universo masculino X universo feminino – seria um passo fundamental para 
+evitar a violência como ruptura da interação social entre os parceiros.
+Quando se analisam os locais, dias e horários em que o casal mais 
+apresenta episódios de conflito, aparecem a casa, os finais de semana e o horário noturno como fatores de risco para o aparecimento da violência, como 
+verificamos nas tabelas e figuras a seguir.
+Tabela 22 – Distribuição da freqüência dos casos de violência no casal
+por local de ocorrência em Ceilândia-DF
+Local
+Freqüência
+Percentual
+Casa
+236
+76,88%
+Via pública
+49
+15,96%
+Trabalho
+2
+0,65%
+Outros
+20
+6,51%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 23 – Distribuição da freqüência dos casos de violência no casal
+por local de ocorrência em Samambaia-DF
+Local
+Freqüência
+Percentual
+Casa
+259
+85,76%
+Via pública
+27
+8,94%
+Trabalho
+1
+0,33%
+Outros
+15
+4,97%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+68
+Saffioti (1994, apud Angulo-Tuesta, 1997) aponta, em estudo realizado a partir dos dados da FIBGE/1988, que a mulher tende a ser agredida na residência. Desse modo, o lar, supostamente seguro, constitui-se 
+em local de risco. Por ser espaço privado, contribui para a invisibilidade da 
+prática da violência. Soares e outros (1996, apud Angulo-Tuesta, 1997, 
+p. 12-13) asseveram que “a ameaça do ponto de vista das mulheres não vem 
+de fora, quando se trata de agressão física. Está na casa, não na rua; é episódio inscrito em dinâmicas típicas da vida privada, o que evidentemente não 
+lhe reduz a gravidade, antes a aprofunda”.
+Trabalha-se com a hipótese de que os problemas cotidianos não-resolvidos no ambiente de trabalho ou nas ruas são levados para casa, onde 
+o(a) agressor(a) se sente mais “livre” para expressar sua frustração. Bandeira observou que, “tanto no percurso, como em casa, quaisquer motivos [...] 
+tornam-se objeto de disputa, discussão, briga, agressão, e que, em geral, 
+não são resolvidos a contento na rua e são levados para casa. O que acentua o fato de grande parte dessas ocorrer em espaços privados” (Suárez; 
+Bandeira, 1999, p. 460).
+A maioria deles (agressores) é difícil na relação do casal, mas não apresenta dificuldades maiores em sua vida social, nem distúrbio psiquiátrico 
+evidente. Tudo acontece como se o fato de polarizar suas dificuldades 
+para o âmbito do casamento dê a esses homens possibilidades de preservarem sua vida social (Hirigoyen, 2006, p. 126).
+71
+50
+33
+36
+15
+37
+65
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Domingo
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábado
+Figura 1 – Distribuição da freqüência dos casos de violência no casal
+por dia da semana em Ceilândia-DF
+
+69
+Figura 2 – Distribuição da freqüência dos casos de violência no casal
+por dia da semana em Samambaia-DF
+Os fins de semana, consubstanciados nas sextas, nos sábados e nos 
+domingos, correspondem às mais altas incidências de agressões dos maridos 
+em relação às mulheres. O lazer associado ao consumo exagerado de álcool, 
+que também vimos acima, é um fator de risco, parece fazer dos fins de semana, dos horários de repouso noturno e da casa os ingredientes perfeitos para 
+a produção e a reprodução da violência relacional.
+71
+45
+40
+29
+31
+39
+46
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Domingo
+Segunda-feira
+Terça-feira
+Quarta-feira
+Quinta-feira
+Sexta-feira
+Sábado
+Tabela 24 – Distribuição da freqüência dos casos de violência no casal
+por período do dia em Ceilândia-DF
+Período da ocorrência
+Freqüência
+Percentual
+0h – 6h
+48
+15,64%
+6h – 12h
+44
+14,33%
+12h – 18h 
+62
+20,20%
+18h – 24h 
+153
+49,84%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 25 – Distribuição da freqüência dos casos de violência no casal
+por período do dia em Samambaia-DF
+Período da ocorrência
+Freqüência
+Percentual
+0h – 6h
+41
+13,58%
+6h – 12h
+54
+17,88%
+12h – 18h 
+63
+20,86%
+18h – 24h
+139
+46,03%
+Não informado
+5
+1,65%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+70
+Como vimos, não há correspondência exata entre o imaginário dos 
+profissionais sobre o perfil de homens e mulheres em situação de violência, 
+embora alguns pontos em comum possam ser encontrados. A casa, principalmente nos fins de semana e no período noturno, é o local por excelência 
+onde os dramas domésticos se desenrolam.
+Respondemos a três de nossas sete hipóteses iniciais, confirmando 
+que as mulheres tendem a denunciar as agressões quando a violência já se 
+instalou nas relações. Nos capítulos a seguir, procuraremos confirmação ou 
+refutação para as nossas 4 hipóteses restantes, quais sejam:
+as vítimas não estão interessadas apenas na repressão do autor 
+(prisão), mas principalmente na prevenção, ou seja, querem que o 
+autor interrompa seu comportamento violento;
+a maioria dos processos é arquivada sem qualquer outra providência Estatal que não a do questionamento da vítima sobre seu interesse no prosseguimento do feito;
+há práticas diferenciadas de abordagem do problema no MP;
+a abordagem multidisciplinar apresenta melhores resultados que a 
+atuação meramente judicial.
+6.2 
+A Lei n. 9.099/1995 e sua aplicação na ótica dos operadores 
+de justiça e das mulheres em situação de violência
+A análise da prática jurídica na vigência da Lei n. 9.099/1995 será realizada a partir dos seguintes aspectos, identificados como significativos na 
+perspectiva quantitativa e qualitativa: local de denúncia da agressão, encaminhamento do processo e suas implicações e acompanhamento psicossocial.
+Ressaltamos que a Lei n. 11.340/2006, conhecida como Maria da Penha, 
+foi sancionada em 7.8.2006 e entrou em vigor no dia 22.9.2006. Dessa forma, a 
+realização da etapa qualitativa coincidiu com o momento de transição para a nova 
+lei, repercutindo no debate sobre a problemática da violência contra a mulher.
+A Lei n. 9.099/1995 cria os Juizados Especiais Criminais (Jecrims), 
+cujo objetivo é atender a delitos definidos como menor potencial ofensivo à 
+sociedade (Ghesti; Roque; Moura, 2007; Castilho et al., 2004) e cuja 
+a)
+b)
+c)
+d)
+
+71
+pena máxima não ultrapasse dois anos. “A potencialidade da ofensa é medida 
+pela quantidade da pena cominada” (Campos; Carvalho, 2006, p. 414).
+Essa lei teve como objetivos a simplificação dos processos burocratizados, a ampliação do acesso à Justiça e a maior participação da vítima na resolução dos conflitos, num modelo de Justiça que prioriza a agilidade. Contudo, não 
+é uma lei específica para o atendimento das mulheres vítimas de violência.
+Os critérios e princípios de procedimento nessa lei são: oralidade, informalidade, economia processual e celeridade, além da representação formal da vítima. Prevê os seguintes mecanismos alternativos de resolução de 
+conflitos: conciliação, transação penal e suspensão condicional do processo. 
+Além disso, a partir do XIV Encontro de Coordenadores de Juizados Especiais, fica definida a ênfase em medidas socioeducativas como acompanhamento psicossocial e palestras visando à reeducação do infrator (Castilho 
+et al., 2004). Essa lei possibilitou ainda a criação do Núcleo Psicossocial Forense (Nups), que oferece assessoramento psicossocial estruturado (Ghesti; Roque; Moura, 2007).
+Procuramos avaliar qual o primeiro local do sistema de justiça em que 
+a vítima, em geral, recebe atendimento e percebemos que apenas uma pequena parcela das mulheres em situação de violência procura a delegacia 
+especializada (Deam), possivelmente pela dificuldade de acesso, preferindo 
+recorrer à delegacia local. Ora, sabe-se que o atendimento em uma delegacia especializada é francamente mais favorável à mulher em situação de 
+violência; assim, a constatação desse alto índice indica que qualquer política pública para o enfrentamento do fenômeno passa, necessariamente, pela 
+descentralização das Deams.
+Tabela 26 – Distribuição da freqüência do local de registro
+da ocorrência policial em Ceilândia-DF
+Tipo de violência
+Freqüência
+Percentual
+Delegacia local
+240
+78,18%
+Deam
+67
+21,82%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+
+72
+As entrevistadas avaliaram o atendimento da Deam como satisfatório, pois se sentiram apoiadas. “Na Delegacia da Mulher [...] o tratamento lá 
+foi bom. Foi bom, porque assim, na hora que eu falei que eu não tinha pra 
+onde ir, não tenho família aqui... eu queria até ficar na rua! Aí ela falou da 
+Casa Abrigo pra poder me ajudar” (Francisca).
+Em relação ao atendimento oferecido pelo sistema de justiça, as mulheres reclamam da morosidade. Para elas o tempo da Justiça é moroso, pois não 
+atende a sua necessidade de proteção. Para os operadores, cientes dos procedimentos jurídicos necessários, o tempo médio de quatro ou cinco meses entre a 
+denúncia e a primeira audiência demonstra a celeridade que preconiza a lei.
+O atendimento da Justiça foi bom, só a demora. Só que isso é normal, 
+é porque demora mesmo. Às vezes, estão resolvendo alguma coisa mais 
+urgente (Rosalva).
+[...] nós sempre buscamos realizar as nossas audiências preliminares, 
+trazer a vítima, trazer o agressor, o autor do fato, da forma mais rápida 
+possível, não deixando que, por exemplo, entre o registro da ocorrência 
+e a realização da primeira audiência se passe mais do que 3 ou 4 meses 
+[...] Então, com essa audiência, com essa resposta do Estado, rápida, nós 
+conseguimos fazer com que pelo menos a situação melhore e não atinja 
+um estágio mais grave (Sujeito 1).
+A quarta hipótese – as vítimas não estão interessadas apenas na repressão do autor (prisão), mas principalmente na prevenção, ou seja, querem que 
+Tabela 27 – Distribuição da freqüência do local de registro
+da ocorrência policial em Samambaia-DF
+Tipo de violência
+Freqüência
+Percentual
+Delegacia local
+206
+68,21%
+Deam
+95
+31,46%
+Não informado
+1
+0,33%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+
+73
+o autor interrompa seu comportamento violento – apresenta-se de forma 
+recorrente no relato dos operadores de justiça:
+A gente percebe que a grande maioria, elas não querem propriamente a punição do marido. Elas querem a solução do problema doméstico, familiar, 
+que eles enfrentam que seria aquela agressão abusiva por parte do marido 
+(Sujeito 5) [grifo nosso].
+[...] acho que a primeira intenção que elas têm de fazer a ocorrência é pra 
+fazer a ocorrência em si. E chegar em casa e dizer: “olha, fiz a ocorrência 
+lá e tal”, pra ver se, tornando aquela questão pública, o agressor pare de 
+agredir ou fique temeroso de fazê-lo, né? [...] Ela tá com medo da situação e quer parar, quer que a violência acabe. O que eu percebi também é 
+que a Justiça não estava e não está ainda preparada para receber esse tipo de 
+demanda (Sujeito 3).
+[...] Ela chegava aqui na Justiça e o pessoal perguntava: “Ah, mas a senhora 
+quer levar o caso adiante? Quer processar o seu marido?” Na verdade, 
+ela tem essa visão ainda que processar é prisão, vai ser sentenciado e, 
+evidentemente ela não quer isso. Então, o pessoal fica dizendo: “não. A 
+pessoa não quer uma punição...” Ela quer sim [fala com ênfase], ela quer 
+que seja tomada uma providência. Ela quer que o agressor seja chamado 
+e seja enquadrado numa advertência, não só uma advertência verbal, mas, 
+que você faça algum tipo de acompanhamento, que tenha algum tipo de 
+medida alternativa para ele. Ela quer uma providência. Mas, o pessoal na 
+Justiça fica falando: “ela não tem interesse que se faça nada”. [...] E o que 
+elas querem? Acabar com a violência! (Sujeito 3).
+A demanda que parece sobressair na fala das mulheres é a de que haja 
+uma intervenção do Estado, nem sempre e necessariamente a prisão para o 
+agressor. Algumas querem que ele seja afastado do lar, outras querem informações, apoio psicossocial, escuta, outras, ainda, que seja garantida a pensão 
+alimentícia dos filhos.
+
+74
+Eu esperava mais da Justiça. Porque a gente, como cidadão, ou a gente 
+tem o apoio da Justiça ou o de ninguém. E eu acho assim, que deveriam 
+informar [...]. Você chega, fala o que aconteceu, eles escrevem e acabou. Eles 
+num dão mais nenhum apoio pra pessoa. [...] Só que eu acabei arquivando porque eles não conseguiram encontrar ele porque ele é caminhoneiro 
+e nunca pára em casa e as minhas testemunhas que eu tinha eram só o 
+pessoal da casa dele, e o pessoal de lá não ia testemunhar contra ele (Tatiane) [grifo nosso].
+[Eu queria] que prendessem ele, que tomassem uma medida de imediato. Na verdade, na hora, quando acontece isso, a gente fica com raiva, a gente diz: “não, tem que pagar de alguma forma, mas, como vai 
+ser?” (Gisele).
+Eu não queria, assim, que eles prendessem ele. Assim, essas coisas, sabe. 
+Eu não quero. Eu quero que ele trabalhe e dê as pensões dos meninos, porque ele preso ele não vai poder pagar as pensões dos meninos 
+(Francisca).
+[Eu queria] que a Justiça tirasse ele de dentro da minha casa, porque eu 
+conversava com ele pra ele sair e ele não queria sair (Rosalva).
+Ao buscar a intervenção do Estado, as mulheres têm a expectativa 
+de que, com uma ordem judicial, com um olhar do Estado, a violência será 
+extirpada da relação. As falas das mulheres, com exceção da de Gisele, não 
+relacionam diretamente essa intervenção com a restrição da liberdade ou 
+com o processo criminal. Na realidade, o que a análise dos dados qualitativos nos sugere é que as vítimas buscam medidas para o tratamento da 
+questão da violência no casal. Muitas dessas medidas podem ser concedidas fora do espaço criminal, como o afastamento do lar, a pensão alimentícia e o apoio psicossocial.
+Quanto ao encaminhamento do processo, há significativo número de 
+arquivamentos por renúncia tácita ou expressa, nas duas localidades:
+
+75
+A Lei n. 9.099/1995 exige que a mulher vítima de violência expresse 
+que deseja prosseguir o processo contra o autor da agressão. Observamos 
+um elevado número de renúncias em ambas as cidades, ou seja, a decisão 
+(na maior parte das vezes expressa) da mulher de não dar continuidade ao 
+processo, como pode ser visto nas tabelas a seguir.
+Tabela 28 – Distribuição da freqüência dos casos de violência no casal –
+situação do processo na data da pesquisa em Ceilândia-DF
+Situação do processo
+Freqüência
+Percentual
+Arquivado por renúncia tácita ou expressa
+285
+92,83%
+Em andamento
+11
+3,58%
+Arquivamento pelo cumprimento da 
+transação/sentença condenatória/suspensão 
+condicional do processo
+10
+3,26%
+Arquivado em decorrência de prescrição
+1
+0,33%
+total
+307
+100 %
+Fonte: Banco de dados do MPDFT
+Tabela 29 – Distribuição da freqüência dos casos de violência no casal –
+situação do processo na data da pesquisa em Samambaia-DF
+Situação do processo
+Freqüência
+Percentual
+Arquivado por renúncia tácita ou expressa
+249
+82,45%
+Arquivado em decorrência de prescrição
+2
+0,66%
+Arquivado pela morte do autor
+2
+0,66%
+Arquivado por decadência
+3
+0,99%
+Arquivamento pelo cumprimento da 
+transação/sentença condenatória/suspensão 
+condicional do processo
+12
+3,98%
+Em andamento
+34
+11,26%
+total
+302
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 30 – Distribuição da freqüência dos casos de violência no casal –
+vítima autorizou prosseguimento do processo em Ceilândia-DF
+Autorizou prosseguimento do processo
+Freqüência
+Percentual
+Não
+286
+93,16%
+Sim
+21
+6,84%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+
+76
+Essas mulheres, ao mesmo tempo em que continuam depositando sua 
+confiança nesse sistema tradicional, quando convidadas a dar a ele seu aval, 
+autorizando o prosseguimento da apuração, retrocedem e recusam as respostas que o Estado lhes oferece, evidenciando o caráter paradoxal e peculiar 
+desse tipo de violência e, mais ainda, a inadequação ou insuficiência dessas 
+respostas.
+Verificamos que a vítima recusou as alternativas tradicionais que 
+lhes foram apresentadas pelo Estado em cerca de 90% dos casos. O prosseguimento do processo, nos termos em que existe hoje, significa imposição 
+de castigo, pena ou responsabilização por fato que já aconteceu, como já 
+mencionado.
+O Estado não dispõe hoje de alternativas que busquem a construção 
+de uma sociabilidade menos violenta do par relacional. Enquanto o olhar da 
+vítima estende-se para o futuro, para uma vida livre de violência, as respostas 
+tradicionais do Estado oferecem castigo pelo que já ocorreu, e só. As intervenções multidisciplinares ainda são muito pouco freqüentes, como veremos 
+mais adiante.
+Tabela 31 – Distribuição da freqüência dos casos de violência no casal –
+vítima autorizou prosseguimento do processo em Samambaia-DF
+Autorizou prosseguimento do processo
+Freqüência
+Percentual
+Não
+264
+87,42%
+Sim
+33
+10,93%
+Não informado
+5
+1,66%
+total
+302
+100%
+Fonte: TJDFT
+Tabela 32 – Distribuição da freqüência dos casos de violência no casal –
+tipo de renúncia em Ceilândia-DF
+Tipo de renúncia
+Freqüência
+Percentual
+Expressa
+247
+86,36%
+Tácita
+39
+13,64%
+total
+286
+100%
+Fonte: Banco de dados do MPDFT
+
+77
+Tabela 33 – Distribuição da freqüência dos casos de violência no casal –
+local da renúncia expressa em Ceilândia-DF
+Local da renúncia expressa
+Freqüência
+Percentual
+Por telefone
+97
+39,27%
+Na delegacia
+77
+31,17%
+Em audiência com conciliador
+46
+18,62%
+Secretaria de Vara
+16
+6,48%
+Em audiência com juiz ou promotor
+9
+3,64%
+Com oficial de justiça
+2
+0,82%
+total
+247
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 34 – Distribuição da freqüência dos casos de violência no casal –
+motivo da renúncia tácita em Ceilândia-DF
+Motivo da renúncia tácita
+Freqüência
+Percentual
+Vítima intimada, não compareceu à audiência
+13
+33,33%
+Vítima mudou de endereço e não compareceu
+26
+66,67%
+total
+39
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 35 – Distribuição da freqüência dos casos de violência no casal –
+tipo de renúncia em Samambaia-DF
+Tipo de renúncia
+Freqüência
+Percentual
+Expressa
+155
+58,71%
+Tácita
+109
+41,29%
+total
+264
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 36 – Distribuição da freqüência dos casos de violência no casal –
+local da renúncia expressa em Samambaia-DF
+Local da renúncia expressa
+Freqüência
+Percentual
+Em audiência com juiz ou promotor
+42
+27,10%
+Secretaria de Vara
+40
+25,81%
+Na delegacia
+34
+21,94%
+
+78
+Os dados apresentados sobre o encaminhamento do processo confirmam nossa quinta hipótese: a de que a maioria dos processos é arquivada 
+sem qualquer outra providência estatal que não o questionamento da vítima 
+sobre o seu interesse no prosseguimento do feito.
+A “escuta” do sistema judicial à recusa expressa pela vítima de violência ao prosseguimento do processo (em especial pelo elevado número de 
+arquivamentos) parece ser uma resposta assertiva do Estado ao desejo de 
+ela não dar continuidade ao processo. Todavia, esse mesmo arquivamento 
+reforça o silenciamento dessa realidade, instaurada no âmbito privado e não 
+expressa no espaço público. Um dos operadores de justiça diz:
+Ela quer ter algum tipo de resposta do Estado. Ela não fez aquela ocorrência 
+à toa. [...] nesses arquivamentos, todos por falta de interesse, [é] como se 
+a vítima tivesse feito a ocorrência à toa [...] É como se o que ela está dizendo ali, aquela violência que ela está registrando ali, não existisse, não 
+aconteceu. [...] o que elas estão querendo mesmo é que a violência acabe e elas querem uma posição do Estado. Mas, evidentemente que elas 
+vão dizer que não vão levar o caso adiante, porque o Estado não oferece 
+Tabela 37 – Distribuição da freqüência dos casos de violência no casal –
+motivo da renúncia tácita em Samambaia-DF
+Motivo da renúncia tácita
+Freqüência
+Percentual
+Vítima intimada, não compareceu à audiência
+74
+67,89%
+Vítima mudou de endereço e não compareceu
+30
+27,52%
+Vítima não forneceu endereço do autor
+3
+2,75%
+Vítima não encontrada
+1
+0,92%
+Não informado
+1
+0,92%
+total
+109
+100%
+Fonte: Banco de dados do MPDFT 
+Por telefone
+22
+14,19%
+Em audiência com conciliador
+10
+6,45%
+Com oficial de justiça
+7
+4,51%
+total
+155
+100%
+Fonte: Banco de dados do MPDFT
+
+79
+nada para elas. Faz uma pergunta assim: “quer levar o caso adiante? Quer 
+continuar o processo?” Evidente que elas vão dizer que não, porque: “não 
+vim aqui pra condenar, nem pra prender ninguém. Eu quero a solução do 
+meu problema. Porque eu estou sendo violentada a minha vida inteira e 
+eu quero uma solução pra isso” (Sujeito 3) [grifo nosso].
+A atuação tradicional do jurídico, ou seja, aquela consubstanciada nas 
+respostas técnicas (denúncia/processo/sentença condenatória), não encontra ressonância nas mulheres em situação de violência que a recusam. As 
+mulheres ressentem-se da falta de informação, da burocratização dos meios 
+de prova, do tecnicismo que não responde ao problema real que ela levou até 
+o Judiciário. Elas vivenciam as respostas tradicionais como algo que “não vai 
+dar em nada”.
+Eu esperava mais da Justiça. Porque a gente, como cidadão, ou a gente 
+tem o apoio da Justiça ou o de ninguém. E eu acho assim, que deveriam 
+informar [...] Você chega, fala o que aconteceu, eles escrevem e acabou. Eles 
+num dão mais nenhum apoio pra pessoa. [...] Só que eu acabei arquivando porque eles não conseguiram encontrar ele porque ele é caminhoneiro 
+e nunca pára em casa e as minhas testemunhas que eu tinha eram só o 
+pessoal da casa dele, e o pessoal de lá não ia testemunhar contra ele (Tatiane) [grifo nosso].
+Eu acho que nesse ponto a lei é muito fraca. Se for levar adiante mesmo 
+é uma coisa que não acaba em nada. Eu acho. [...] A não ser quando já 
+matou mesmo, como é o caso que a gente vê e é muito, às vezes, passando 
+no “Linha Direta”. Quantas mulheres vão fazer ocorrência de agressão, às 
+vezes até separa, está sendo perseguida e acaba o cara matando ela e matando até familiares, porque não tem um meio que resolva mesmo isso na 
+hora, no momento. Eu acho assim se o cara está te ameaçando mesmo, está te 
+perseguindo, tem que tomar alguma providência. Ou ele pára com isso ou ele 
+vai ser preso. Mas, não! Só prende depois que mata (Gisele) [grifo nosso].
+
+80
+O senso comum, que exerce influência e dialoga com os demais saberes, associa crime com prisão e castigo. Assim, dentro desse raciocínio, a 
+importância de um crime varia conforme o castigo que lhe é determinado. 
+No paradigma vigente, não se concebe qualquer resposta que fuja a essa convicção social, ainda que os resultados práticos estejam gritando que ela é ineficaz (a falência do sistema carcerário é notória). No entanto, as mulheres, ao 
+mesmo tempo em que reproduzem esse discurso do senso comum, quando 
+convidadas a dar a ele seu aval, têm sistematicamente recusado tal resposta 
+para a violência no casal.
+[...] o oficial que foi lá em casa [...] ele ficou me passando medo, porque, 
+como eu já estava morando com ele [autor da agressão] de novo, ele ficou 
+falando que ele poderia fazer alguma coisa comigo. Aí ele disse que se eu 
+quisesse retirar a ocorrência era pra eu ir lá no fórum, na segunda-feira, 
+antes da audiência. A polícia a mesma coisa, a mulher que me atendeu 
+falou assim: “É, se você quiser registrar a ocorrência!” Parece que não 
+queria registrar. [...] Ele [o oficial] me escutou direitinho, ele só me aconselhou pra eu não ir, não me apoiou. Mas, ele não me tratou mal. Ele só falou 
+assim, que era perigoso que ele poderia ficar com raiva e fazer alguma coisa 
+comigo. Porque ele falou que no máximo com um mês voltava pra fazer a 
+intimação dele (Rosalva) [grifos nossos].
+Observamos que a noção de gênero perpassa a prática jurídica (ainda 
+que nem sempre seja percebida e problematizada), como pode ser notado 
+na atitude do oficial (citado por Rosalva na fala acima). A perplexidade de 
+muitas das mulheres diante da agressão é percebida e também vivenciada 
+por alguns dos operadores de justiça que têm dificuldade de compreender 
+por que elas permanecem numa relação que lhes faz tão mal, o que evidencia 
+que a natureza desse tipo de violência ainda não é compreendida por esses 
+operadores.
+Ah, então, continua com o agressor, não vamos intervir nessas causas. Porque a vítima não tem interesse nessa intervenção. Então, a Justiça sempre 
+teve essa tendência de não atuar na violência doméstica, e a alegação principal 
+
+81
+para essa omissão, para essa não-atuação, sempre foi por motivo de política 
+criminal, usada como sinônimo de harmonia familiar. Então, para manter a 
+harmonia familiar, o Estado não deve se intrometer nas causas (Sujeito 3).
+Campos e Carvalho (2006) ressaltam que a procura da mulher pelo 
+Poder Judiciário para resolução do conflito conjugal tem significado simbólico 
+importante para a mulher agredida, porque dá visibilidade à violência, além de 
+informar ao Poder Público de que sozinha ela não conseguirá findar a agressão.
+A reafirmação da violência na presença do juiz, terceiro na cena processual, 
+significa o conflito de sua real dimensão de gravidade, realizando 
+deslocamento simbólico capaz de inverter, momentaneamente, a assimetria 
+na relação conjugal. A interferência de atores externos ao conflito (juiz, 
+Ministério Público, advogados) representa importante variável para a 
+vítima, (re)capacitando-a em condições e potencialidades de fala. No 
+momento da audiência, a obrigatoriedade da presença do agressor diante 
+do juiz, do Ministério Público e da vítima restabelece o equilíbrio rompido 
+com a violência. No entanto, as soluções encontradas pela Lei, através 
+dos institutos de composição civil e transação penal, obstaculizam essa 
+expectativa (Campos; Carvalho, 2006, p. 415).
+Um último aspecto considerado significativo é que o encaminhamento 
+para atendimento por equipes multiprofissionais, ocorrido em poucos casos, 
+justamente por causa da renúncia, desvela uma resposta do Estado, a qual 
+acreditamos ser uma alternativa que se aproxima do desejo e da necessidade 
+da vítima diante da especificidade do crime de violência contra a mulher. 
+Entretanto, cabe ressaltar que a freqüência de acompanhamento multidisciplinar ao Nups é pouco significativa.
+Os elevados números de arquivamentos, assim como o baixo núme- 
+ro de encaminhamento ao atendimento psicossocial, indicam que a atuação 
+tradicional não tem oferecido uma resposta efetiva do Estado para o fenômeno da violência no casal. Não se pode falar que a intervenção psicossocial 
+não funciona, pois o que os números mostram é que ela não era utilizada, a 
+não ser em casos excepcionalíssimos.
+
+82
+Em Ceilândia, nos 5 processos em que foram feitos atendimentos 
+multidisciplinares, não houve renúncia expressa da vítima, mas suspensão 
+informal do processo, com a anuência das partes, e posterior arquivamento, 
+considerando que a intervenção foi suficiente como fator de responsabilização do autor.
+Tabela 38 – Distribuição da freqüência dos casos de violência no casal –
+acompanhamento multidisciplinar sem intervenção penal em Ceilândia-DF
+Houve acompanhamento multidisciplinar
+Freqüência
+Percentual
+Não
+281
+98,25%
+Sim
+5
+1,75%
+total 
+286
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 39 – Distribuição da freqüência dos casos de violência no casal –
+encaminhamento ao Nups (com e sem intervenção penal) em Ceilândia-DF
+Encaminhamento ao Nups
+Freqüência
+Percentual
+Não
+296
+96,42%
+Sim
+11
+3,58%
+total
+307
+100%
+Fonte: Banco de dados do MPDFT
+Tabela 40 – Distribuição da freqüência dos casos de violência no casal –
+acompanhamento multidisciplinar apesar da renúncia
+(sem intervenção penal) em Samambaia-DF
+Houve acompanhamento multidisciplinar
+Freqüência
+Percentual
+Não
+238
+90,15%
+Sim
+20
+7,58%
+Não informado
+6
+2,27%
+total
+264
+100%
+Fonte: Banco de dados do MPDFT
+
+83
+Em Samambaia, conforme pode ser visto na tabela 38, houve encaminhamento para acompanhamento multidisciplinar, apesar da renúncia 
+expressa da vítima, e este procedimento ocorreu apenas no Primeiro Juizado 
+daquela localidade.
+A tabela 42 indica os tipos de acompanhamento para os quais os autores da agressão e as vítimas foram encaminhados, com prevalência para os 
+grupos dos alcoólicos anônimos.
+Sobre a rede de apoio, as mulheres valorizam e fazem referência à Deam, 
+ao Centro de Desenvolvimento Social (CDS) e à Casa Abrigo como pertencentes a essa rede. A partir do relato das mulheres, notamos que elas qualificam o sistema de justiça como a principal instituição de apoio e de proteção, a 
+qual legitimam, mesmo com críticas, capaz de protegê-las contra a violência.
+Assim, antes de eu estar aqui na Casa Abrigo, eu me sentia assim [...] eu 
+não sentia força pra lutar como as pessoas, de sair de casa e falar assim 
+com uma pessoa: “ah, eu tô precisando de ajuda”. Eu acho que eu não 
+Tabela 41 – Distribuição da freqüência dos casos de violência no casal – 
+acompanhamento multidisciplinar apesar da renúncia – Samambaia-DF
+Houve acompanhamento multidisciplinar
+1o Juizado
+2o e 3o Juizados
+Não
+134 (86,45%)
+104 (95,41%)
+Sim
+20 (12,90%)
+–
+Não informado
+1 (0,65%)
+5 (4,59%)
+total
+155
+109
+Fonte: Banco de dados do MPDFT
+Tabela 42 – Distribuição da freqüência dos casos de violência no casal – 
+tipo de acompanhamento multidisciplinar – Samambaia-DF
+Tipo de acompanhamento
+1o Juizado
+AA
+12 (60%)
+Grupos psicossociais
+6 (30%)
+AA e grupos psicossociais
+1 (5%)
+Não informado
+1 (5%)
+Fonte: Banco de dados do MPDFT
+
+84
+tinha coragem. Eu acho que agora eu tenho coragem de pedir ajuda a 
+qualquer pessoa (Francisca).
+Ah, eu indicaria [o sistema judiciário] sim. Assim, dá segurança pra gente, ajuda a gente lidar com isso, com os problemas que a gente tem. Até 
+da gente conversar já faz bem. Dá apoio, que é essencial, dá segurança pra 
+gente, a gente aprende a ser mais seguro de si, de enfrentar os problemas 
+(Tatiane).
+Na sexta hipótese, sobre as práticas diferenciadas de abordagem do 
+problema no Ministério Público, observamos que, embora haja elevado 
+número de arquivamentos em ambas as localidades, os dados indicam que 
+o número de casos encaminhados para atendimento psicossocial é maior 
+em Samambaia que em Ceilândia. No entanto, se atentarmos para as freqüências de arquivamento, em ambas as localidades, veremos que não há 
+diferença significativa entre as práticas adotadas pelos diversos ofícios do 
+Ministério Público, ou seja, o resultado prático que a praxe revela, e que prevalece ainda, é o arquivamento e o baixo número de encaminhamentos para 
+o acompanhamento multidisciplinar.
+6.3 
+Vivências dos prof issionais responsáveis pelo 
+acompanhamento de mulheres em situação de violência 
+e sua avaliação do serviço prestado pelo sistema 
+de justiça criminal
+O relato dos operadores de justiça assinala um ponto importante, que 
+se refere à percepção da complexidade da problemática dos casos de violência 
+contra a mulher, ou seja, o fato de ser um objeto que demanda a análise de 
+uma série de elementos da vida social para o seu entendimento. “Tem situações que as mazelas da sociedade são colocadas todas em uma sala de audiência, os problemas financeiros, de doenças, de vícios, de desamor, então, aí a 
+gente tem que tentar encontrar uma solução” (Sujeito 2)
+
+85
+Complementar a esta percepção, observamos uma atitude de perplexidade dos profissionais frente a este fenômeno, especialmente no que toca às 
+reações das mulheres de manter uma relação conjugal/afetiva mesmo não havendo modificação na situação de violência. “[...] o que a mulher vítima estava 
+querendo não era isso, o afastamento do agressor, quer dizer, é talvez difícil de 
+entrar na nossa cabeça, eu não consigo entender isso, mas, enfim, essa é a nossa 
+realidade de todo dia, em mais de 80% dos casos” (Sujeito 4) [grifo nosso].
+Esse aspecto evidencia a necessidade de reflexão sobre o próprio olhar 
+do operador de justiça para esse objeto, que não pode ser considerado “neutro”, 
+ou seja, ele também reflete as representações que permeiam as questões de 
+gênero existentes no contexto social. Um dos entrevistados diz: “Eu já ouvi 
+críticas, eu não sei se procede ou não, inclusive de postura machista de promotores e juízes” (Sujeito 1).
+O atravessamento das relações de gênero, ou seja, a reprodução do modelo patriarcal presente no olhar dos operadores de justiça para a problemática 
+da violência, é uma questão central na presente investigação. Nesse caso, é o 
+atravessamento de gênero (construção social da noção de masculino e feminino e suas implicações) na instituição jurídica.
+Compreender o fenômeno da violência implica um olhar construído 
+por pontos de vista que podem ser oriundos de questões institucionais, jurídicas, sociais e até mesmo pessoais (Ghesti; Roque; Moura, 2007), o que reforça 
+seu caráter histórico-social.
+Releva pensar a complexidade dessa problemática no campo jurídico, em 
+razão de os entrevistados, especialmente juízes e promotores, perceberem que 
+ocupam o lugar de autoridade, da norma e da lei, lugar esse idealizado pela comunidade, portanto, figuras centrais na ressignificação das relações de gênero:
+[...] porque as pessoas acham que o juiz é capaz de resolver os problemas, 
+de arrumar um emprego, de arrumar uma vaga para o seu filho na escola, 
+só que é como se estivessem depositando tudo, como se o juiz fosse aquele 
+que tem todos os poderes para resolver tudo [...] só que isso não é possível e 
+isso frustra um pouco a expectativa da pessoa, porque ela acha que pode 
+resolver tudo em uma audiência só (Sujeito 2).
+
+86
+[...] a sociedade espera muito do juiz, e o juiz tem que dar uma resposta 
+que pese toda a problemática social que nós vivemos (Sujeito 1).
+[...] vamos desmistificar mesmo, tirar esse mito que tem em cima do promotor, que são semi-deuses – o promotor e o juiz. Tem muita gente que 
+vem aqui: “ah, eu pensei que a audiência era direto com o juiz ou com 
+o promotor”. Muitas vezes você ouve: “ah, eu queria ver a capa do juiz” 
+(Sujeito 7).
+Este lugar da autoridade pode ser relacionado com o papel dos experts. 
+“Nossa civilização tem produzido um saber acerca de seu próprio funcionamento, dela mesma, como objeto de estudo. E tem gerado profissionais, 
+intelectuais, experts, que são os conhecedores dessa estrutura e processo dessa sociedade em si” (Baremblitt, 1996, p. 14). Esse lugar ocupado pelos 
+experts faz com que, muitas vezes, a sociedade civil se veja despossuída de 
+saber. As pessoas passam a achar que suas necessidades e decisões dependem do saber do expert.
+É claro que os experts conhecem e decidem prevalentemente, segundo os 
+interesses das classes, níveis hierárquicos e grupos dominantes aos quais 
+pertencem parcialmente. Mas, não se deve supor uma intenção deliberada dos técnicos nesse sentido. Acontece que seu saber em si mesmo já 
+está produzido como instrumentos e resultados que privilegiam os interesses citados (Baremblitt, 1996, p. 16).
+Consideramos fundamental valorizar o saber dos experts, entretanto, 
+ressaltamos sua necessidade de buscar um trabalho conjunto com as comunidades, como forma de submeter o seu próprio saber a um processo crítico, 
+de modo que possibilite a visão crítica do seu próprio saber. “Para poderem 
+efetuar essa auto-crítica, os experts não podem fazê-lo no seio de suas torres 
+de marfim, não podem fazê-lo nas academias [...] Eles têm de entrar em 
+contato direto com os coletivos” (Baremblitt, 1996, p. 18). “Eu acho que o 
+jurídico tem que sair um pouco do pedestal que ele tá e chegar mais perto da 
+população para tentar resolver” (Sujeito 5).
+
+87
+Nesse sentido, observamos que, para os operadores de justiça, a magnitude da problemática dos casos de violência doméstica demanda a realização do trabalho conjunto entre juízes e promotores, “[...] é um trabalho que 
+a gente faz em parceira com o Ministério Público, não tem como dissociar 
+o trabalho do juiz e do promotor, principalmente nos Juizados Especiais 
+Criminais” (Sujeito 2).
+Além disso, os operadores de justiça assinalam também a importância 
+da produção acadêmica e a necessidade de maior formação deles próprios 
+sobre essa temática.
+[...] o juiz tem que ter uma formação mais completa e sempre buscando 
+o auxílio destes profissionais das ciências humanas, até mesmo porque 
+um precisa do outro, se muda um conceito de justiça vai ter que mudar 
+a concepção de atuação do Judiciário do operador do direito, do juiz, do 
+promotor, do defensor (Sujeito 1).
+Como já detalhado, acreditamos que a demanda por um trabalho 
+conjunto, de produção acadêmica e formação profissional contínua sobre a 
+temática da violência doméstica, é de extrema relevância para o exercício da 
+práxis jurídica que permita uma ação efetiva do Estado, de produzir saberes 
+que desmistifiquem o saber dominante.
+6.4 
+Estratégias alternativas para o sistema de justiça criminal com 
+vistas na melhoria do atendimento das mulheres em situação 
+de violência
+Como estratégias alternativas para o sistema Judiciário, a partir do 
+relato dos operadores de justiça, destacamos dois aspectos: a valorização das 
+equipes multidisciplinares, que inclui as terapêuticas no acompanhamento da 
+vítima, dos agressores e dos familiares, e a ênfase na atuação do Judiciário, 
+voltada para as transformações sociais, numa função preventiva, com a ampliação da rede social de apoio.
+
+88
+Diante da problemática da violência doméstica, percebe-se que os 
+operadores de justiça consideram-na um fenômeno construído socialmente 
+e, por isso, suas soluções ultrapassam os limites do Judiciário. Daí a necessidade do estabelecimento de uma atuação conjunta do sistema Judiciário e da 
+sociedade civil, inclusive com a criação e implementação de políticas públicas 
+que diminuam assimetrias sociais e promovam a inclusão social.
+Assim, quanto às equipes multidisciplinares para o acompanhamento 
+da vítima, do autor da agressão e dos familiares, os entrevistados demonstraram valorizá-las e, até mesmo, indicaram a ampliação desses serviços na 
+estrutura jurídica. Apesar de esta ser uma percepção dos profissionais e operadores do sistema, a nós, como pesquisadoras, cabe problematizar para indagar se a demanda de inclusão desses serviços no sistema de justiça criminal 
+não acabaria por reforçar na sociedade a falsa idéia de que as soluções para a 
+violência no casal estão no sistema penal. Esse questionamento é necessário 
+porque a análise dos dados nos mostrou que, no geral, o que é citado como 
+positivo na abordagem da violência no casal é algo fora do sistema penal: a 
+intervenção multidisciplinar, por exemplo.
+Nós temos o Núcleo Psicossocial do Tribunal de Justiça e existe também a Cema, do Ministério Público. São centros criados no sentido de 
+suplementar a justiça terapêutica. E então, existe toda uma rede de profissionais e é importantíssimo e fundamental porque há uma mudança 
+de mentalidade, ao longo das últimas décadas, no sentido do tratamento 
+deste tipo de situação, no sentido de que não se soluciona este tipo de 
+problema apenas com punição, com prisão. Essa idéia vem sendo afastada e, nesse sentido, é que entra o trabalho destes profissionais, de se 
+aplicar a medida correta, fazer o acompanhamento, tentar encontrar a 
+pacificação social e o equilíbrio; a rede de saúde é também muito importante (Sujeito 1).
+Eu acredito que no futuro, principalmente, nessa área de juizados e de 
+juizados especiais em violência contra a mulher, nós vamos ter que estar 
+com um núcleo de Psicologia, de Serviço Social, já agregados às Varas. 
+
+89
+[...] Acredito que essa seria uma justiça para o futuro, que esses profissionais pudessem participar das audiências para que a gente buscasse 
+soluções em conjunto (Sujeito 2).
+[...] aí a gente começou a se enveredar por um outro caminho, que é o caminho da multidisciplinaridade, que, na minha visão, é o grande caminho 
+a ser trilhado, para a gente conseguir dar uma resposta satisfatória, pelo 
+menos daquilo que está na nossa alçada, no problema da violência doméstica. E então, o Tribunal de Justiça criou o Nups, Núcleo de Acompanhamento Psicossocial, com psicólogos, assistentes sociais, etc. (Sujeito 4).
+Outro ponto a ser destacado é sobre a atuação do Judiciário voltada 
+para as transformações sociais, numa função preventiva. Observamos que 
+esse posicionamento dos operadores de justiça desmistifica o direito penal 
+como solução única para o problema da violência no casal. A valorização dessa questão como social não nega a existência do crime de violência contra a 
+mulher, ao contrário, reconhece suas especificidades e a importância de sua 
+discussão coletiva na esfera penal. Isso pode ser enunciado pelas falas abaixo:
+Há essa cultura no sentido de que o Judiciário, a lei e o direito penal devem resolver o problema da violência. É uma idéia completamente equivocada. A questão da violência é muito mais complexa e de responsabilidade 
+de todos nós enquanto cidadãos. Neste sentido, nós já temos vários exemplos de trabalhos que estão sendo desenvolvidos em nível nacional entre 
+a sociedade civil e grupos que atuam diretamente nesta questão e que 
+têm colaborado muito com a diminuição nesse tipo de caso, de problema. 
+E então, eu acho que a sociedade não pode esperar pelo Estado. Infelizmente 
+ainda existe isso no nosso país. É a questão da educação, da conscientização. Felizmente a mídia tem dado espaço maior a esta problemática, não 
+é só o delegado, o juiz e o promotor e o Estado (Sujeito 2).
+[...] A Justiça tem que se aproximar da população realmente, até como 
+atuação preventiva, não só em relação à violência doméstica, qualquer 
+
+90
+tipo de situação de crimes. A Justiça tem que estar mais próxima da comunidade. Eu acho inclusive que deve ter um contato direto, até mesmo para a criação de fóruns, de grupos, grupos de apoio que envolva a 
+comunidade local, eu acho que se houver um movimento comunitário 
+seria interessante nessa questão. Seria interessante uma atuação social, 
+o pessoal também interagindo também com a Justiça, com a polícia e 
+criando esses grupos comunitários, ONGs, para levar os casos tanto para 
+a Justiça quanto para a polícia. Então, eu acho que a Justiça tem que estar 
+aberta a este tipo de situação e ter contato com esse pessoal (Sujeito 3).
+O que se percebe nas falas dos operadores é que a valorização do social para 
+além do jurídico em sentido estrito (visão monista do Direito, que identifica direito e lei) caminha na direção da construção conjunta de formas de enfrentamento 
+em parceria com a sociedade civil. Em outras palavras, é o reconhecimento da complexidade da questão da violência e da parcela de responsabilidade de cada um.
+A sociedade civil é que tem a parte mais importante. Quando falo em 
+sociedade civil, eu estou falando de escola, igreja, família, associação de 
+bairro, todos esses agrupamentos sociais que também exercem a função 
+de controle social, que fazem a formação para estabelecerem limites. A 
+sociedade civil, num sentido mais amplo, ela é a maior responsável pela 
+efetividade do controle social. Talvez o Estado tenha uma posição muito 
+pequena neste volume maior, o Estado (instância jurídica) entra “quando 
+o leite já derramou há muito tempo”. Eu quero ter uma função preventiva, 
+então, eu preciso construir estas redes de interação social que já estabelecem 
+limites claros para a pessoa (Sujeito 4) [grifos nossos].
+Percebemos que emerge na fala dos operadores de justiça uma crítica 
+à burocratização da prática jurídica alertando para a importância de se olhar 
+para as pessoas e não para os processos.
+Essa é a grande diferença, nós estamos tratando seres humanos e para 
+isso nós precisamos de todos os profissionais envolvidos na área de hu
+91
+manas, desde Sociologia, Psicologia, principalmente, Serviço Social, 
+[que] têm prestado uma colaboração muito grande [...] nem sempre é 
+possível trazer toda a realidade para uma sala de audiência [...] então tem 
+que ir até a residência das pessoas (Sujeito 2).
+Em síntese, discutimos que o sistema de justiça instituído apresenta 
+atravessamento das relações de gênero, ou seja, em algumas de suas práticas, 
+reproduz preconceitos de gênero. Entretanto, percebemos que o movimento 
+apresentado pelas falas dos operadores de justiça voltado para uma maior 
+aproximação da comunidade numa função preventiva e a necessidade de 
+maior diálogo com as equipes multidisciplinares mostra-se como força instituinte. Força instituinte compreendida pela psicologia institucional como 
+forças produtivas de novos códigos institucionais que possibilitem nova leitura das relações de gênero e, conseqüentemente, da violência contra a mulher.
+Só uma compreensão crítica do quadro jurídico atual e uma atenção específica a esse fenômeno de repercussão social tão intensa, por meio da 
+elaboração e aplicação de leis e mecanismos jurídicos e de políticas públicas eficazes, voltados para a prevenção, punição, reparação e erradicação 
+da violência contra as mulheres, poderá efetivar a justiça e o exercício de 
+seus direitos humanos (Castilho et al., 2004, p. 145).
+
+92
+Consideramos que esta investigação de cunho quantitativo-qualitativo atingiu os objetivos propostos.
+Verificou-se que a maioria dos casos de agressão entre homens e mulheres levados ao Juizado Especial Criminal refere-se à violência no casal 
+heterossexual e ao fato de o maior número de vítimas ser de mulheres, perfazendo cerca de 70% dos casos, em ambas as localidades. É um sistema 
+eminentemente voltado para o reconhecimento de um tipo específico de violência no casal: a do casal heterossexual.
+Em aproximadamente 50% dos casos, os filhos ficam expostos secundariamente à situação de violência.
+A violência a que a mulher está submetida é contínua e recorrente, 
+visto que os dados apontaram para o fato de que, ao denunciar, em geral, ela 
+já vinha sofrendo agressões anteriores.
+A maioria dos processos é arquivada pela não-autorização da vítima 
+no prosseguimento do feito, o que ocorreu em mais de 80% dos casos.
+Os dados indicam que as mulheres em situação de violência buscam 
+o Estado como recurso quase extremo para interromper o ciclo de violência 
+a que estão submetidas.
+Considerações f inais
+7
+
+93
+Identificamos que o encaminhamento para o atendimento multidisciplinar está mais presente em Samambaia que em Ceilândia (15,19% e 
+6,31%, respectivamente). Entretanto, o grande número de arquivamentos, 
+que impede essa intervenção, faz parte da práxis de ambas as cidades.
+A percepção dos profissionais sobre a abordagem psicossocial é muito 
+positiva.
+A partir da articulação dos dados quantitativos e qualitativos, este estudo aponta para algumas considerações. Antes de discuti-las, é importante 
+ressaltar que o uso da pesquisa qualitativa permitiu uma aproximação da 
+complexidade do fenômeno da violência no casal, todavia, pela natureza de 
+tal método, não se tem a intenção de generalizar essas conclusões, mas a de 
+apresentar indicativos importantes sobre essa temática.
+Retomando o tema desta investigação, Análise da relação sistema de 
+justiça criminal e violência doméstica contra a mulher: a perspectiva de mulheres 
+em situação de violência e dos profissionais responsáveis por seu acompanhamento, constatamos, em primeiro lugar, que essa é uma relação atravessada pela 
+visão tradicional de gênero.
+Ao ouvir os atores sociais envolvidos na questão da violência, percebemos a dificuldade dos casais em negociar as modificações dos papéis tradicionalmente impostos ao homem e à mulher (homem-provedor x mulher 
+submissa e responsável pela harmonia familiar). Ao mesmo tempo, o sistema de justiça criminal, que atende o casal em situação de violência, também 
+é permeado por essas representações de gênero, ou seja, em bases muito semelhantes àquelas sobre as quais a violência no casal é construída.
+Esse atravessamento, ao reproduzir os estereótipos do gênero, enaltecendo a “harmonia familiar”, mantém a violência contra a mulher na invisibilidade, isto é, enclausurada no universo privado, como pode ser evidenciado 
+pelo elevado número de arquivamentos.
+Os operadores percebem-se como realizadores de práticas diferenciadas, contudo, tal percepção não é confirmada na fala das vítimas que demonstram não compreender a lógica de funcionamento do sistema jurídico, 
+nem diferenciar o papel do juiz, do promotor ou do conciliador, personagens 
+a quem essas vítimas chamam indistintamente Justiça.
+
+94
+Identificamos que a prática jurídica instituída, detalhada na investigação, tem como resultado final a seletividade do sistema penal, sendo marcada pela falta de auto-reflexividade, de compreensão da complexidade do 
+fenômeno, de conhecimento sobre as especificidades dos sujeitos envolvidos, 
+de identificação com os sujeitos (classes sociais e diferenças culturais) e de 
+reprodução da noção dualista e limitada de vítima/algoz. Assim, essa prática, atravessada principalmente pelas relações de gênero e pela classe social, 
+contribui para que o sistema de justiça aceite o grande número de arquivamentos sem oferecer alternativas ao casal em conflito.
+Entretanto, identificamos como força produtiva de novos códigos institucionais, força instituinte na prática jurídica, a demanda dos operadores de 
+justiça por uma aproximação da comunidade numa função preventiva, pela 
+necessidade de produção acadêmica e formação contínua sobre essa temática 
+e pelo reconhecimento da complexidade da violência para além do jurídico. 
+Consideramos que essa demanda representa a possibilidade de submeter o 
+seu próprio saber a um processo crítico, de auto-reflexividade constante, que 
+possa contrapor à reprodução da lógica sexista e avançar no enfrentamento 
+da violência no casal.
+A riqueza e a quantidade de dados obtidos com a pesquisa são capazes de produzir outras dezenas de tabelas e avaliações. Contudo, para facilitar a visão geral, optamos por restringir a análise apenas aos pontos fixados 
+para investigação, nossas hipóteses iniciais. Isso não impede, contudo, que os 
+dados armazenados possam ser consultados para responder a novas indagações, surgidas a partir do conhecimento do esboço geral ora apresentado.
+
+95
+
+96
+Adorno, Sérgio. Crime, justiça penal e desigualdade jurídica: as mortes que 
+se contam no tribunal do júri. Revista USP, São Paulo, v. 21, p. 132-151, 
+mar./maio 1994.
+Alexandre, Marcos. O saber popular e sua influência na construção das representações sociais. Revista Comum, Rio de Janeiro: Faculdades Integradas 
+Hélio Alonso, v. 5, n. 15, p. 161-171, ago./dez. 2000.
+Andrade, Vera Regina Pereira de. Do paradigma etiológico ao paradigma da 
+reação social: mudança e permanência de paradigmas criminológicos na ciência 
+e no senso comum. Revista Brasileira de Ciências Criminais, São Paulo, n. 14, 
+p. 276-287, abr./jun. 1996.
+. A ilusão de segurança jurídica: do controle da violência à violência 
+do controle penal. 2. ed. Porto Alegre: Livraria do Advogado, 2003. 336 p. 
+Angulo-Tuesta, Antonia de Jesus. Gênero e violência no âmbito doméstico: a 
+perspectiva dos profissionais de saúde. 1997. 151 p. Dissertação (Mestrado 
+em Ciências Sociais) – Fundação Oswaldo Cruz, Escola Nacional de Saúde 
+Pública, Rio de Janeiro, 1997.
+Arendt, Hannah. Da violência. Crises da República. Tradução José Volkmann. São Paulo: Perspectiva, 2004. p. 93-156. (Coleção Debates).
+Referências
+
+97
+Arendt, Hannah. A condição humana. Rio de Janeiro: Forense Universitária, 2005.
+Ariès, Philippe. História social da criança e da família. Rio de Janeiro: Guanabara, 1981.
+Baratta, Alessandro. Criminologia crítica e crítica do direito penal: introdução à sociologia do direito penal. 3. ed. Tradução Juarez Cirino dos Santos. 
+Rio de Janeiro: Revan; Instituto Carioca de Criminologia, 2002. 254 p.
+Bardin, Laurence. Análise de conteúdo. Lisboa: Edições 70, 1977.
+Baremblitt, Gregório. Compêndio de análise institucional e outras correntes: 
+teoria e prática. 3. ed. Rio de Janeiro: Rosa dos Tempos, 1996.
+Berger, Peter; Berger, Brigitte. Como ser um membro da sociedade. In: 
+Foracchi, Marialice; Martins, José de Souza (Org.). Sociologia e sociedade: 
+leituras de introdução à sociologia. Rio de Janeiro: Livros Técnicos e Científicos, 1997.
+Bleger, José. Psico-higiene e psicologia institucional. Porto Alegre: Artes Médicas, 1984.
+Bourdieu, Pierre. O poder simbólico. Rio de Janeiro: Bertrand Brasil, 2004.
+Campos, Carmen Hein; Carvalho, Salo de. Violência doméstica e juizados 
+especiais criminais: análise a partir do feminismo e do garantismo. Revista de 
+Estudos Femininos, Florianópolis, v. 14, n. 2, maio/set. 2006.
+. Juizados especiais criminais e seu déficit teórico. Revista de Estudos 
+Femininos, Florianópolis, v. 11, n. 1, 2003. Disponível em: <http://www.scie
+lo.br/scielo.php?script=sci_arttext&pid=S0104-026X2003000100009 
+&lng=es&nrm=iso>. Acesso em: 11 mar. 2007. 
+Castells, Manuel. O fim do patriarcalismo: movimentos sociais, família e 
+sexualidade na era da informação. In: 
+. O poder da identidade: a era 
+da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 2006. 
+p. 169-285. v. 2.
+Castilho, Ela Wiecko de et al. O acesso das mulheres vítimas de violência 
+à justiça: reflexões sobre a Lei 9.099/95 e o Juizado Especial Criminal na 
+capacitação de agentes policiais. In: Bandeira, Lourdes; Almeida, Tânia 
+
+98
+Mara C. de; Menezes, Andrea Mesquita de. Violência contra as mulheres: 
+a experiência de capacitação das Deams da Região Centro-Oeste. Brasília, 
+2004. (Cadernos Agende, v. 5).
+Cruz Lima, Suzana Canez da. Trabalho doméstico: uma trajetória silenciosa 
+de mulheres. Rio de Janeiro: EVC, 2003.
+Dantas-Berger, Sônia Maria; Giffin, Karen. A violência nas relações de 
+conjugalidade: invisibilidade e banalização da violência sexual? Caderno de 
+Saúde Pública, Rio de Janeiro, v. 21, n. 2, p. 417-425, mar./abr. 2005.
+Ghesti, Ivânia; Roque, Elizângela Caldas Barroca; Moura, Marília Lobão Ribeiro. Breve análise psicossocial dos casos inaugurais da 1a Vara do 
+Juizado de Violência Familiar e Doméstica contra a mulher do TJDFT. In: 
+Ghesti, Ivânia; Roque, Elizângela Caldas Barroca; Moura, Marília Lobão 
+Ribeiro. Novos paradigmas na justiça criminal: relatos de experiências do núcleo psicossocial forense do TJDFT. 2007. Cap. 22, p. 368-388.
+Guareschi, Neuza Maria de Fátima et al. Práticas psicológicas nas políticas 
+públicas: um debate sobre a temática da violência. Revista Psicologia Política, 
+São Paulo, v. 5, n. 9, p. 47-66, jan./jun. 2005.
+Guirado, Marlene. Psicologia institucional. São Paulo: EPU, 1987.
+Heise, Lori. Violência e gênero: uma epidemia global. Caderno de Saúde 
+Pública, v. 10, p. 135-145, 1994. Supl. 1.
+Hirigoyen, Marie-France. A violência no casal: da coação psicológica à agressão 
+física. Tradução Maria Helena Kühner. Rio de Janeiro: Bertrand Brasil, 2006.
+Louro, Guacira Lopes. Nas redes dos conceitos de gênero. In: Lopes, Marta 
+Júlia M.; Meyer, Dagmar E.; Waldow, Vera Regina (Org.). Gênero e saúde. Porto Alegre: Artes Médicas, 1996.
+Minayo, Maria Cecília de Souza. O desafio do conhecimento: pesquisa qualitativa em saúde. São Paulo: Hucitec; Rio de Janeiro: Abrasco, 1992.
+Morato, Alessandra Campos. A violência no casal diante do sistema de justiça criminal. Brasília, 2006. Mimeo.
+Nunan, Adriana. Violência doméstica entre casais homossexuais: o segundo armário? Psico, Porto Alegre, v. 35, n. 1, p. 69-78, jan./jun. 2004.
+
+99
+Rocha-Coutinho, Maria Lúcia. Tecendo por trás dos panos: a mulher brasileira nas relações familiares. Rio de Janeiro: Rocco, 1994.
+Saffioti, Heleieth I. B. Gênero, patriarcado, violência. São Paulo: Fundação 
+Perseu Abramo, 2004.
+Santos, Cecília MacDowell; Izumino, Wânia Pasinato. Violência contra 
+as mulheres e violência de gênero: notas sobre estudos feministas no Brasil. 
+Revista Estudios Interdisciplinarios de América Latina y El Caribe, Israel: Universidade de Tel Aviv, v. 16, n. 1, 2005.
+Schraiber, Lilia B.; D’Oliveira, Ana Flávia Lucas P. Violência contra mulheres: interfaces com a saúde. Interface: Comunicação, Saúde, Educação, n. 5, 
+p. 11-27, 1999.
+Scott, Joan. Gênero: uma categoria útil para a análise histórica. 2. ed. Recife: SOS Corpo, 1995.
+Suárez, Mireya; Bandeira, Lourdes (Org.). Violência, gênero e crime 
+no Distrito Federal. Brasília: Paralelo 15; Universidade de Brasília, 1999. 
+p. 173-237.
+Triviños, Augusto Nibaldo Silva. Introdução à pesquisa em ciências sociais: a 
+pesquisa qualitativa em educação. São Paulo: Atlas, 1987.
+
+100
+Anexos 
+
+102
+Ceilândia
+(  ) 1a (  ) 2a Vara No Processo no TJ ___________________________
+Tipo Penal: (  ) 21 (  ) 129 (  ) 147 Queixa registrada: (  ) Deam (  ) Delegacia local
+(  ) Violência de Gênero (  ) Violência doméstica/familiar (  ) Violência 
+no Casal
+Dia da semana do fato: ______ _____ Hora do fato: ____ h ____ min
+Local do fato: (  ) Dentro de Casa (  ) Em Via Pública (  ) No Trabalho 
+(  ) Outros: ______________________________________________
+Autor ingeriu/usou: (  ) Narcóticos (  ) Cocaína e derivados (  ) Maconha 
+(  ) Bebida Alcoólica (  ) Outros_____________________
+(  ) Não ingeriu/usou (  ) Não há informação
+VÍTIMA Idade (anos) ___ Naturalidade (UF) _____ Sexo: (  ) M (  ) F
+Residência: (  ) Ceilândia (  ) Outra: ___________________________
+Refere agressão anterior? (  ) Sim (  ) Não
+Se sim, registrou ocorrência? (  ) Sim (  ) Não
+AUTOR Idade (anos) ____ Naturalidade (UF) _____ Sexo: (  ) M (  ) F
+Residência: (  ) Ceilândia (  ) Outra: ___________________________
+Anexo I 
+
+103
+Foi processado anteriormente? (  ) Sim (  ) Não
+Qual crime? ________________________________
+Foi condenado pelo crime anterior? (  ) Sim (  ) Não
+Responde IP por fato anterior? (  ) Sim (  ) Não
+Se sim, qual crime?_________________________
+VÍNCULO RELACIONAL ORIGINÁRIO
+(  ) Casados (  ) Companheiros/União Estável (  ) Namorados/Noivos
+(  ) Outros (irmão, pai, vizinho...)
+Tempo de Relacionamento: ____ anos ____ meses
+Situação de fato no momento da agressão: Vivendo (  ) Separados (  ) Sob 
+o mesmo teto
+Há filhos ou crianças sob guarda ou responsabilidade do casal? (  ) Sim 
+(  ) Não
+Se sim, quantos? ____ Comuns ____ Só do homem ____ Só da mulher 
+(  ) Não especificado
+Continuam vivendo juntos após o fato? (  ) Sim (  ) Não
+SITUAÇÃO ATUAL DO PROCESSO
+1. Vítima autorizou prosseguimento do processo: (  ) Sim (  ) Não
+2. Se não houve autorização para prosseguimento, a renúncia foi: (  ) Expressa (  ) Tácita
+3. Se a renúncia foi expressa, ocorreu: (  ) Na delegacia (  ) Por telefone 
+(  ) Na Secretaria da Vara (  ) Em audiência c/ juiz ou promotor (  ) Em audiência com conciliador (  ) Com oficial de justiça
+4. Se a renúncia expressa foi em audiência, o autor estava presente? (  ) Sim 
+(  ) Não
+5. Se a renúncia foi tácita, ocorreu pelo seguinte motivo:
+(  ) Vítima intimada, não compareceu à audiência (  ) Vítima mudou de endereço e não compareceu (  ) Vítima não forneceu endereço do autor
+6. Apesar da renúncia, expressa ou tácita, as partes foram encaminhadas a 
+algum acompanhamento multidisciplinar antes do arquivamento: (  ) Sim 
+(  ) Não
+
+104
+7. Se sim, quais: (  ) Alcoólicos Anônimos (AA) ou similar (  ) Narcóticos 
+Anônimos (NA) ou similar (  ) Grupos psicossociais (  ) Outros – Especificar: _______________________________________________
+8. Se houve autorização para prosseguimento, houve transação? (  ) Sim 
+(  ) Não
+9. Se houve transação: (  ) Cesta Básica (  ) Prestação de Serviços (  ) Outros – Especificar: _____________________________________
+10. Se não houve transação, houve denúncia? (  ) Sim (  ) Não
+11. Se sim: (  ) Suspensão condicional do processo (  ) Condenação (  ) Absolvição (  ) Processo ainda em andamento
+12. Encaminhado ao Nups/TJDF? (  ) Sim (  ) Não
+Encaminhado à Cema? (  ) Sim (  ) Não
+13. Se encaminhado à Cema: (  ) RIS (  ) REM (  ) Cesta Básica (  ) Prestação de Serviços (  ) Outros – Especificar: ________________
+Situação do processo na data da coleta:
+(  ) Arquivado conforme motivo já informado (  ) Arquivado em decorrência 
+de prescrição (  ) Arquivamento pelo cumprimento da transação/sentença 
+condenatória/suspensão condicional processo (  ) Em andamento (  ) Outros: ________________________________
+
+105
+Samambaia
+(  ) 1a (  ) 2a (  ) 3a Vara No Processo no TJ ______________________
+Tipo Penal: (  ) 21 (  ) 129 (  ) 147 Queixa registrada: (  ) Deam (  ) Delegacia local
+(  ) Violência de Gênero (  ) Violência doméstica/familiar (  ) Violência 
+no Casal
+Dia da semana do fato: ______ _____ Hora do fato: ____ h ____ min
+Local do fato: (  ) Dentro de Casa (  ) Em Via Pública (  ) No Trabalho
+(  ) Outros: ______________________________________________
+Autor ingeriu/usou: (  ) Narcóticos (  ) Cocaína e derivados (  ) Maconha 
+(  ) Bebida Alcoólica (  ) Outros: ____________________
+(  ) Não ingeriu/usou (  ) Não há informação
+VÍTIMA Idade (anos) ____ Naturalidade (UF) ____ Sexo: (  )  M (  ) F
+Residência: 
+(  ) Samambaia 
+(  ) Recanto 
+das 
+Emas 
+(  ) Outra: 
+______________________________
+Refere agressão anterior? (  ) Sim (  ) Não
+Se sim, registrou ocorrência? (  ) Sim (  ) Não
+AUTOR Idade (anos) _____ Naturalidade (UF) ____ Sexo: (  ) M (  ) F
+Residência: 
+(  ) Samambaia 
+(  ) Recanto 
+das 
+Emas 
+(  ) Outra: 
+______________________________
+Foi 
+processado 
+anteriormente? 
+(  ) Sim 
+(  ) Não 
+Qual 
+crime? 
+________________________________
+Foi condenado pelo crime anterior? (  ) Sim (  ) Não
+Responde IP por fato anterior? (  ) Sim (  ) Não
+Se sim, qual crime?___________________________
+VÍNCULO RELACIONAL ORIGINÁRIO
+(  ) Casados (  ) Companheiros/União Estável (  ) Namorados/Noivos 
+(  ) Outros (irmão, pai, vizinho...)
+Tempo de Relacionamento: ____ anos ____ meses
+Situação de fato no momento da agressão: Vivendo (  ) Separados (  ) Sob 
+o mesmo teto
+
+106
+Há filhos ou crianças sob guarda ou responsabilidade do casal? (  ) Sim 
+(  ) Não
+Se sim, quantos? ____ Comuns ____ Só do homem ____ Só da mulher 
+(  ) Não especificado
+Continuam vivendo juntos após o fato? (  ) Sim (  ) Não
+SITUAÇÃO ATUAL DO PROCESSO
+1. Vítima autorizou prosseguimento do processo: (  ) Sim (  ) Não
+2. Se não houve autorização para prosseguimento, a renúncia foi: (  ) Expressa (  ) Tácita
+3. Se a renúncia foi expressa, ocorreu: (  ) Na delegacia (  ) Por telefone 
+(  ) Na Secretaria da Vara (  ) Em audiência c/ juiz ou promotor (  ) Em audiência com conciliador (  ) Com oficial de justiça
+4. Se a renúncia expressa foi em audiência, o autor estava presente? (  ) Sim 
+(  ) Não
+5. Se a renúncia foi tácita, ocorreu pelo seguinte motivo:
+(  ) Vítima intimada, não compareceu à audiência (  ) Vítima mudou de endereço e não compareceu (  ) Vítima não forneceu endereço do autor
+6. Apesar da renúncia, expressa ou tácita, as partes foram encaminhadas a 
+algum acompanhamento multidisciplinar antes do arquivamento: (  ) Sim 
+(  ) Não
+7. Se sim, quais: (  ) Alcoólicos Anônimos (AA) ou similar (  ) Narcóticos Anônimos (NA) ou similar (  ) Grupos psicossociais (  ) Outros: 
+________________________________________________
+8. Se houve autorização para prosseguimento, houve transação? (  ) Sim 
+(  ) Não
+9. Se houve transação: (  ) Cesta Básica (  ) Prestação de Serviços (  ) Outros – Especificar: _____________________________________
+10. Se não houve transação, houve denúncia? (  ) Sim (  ) Não
+11. Se sim: (  ) Suspensão condicional do processo (  ) Condenação (  ) Absolvição (  ) Processo ainda em andamento
+12. Encaminhado ao Nups/TJDF? (  ) Sim (  ) Não Encaminhado à 
+Cema? (  ) Sim (  ) Não
+
+107
+13. Se encaminhado à Cema: (  ) RIS (  ) REM (  ) Cesta Básica (  ) Prestação de Serviços (  ) Outros – Especificar: ________________
+Situação do processo na data da coleta:
+(  ) Arquivado conforme motivo já informado (  ) Arquivado em decorrência 
+de prescrição (  ) Arquivamento pelo cumprimento da transação/sentença 
+condenatória/suspensão condicional processo (  ) Em andamento (  ) Outros: ________________________________
+
+108
+ROTEIRO DE ENTREVISTA SEMI-ESTRUTURADA – 
+MULHERES EM SITUAÇÃO DE VIOLÊNCIA
+Vivência da violência doméstica
+O que levou você a procurar a justiça?
+Fale sobre essa experiência da violência na sua vida (histórico da agressão, vivência, sentimentos envolvidos, uso de álcool, drogas etc.).
+O que foi mais doloroso nessa experiência? Por quê?
+Por que você acha que isso aconteceu com você? Isso já havia acontecido 
+antes? Como foi? E em outros relacionamentos?
+Como essa situação afeta a sua família e/ou outras pessoas de seu 
+relacionamento?
+Você teve algum tipo de apoio para lidar com esta situação? Que tipo? 
+De quem? Família? Amigos? Vizinhos? Instituições – Igreja, Polícia, ONG, 
+Associação de Moradores etc.
+Você tinha informações sobre algum tipo de atendimento à mulher? 
+Quais? Como você ficou sabendo?
+Como é seu atual relacionamento com ele (agressor)? O agressor é violento em outros contextos?
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Anexo II
+
+109
+Quais são seus planos para o futuro?
+Tem mais alguma coisa que você gostaria de acrescentar sobre essa 
+experiência?
+Impressão do Sistema Judiciário
+Em relação à denúncia, qual foi a sua expectativa quanto ao acompanhamento da Justiça?
+Conte como foi o atendimento que você teve pela Justiça durante o processo (atenção à queixa, encaminhamentos claros, explicação sobre o processo, andamento do processo – tempo).
+Como foi o atendimento prestado pelos profissionais?
+A partir desse processo houve encaminhamento para atendimento (vítima/agressor) em alguma instituição (AA, Nups, Casa Abrigo, CDM, 
+Psicologia da Universidade, outros)? Em caso afirmativo, como foi este 
+atendimento?
+Você indicaria o serviço da Justiça para outras mulheres? Por quê (riscos 
+e benefícios)? Para que (ganhos)?
+O que você tem a dizer para uma mulher que passa/passou por essa 
+situação?
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
+110
+ROTEIRO DE ENTREVISTA SEMI-ESTRUTURADA – Profissionais (operadores de Justiça e psicólogos) que acompanham as mulheres 
+vítimas de violência
+Qual a sua concepção sobre a violência doméstica contra mulher?
+Em sua opinião qual deve ser a participação/papel/contribuição da Justiça 
+no acompanhamento dos casos de mulheres vítimas de violência doméstica?
+Como o(a) senhor(a) caracteriza o acompanhamento oferecido (antes 
+da nova lei) às mulheres vítimas de violência (tempo de trabalho, aspectos 
+positivos e críticos do serviço prestado)?
+Em sua opinião, quais os desafios do Sistema Judiciário no processo de 
+acompanhamento dos casos de mulheres vítimas de violência doméstica?
+Em sua opinião, qual a responsabilidade/importância/contribuição do 
+seu cargo no acompanhamento dos casos de mulheres vítimas de violência 
+doméstica?
+Para o(a) senhor(a), quais são os desafios e limitações do seu cargo no 
+acompanhamento dos casos de mulheres vítimas de violência doméstica?
+A partir da sua prática profissional, descreva sua experiência diante 
+dessa realidade de violência doméstica contra as mulheres (sentimentos, 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+Anexo III
+
+111
+inquietações, questionamentos, motivação para o acompanhamento dessa 
+temática).
+O(a) senhor(a) gostaria de acrescentar mais alguma coisa que pudesse 
+contribuir com esta pesquisa?
+8.

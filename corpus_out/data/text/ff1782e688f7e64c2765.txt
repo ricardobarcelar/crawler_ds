@@ -1,0 +1,696 @@
+GUIA DE AVALIAÇÃO DE RISCO 
+PARA O SISTEMA DE JUSTIÇA
+
+Sumário
+Órgãos da Administração Superior do MPDFT
+Procuradoria-Geral de Justiça do Distrito Federal e Territórios 
+Procurador-Geral de Justiça Leonardo Roscoe Bessa
+Vice-Procuradoria-Geral de Justiça 
+Procuradora de Justiça Selma Leite do Nascimento Sauerbronn de Souza
+Corregedoria-Geral 
+Procurador de Justiça Gladaniel Palmeira de Carvalho
+Chefia de Gabinete da Procuradoria-Geral de Justiça 
+Promotora de Justiça Fabiana Costa Oliveira Barreto
+Secretaria-Geral 
+Promotor de Justiça Wagner de Castro Araújo
+Assessoria de Políticas Institucionais 
+Promotor de Justiça André Luiz Cappi Araújo 
+Promotor de Justiça Moacyr Rey Filho
+Ouvidoria 
+Ouvidora Rose Meire Cyrillo
+Esta é uma publicação dos Núcleos de Direitos Humanos (NDH). 
+Coordenadora: Promotora de Justiça Liz-Elainne de Silvério e Oliveira Mendes
+Endereço: Eixo Monumental, Praça do Buriti, Lote 2, Sala 144, 
+Sede do MPDFT, Brasília-DF 
+Telefone: (61) 3343-9998
+Texto: 
+Cátia Betânia Chagas / Ednair Macedo Alves / Gislaine Carneiro Campos Reis / 
+Liz-Elainne de Silvério e Oliveira Mendes / Marcela Novais Medeiros / 
+Mariana Fernandes Távora / Thais Quezado Magalhães
+Programação visual, diagramação e revisão de texto:
+Secretaria de Comunicação
+Imagens: 
+Depositphotos
+© 2018 Ministério Público do Distrito Federal e Territórios – MPDFT
+É permitida a reprodução parcial ou total desta obra, desde que citada a fonte.
+1ª Edição – 2018
+Tiragem: 1.000 unidades – Maio/2018
+Apresentação 4
+Conceitos 6
+Construção do questionário de avaliação de risco 8
+Aplicação do questionário de avaliação de risco 9
+Apreciação do grau de risco 11
+Gestão dos riscos 13
+Encaminhamentos para a rede de atendimento 16
+Questionário de avaliação de risco 18
+Sobre os fatores de risco 20
+Referências 25
+
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+5
+4
+N
+os últimos anos foram registrados importantes avanços no enfrentamento à violência doméstica e familiar contra a mulher. A 
+Lei n. 11.340/2006 – Lei Maria da Penha – reconheceu a violência 
+doméstica e familiar como violação de direitos humanos, mudou a 
+percepção da sociedade e das instituições públicas quanto à gravidade 
+do problema e instituiu medidas voltadas não apenas à responsabilização, mas também à proteção das vítimas e à prevenção da violência 
+doméstica e familiar. 
+No entanto, apesar das inovações da Lei Maria da Penha e da recente 
+tipificação do crime de feminicídio, o número crescente de casos de 
+violência contra as mulheres reflete os muitos obstáculos e desafios 
+ante a aplicação da legislação. Segundo o Mapa da Violência 2015, o 
+Brasil é o quinto país do mundo com as maiores taxas de homicídios 
+de mulheres. Pesquisa publicada pelo Instituto de Pesquisa DataSenado constatou aumento significativo do percentual de mulheres que 
+declararam ter sido vítimas de algum tipo de violência: de 18%, em 
+2015, para 29%, em 2017. Dados do MPDFT mostram que 13.155 
+mulheres solicitaram medidas protetivas de urgência, apenas, em 
+2017.
+Considerando que a efetividade da legislação e a redução dos índices 
+de violência dependem do comprometimento de todas as instituições do Sistema de Justiça Criminal, elaborou-se o presente guia para 
+orientar os diversos atores quanto ao preenchimento do questionário 
+de avaliação de risco, instrumento imprescindível à eficiência e ao 
+aprimoramento das intervenções na interrupção da violência doméstica e familiar contra a mulher. 
+Apresentação
+O questionário de avaliação de risco teve como objetivo inicial prover 
+as/os magistradas/os de informações importantes sobre a situação 
+de risco e, assim, possibilitar o deferimento imediato de medidas protetivas de urgência aptas a resguardar a integridade física e psicológica 
+da mulher. Atualmente, as informações coletadas por meio do questionário possuem diversas finalidades, entre as quais permitir o monitoramento contínuo da situação de risco e auxiliar no preenchimento 
+do Cadastro Nacional de Violência Doméstica.
+Com o propósito de facilitar o trabalho dos operadores no eventual 
+preenchimento do questionário e na avaliação de riscos, formou-se 
+um grupo de trabalho para elaborar este guia simplificado. O material apresenta os conceitos básicos da temática, explica o contexto de 
+construção do questionário de avaliação de risco, traz informações 
+sobre a correta aplicação e sobre a interpretação do instrumento e 
+destaca as possíveis medidas de intervenção, bem como os encaminhamentos aplicáveis e explicações sobre cada fator de risco. 
+Busca-se com este trabalho motivar e orientar os atores envolvidos 
+para o alcance de intervenções efetivas na proteção das mulheres vítimas de violência doméstica e familiar. Trata-se, portanto, de estratégia 
+de atuação, numa perspectiva de gênero, que compreende o feminicídio como evento evitável.
+Liz-Elainne de Silvério e Oliveira Mendes 
+Promotora de Justiça 
+Núcleos de Direitos Humanos
+
+7
+6
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Conceitos
+Avaliação de risco
+Avaliar risco é adotar procedimentos sistematizados para identificação da possibilidade de ocorrência de novas violências e dessas serem 
+letais (MEDEIROS, 2015). Envolve o registro minucioso de informações relevantes para compreensão dos riscos (ACOSTA, 2013). É 
+ação essencial para o aprimoramento dos atendimentos oferecidos a 
+mulheres em situação de violência, com vistas à garantia de sua segurança (MEDEIROS, TAVARES & DINIZ, 2015). A avaliação de 
+risco não deve substituir outras ações realizadas em casos de violência 
+doméstica, tais como registro de boletim de ocorrência policial, concessão de medidas protetivas e acolhimento psicossocial (MEDEIROS, 2015).
+Fatores de risco
+Elementos que aumentam a possibilidade de ocorrer violência. Por 
+isso, quanto mais fatores de risco presentes em um caso, maior o 
+risco potencial (SANTOS, 2010). A literatura aponta a existência de 
+fatores de risco de reincidência e fatores de risco de violências graves 
+ou letais (MEDEIROS, 2015).
+Gênero
+Conceito usado na Lei Maria da Penha que se refere à construção dos 
+papéis de homens e mulheres na sociedade. É um conceito relacional 
+e implica relações desiguais de poder.
+Fatores de proteção
+Indicadores que, se aplicados no caso concreto, podem afastar ou 
+diminuir o risco de recidiva de novos episódios de violência e feminicídio.
+Feminicídio
+Forma qualificada do homicídio, assim compreendida quando a morte de uma mulher decorre de violência doméstica e familiar ou quando provocada por menosprezo ou discriminação da condição do sexo 
+feminino.
+Rede de atendimento
+Instituições ligadas a repressão e prevenção da violência doméstica 
+e que se relacionam para maior proteção da mulher em contexto de 
+violência doméstica. Exemplos: Poder Judiciário, Ministério Público, 
+Delegacia de Polícia, Polícia Militar, Assistência Judiciária Gratuita, 
+serviços de saúde, serviços de atendimento psicossocial e serviços de 
+assistência social.
+
+9
+8
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Construção do questionário 
+de avaliação de risco
+O questionário de avaliação de risco foi construído pela rede distrital de 
+enfrentamento à violência doméstica, sob coordenação do Núcleo 
+de Gênero do Ministério Público do Distrito Federal e Territórios 
+(MPDFT), com o objetivo de assegurar a concretização do direito 
+fundamental à segurança das mulheres em situação de violência doméstica.
+Esse processo de formulação de uma estratégia de avaliação de risco contou com a participação de profissionais experientes no atendimento a mulheres envolvidas em situação de violência doméstica, 
+bem como de especialistas no estudo do tema. A construção do questionário assentou-se na convergência das experiências de atuação dos 
+diferentes parceiros, bem como na compreensão de que o estudo de 
+fatores preditivos da reincidência de violência contra a mulher pode 
+contribuir para a avaliação de risco, sendo este o parâmetro norteador 
+para a escolha das questões que compõem o instrumento. 
+Espera-se que esse esforço conjunto de construção de uma avaliação 
+estruturada possa permitir mapear os fatores de risco, reconhecer o 
+perigo existente e, por conseguinte, favorecer a adoção das medidas e 
+intervenções capazes de minimizar os riscos e contribuir para a proteção da mulher. 
+Ao final deste guia, encontram-se o questionário de avaliação de risco e 
+explicações sobre cada fator de risco. O questionário é composto por 
+quatro partes. A primeira, a segunda e a terceira são compostas por 
+perguntas que investigam a ausência/presença de fatores de risco de 
+letalidade. A quarta parte contém perguntas que investigam fatores de 
+risco de reincidência, especificamente. 
+Aplicação do questionário 
+de avaliação de risco
+No âmbito do sistema de justiça criminal, a aplicação do questionário 
+e a subjacente avaliação de risco deverão ser realizadas, preferencialmente, pela Polícia Civil do Distrito Federal (PCDF)1, no momento 
+do registro do Boletim de Ocorrência, quando será colhido o termo 
+de depoimento da mulher. Para realização da avaliação de risco, a 
+PCDF deverá juntar aos autos antecedentes criminais do suposto autor da agressão, bem como os antecedentes de vitimização da mulher.
+O questionário deverá ser preenchido pela própria denunciante, podendo contar com o auxílio do/a agente policial, se necessário. Caso 
+o/a policial não possa auxiliá-la e a mulher não tenha condições de 
+fazê-lo de per si, deverá ser assinalada a opção “vítima não teve condições 
+de preencher”. 
+Preenchido ou não, o questionário deve ser anexado aos demais documentos que instruem o requerimento de medidas protetivas de urgência, para posterior análise pelos órgãos do Sistema de Justiça. O 
+preenchimento do questionário, por sua vez, não exclui os demais 
+procedimentos de registro da ocorrência policial. 
+Nos casos em que, eventualmente, não seja possível o preenchimento da avaliação de risco pela Polícia Civil, o questionário deverá ser 
+preenchido na Promotoria de Justiça, com a chegada dos autos da 
+medida protetiva de urgência ou com outra comunicação da notícia 
+do fato. O/a promotor/a de Justiça poderá realizar pessoalmente essa 
+avaliação ou delegá-la a servidor da promotoria devidamente capacitado. 
+Caso o conteúdo dos autos já indique risco grave ou extremo, a avaliação de risco será preenchida com base nas próprias informações já 
+constantes dos autos. Caso não haja nos autos qualquer informação 
+1 Nos locais em que houver Centro Especializado de Atendimento à Mulher no 
+mesmo equipamento público que a Delegacia de Polícia, a exemplo da Casa da Mulher Brasileira, a avaliação de risco poderá ser realizada pela equipe multidisciplinar.
+
+11
+10
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+sobre situação de risco, essa poderá ser buscada mediante contato 
+com a vítima.
+Independentemente do preenchimento do questionário ou de suas 
+respostas, as medidas protetivas de urgência requeridas pela vítima 
+devem ser apreciadas e a persecução criminal deve ter continuidade. 
+A apreciação do risco requer a identificação da presença ou da ausência dos fatores de risco, bem como o julgamento 
+do 
+avaliador. 
+Quanto 
+maior 
+o 
+número 
+de 
+respostas positivas aos itens que compõem as partes I, II e III, 
+maior o risco de ocorrer uma violência grave ou letal. Por isso, 
+sugere-se que seja contabilizado o número de respostas positivas nessas partes.
+A resposta positiva a itens críticos, descritos na literatura (NICOLLS et al., 2013) como associados a risco extremo de violências graves ou letais, deve ser entendida como alerta de 
+perigo mesmo que não tenham sido contabilizados muitos fatores de risco de letalidade. Por isso, respostas positivas nos 
+itens que tratam de uso de faca, agressões físicas graves e 
+ciúmes excessivos devem ser alerta para risco elevado de letalidade, mesmo que não tenham sido contabilizadas muitas respostas positivas. 
+Os itens que compõem a parte IV são fatores de reincidência 
+de violência. A resposta positiva nesses itens deve ser considerada 
+no diagnóstico das necessidades de segurança preventiva da vítima.
+Apesar de o questionário configurar-se como estratégia estruturada 
+de avaliação de risco, seus resultados não serão obtidos a partir de um 
+algoritmo. O questionário não constitui um instrumento padronizado 
+cujas propriedades preditivas tenham sido investigadas por estudos 
+psicométricos. Por isso, não há um número fixo de fatores de risco 
+que possam sinalizar risco extremo, grave ou moderado. 
+A/o profissional que fará a avaliação do questionário deverá levar 
+em consideração seu julgamento para aferir o risco existente. O 
+conhecimento sobre violência doméstica deve ser usado para apreciação da totalidade de informações investigadas pelo questionário. 
+Considerando o somatório da pontuação, a informação recolhida e a 
+sua experiência profissional, a/o profissional deve classificar a situaApreciação do grau de risco
+
+13
+12
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+ção em provável risco extremo, provável risco grave, provável risco 
+moderado. 
+Sugere-se a classificação como risco extremo, quando for identificada situação iminente de violência física grave ou potencialmente letal a justificar acompanhamento próximo e imediato pelos órgãos de 
+proteção. São alertas para risco extremo a grande quantidade de itens 
+marcados ou, ainda, a resposta positiva nos itens 1, 2, 3a, 3b ou 3c.
+O risco grave configura-se como situações com violências sérias 
+recentes, mas sem indicadores de risco iminente de violência física 
+grave ou potencial, que podem, todavia, evoluir para o risco extremo. 
+Justifica as intervenções cabíveis de proteção à vítima e o monitoramento da evolução da situação de violência. Sugere-se a classificação 
+em risco grave quando há uma quantidade intermediária de itens marcados.
+O provável risco moderado envolve situações com poucas ou nenhuma violência grave sofrida, sem indicadores de risco iminente de 
+violências físicas graves ou potencialmente letais, ou de possível progressão para risco iminente, a justificar a tramitação ordinária do processo (encaminhamentos de proteção, deferimento de medidas protetivas de urgência e responsabilização criminal). Considera-se quando 
+há poucos itens marcados.
+A avaliação realizada por meio desse questionário constitui um 
+recorte do fenômeno. Essa avaliação inicial não é definitiva. 
+O risco pode alterar-se ao longo do tempo. Por isso, outras avaliações devem ser realizadas nos diversos serviços que compõem a rede de enfrentamento a violência doméstica e familiar 
+contra a mulher.
+A identificação do risco iminente de ocorrer uma violência grave ou 
+letal deve subsidiar a gestão dos riscos. Gerir riscos é usar estratégias 
+de proteção para evitar que ocorra uma nova violência ou que aumente a gravidade da situação. Para tanto, recursos pessoais da vítima e 
+rede de apoio pessoal, bem como recursos institucionais devem ser 
+mobilizados (MEDEIROS, 2015). 
+O deferimento de medidas protetivas é uma das ações de gestão de 
+risco que podem derivar dos resultados do instrumento. A escolha da 
+estratégia adequada deve levar em consideração os fatores de risco 
+presentes no caso, bem como os recursos pessoais e da rede de apoio 
+da mulher em situação de violência (MEDEIROS, 2015).
+Veja a seguir as estratégias de gestão de risco que podem ser 
+adotadas a partir dos resultados do questionário de avaliação 
+de risco. 
+Medidas de intervenção e/ou monitoramento dos riscos
+Gestão dos riscos
+Provável risco moderado
+• encaminhamento de informações à vítima sobre a rede de apoio 
+psicossocial local, para demanda espontânea;
+• avaliação da necessidade de encaminhamento do suposto agressor a 
+programa de reflexão psicossocial;
+• deferimento das medidas protetivas de urgência e continuidade do 
+processo criminal.
+
+15
+14
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Provável risco grave
+• encaminhamento do caso ao serviço psicossocial de atenção às mulheres, com cópia do questionário e da ocorrência policial, para tentativa de contato telefônico;
+• avaliação da necessidade de encaminhamento do suposto agressor a 
+programa de reflexão psicossocial;
+• avaliação da conveniência de realização de estudo psicossocial e monitoração da evolução da situação de risco pelo serviço psicossocial 
+do sistema de Justiça;
+• deferimento das medidas protetivas de urgência e continuidade do 
+processo criminal.
+Provável risco extremo
+• avaliação com a vítima da necessidade de seu encaminhamento à 
+Casa Abrigo;
+• encaminhamento do caso ao Policiamento de Prevenção Orientado à Violência Doméstica da Polícia Militar do Distrito Federal 
+(Provid/PMDF), para construção do plano de segurança2 e acompanhamento periódico;
+• encaminhamento do caso ao serviço psicossocial de atenção às mulheres, com cópia do questionário e da ocorrência policial, para busca ativa telefônica e/ou residencial;
+• atribuição de prioridade nos diversos serviços, inclusive intimações 
+judiciais;
+• avaliação da necessidade de encaminhamento do suposto agressor a 
+serviços de atendimento psicossocial;
+• encaminhamento à Casa da Mulher Brasileira ou às redes locais de 
+atendimento à mulher, onde houver, para estudo do caso;
+• avaliação da decretação da prisão preventiva e/ou produção antecipada de provas, bem como requerimento de monitoramento eletrônico do autor;
+• avaliação de eventual desconsideração de retratação da vítima em 
+caso de ameaças.
+2 Consiste na elaboração de estratégias, mediante planejamento com a vítima, levando em conta suas circunstâncias, para acionamento em situações específicas de 
+risco, com o objetivo de evitar lesões graves ou morte.
+Importante
+Em 4 de abril de 2018, foi publicada a Lei nº 13.641, que introduziu o artigo 24-A na Lei nº 11.340/2006 – Lei Maria da Penha, 
+e definiu como crime o descumprimento de medidas protetivas 
+de urgência.
+
+17
+16
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+A partir do resultado verificado no questionário, podem ser acionadas 
+as seguintes instituições da rede intersetorial no Distrito Federal, além 
+de outras instituições conforme a situação peculiar de cada vítima e 
+seu contexto de risco. 
+Encaminhamento psicossocial (vítima e autor)
+• Núcleos de Atendimento à Família e aos Autores de Violência 
+Doméstica (Nafavd/Sedestmidh); Centro Especializado de Atendimento a Mulher (Ceam/Sedestmidh), Casa da Mulher Brasileira 
+(CMB/Sedestmidh), Programas de Pesquisa, Assistência e Vigilância à Violência (PAVs/SES), Núcleo de Assessoramento sobre 
+Violência Doméstica e Familiar contra a Mulher (Nerav/TJDFT); 
+Setor de Análise Psicossocial (Seps/MPDFT)3; grupos de reflexão 
+de universidades. 
+Encaminhamento para a segurança pessoal da vítima
+• Policiamento de Prevenção Orientado à Violência Doméstica 
+(Provid/PMDF)
+• Promotorias de Justiça de Defesa da Mulher em Situação de Violência Doméstica e Familiar e Núcleo de Gênero (MPDFT)
+• Juizados de Violência Doméstica e Familiar contra a Mulher e 
+Núcleo Judiciário da Mulher (TJDFT)
+• Delegacia Especial de Atendimento à Mulher (Deam/PCDF)
+3 Os serviços de atendimento psicossocial do TJDFT e do MPDFT tem como 
+objetivo principal assessorar promotores de Justiça e magistrados, de modo que, em 
+regra, não recebem demandas externas.
+Encaminhamentos para a 
+rede de atendimento
+Encaminhamento para a rede de proteção à família
+• Conselho Tutelar, Centro de Referência Especializado de Assistência Social (Creas/Sedestmidh) e Centro de Referência de Assistência 
+Social (Cras/Sedestmidh).
+Encaminhamento para os órgãos de assistência jurídica gratuita
+• Defensoria Pública, Fundação de Assistência Judiciária da Ordem 
+dos Advogados do Brasil Seccional Distrito Federal (FAJ-OAB/
+DF), núcleos de assistência das faculdades de Direito.
+
+19
+18
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Este questionário tem como objetivo contribuir na avaliação dos fatores de risco pelo Sistema de
+Justiça para os encaminhamentos relacionados aos casos de violência doméstica contra a mulher, em
+contexto de relações entre parceiros íntimos, atuais e anteriores. É MUITO IMPORTANTE que você
+possa respondê-lo, para compreendermos melhor sua situação e as formas possíveis de melhor
+atendê-la. Preencha na Delegacia de Polícia apenas as duas primeiras páginas deste questionário.
+Nome da vítima:_____________________________________________ Idade: _____ anos
+Nome do autor: _____________________________________________ Idade: _____ anos
+PARTE I: SOBRE AS VIOLÊNCIAS QUE VOCÊ JÁ SOFREU...
+1. O autor já ameaçou você ou outro familiar 
+usando faca ou arma de fogo?
+( ) Mais de uma vez ( ) Uma vez ( ) Nunca
+2. Você já sofreu algumas dessas agressões físicas? 
+2a. ( ) Queimadura 2b. ( ) Enforcamento 2c. ( ) Sufocamento 2d. ( ) Tiro 
+2e. ( ) Afogamento 2f. ( ) Osso quebrado 2g. ( ) Facada 2h. ( ) Paulada 
+3. O autor já apresentou algum desses comportamentos?
+3a. ( ) O autor disse algo parecido com a frase: “se não for minha, não será de mais ninguém”.
+3b. ( ) O autor perturba, persegue ou vigia você nos locais em que frequenta.
+3c. ( ) O autor proíbe você de ir ao médico ou pedir ajuda a outros profissionais.
+3d. ( ) O autor proíbe você de visitar familiares ou amigos.
+3e. ( ) O autor proíbe você de trabalhar ou estudar.
+3f. ( ) O autor fez telefonemas, enviou mensagens pelo celular ou e-mails de forma insistente. 
+3g. ( ) O autor impede você de ter acesso a dinheiro, conta bancária ou outros bens (como documentos
+pessoais, carro).
+3h. ( ) Outros comportamentos de ciúmes excessivo e de controle sobre você.
+4.
+ Já registrou ocorrências policiais
+anteriormente envolvendo essa mesma
+pessoa?
+( ) Sim, no DF ( ) Sim, fora do DF ( ) Não
+5. Você já sofreu algumas dessas agressões físicas? 
+5a. ( ) Tapas 5b. ( ) Empurrão 5c. ( ) Puxões de cabelo 5d. ( ) Socos 5e. ( ) Chute 
+6. O autor já usou de ameaças ou agressões
+para evitar a separação? 
+( ) Mais de uma vez ( ) Uma vez ( ) Nunca
+7. O autor já obrigou você a fazer sexo ou
+praticar atos sexuais sem sua vontade?
+( ) Mais de uma vez ( ) Uma vez ( ) Nunca 
+8. As ameaças ou agressões físicas têm se
+tornado mais frequentes ou mais graves nos
+últimos seis meses?
+( ) Sim ( ) Não
+PARTE II: SOBRE O COMPORTAMENTO DO AUTOR...
+9. O autor já descumpriu medidas protetivas anteriormente? 
+( ) Sim ( ) Não
+10. O autor já ameaçou ou agrediu seus filhos, familiares, colegas de
+trabalho, pessoas desconhecidas ou animais de estimação?
+( ) Sim ( ) Não
+11. O autor fica mais violento quando está sob efeito de álcool ou outras
+drogas? 
+( ) Sim ( ) Não
+12. O autor tem alguma doença mental comprovada por avaliação médica?
+( ) Sim ( ) Não
+13. O autor já tentou ou ameaçou suicidar-se?
+( ) Sim ( ) Não
+14. O autor está desempregado ou possui dificuldades financeiras graves? 
+( ) Sim ( ) Não
+15. O autor tem acesso a armas de fogo? 
+( ) Sim ( ) Não
+PARTE III: SOBRE VOCÊ...
+16. Você possui algum conflito relacionado à guarda, visita ou pensão dos
+filhos com o autor?
+( ) Sim ( ) Não
+17. Você se sente isolada de amigos, familiares, pessoas da comunidade ou
+trabalho?
+( ) Sim ( ) Não
+18. Você possui alguma doença, deficiência, ou idade avançada?
+( ) Sim ( ) Não
+19. Você se separou do autor recentemente ou está tentando se separar? 
+( ) Sim ( ) Não
+20. Você está grávida ou teve bebê nos últimos 18 meses?
+( ) Sim ( ) Não
+PARTE IV: OUTRAS INFORMAÇÕES IMPORTANTES...
+A. Qual sua situação de moradia?
+( ) Própria ( ) Alugada ( ) Outra 
+( ) Cedida. Por quem?___________
+B. Você se considera dependente financeiramente do
+autor da violência?
+( ) Sim ( ) Não
+C. O autor já quebrou seus objetos pessoais ou objetos
+da casa?
+( ) Sim ( ) Não
+D. O autor não reconhece os comportamentos agressivos
+dele contra você ou contra outras pessoas?
+( ) Sim ( ) Não
+E. O autor faz uso de álcool ou outras drogas? 
+( ) Muitas vezes na semana 
+( ) Uma vez na semana 
+( ) Raramente ( ) Nunca
+F. Os filhos já presenciaram as agressões?
+( ) Sim ( ) Não
+G. O autor já ameaçou ou agrediu os filhos ou animais de
+estimação com a finalidade de atingir você?
+( ) Sim ( ) Não
+H. Com qual cor/raça você se identifica?
+( ) Branca ( ) Preta ( ) Parda
+( ) Amarela/Oriental ( ) Indígena
+Data:____________________
+Assinatura da vítima:__________________________________________________
+Questionário de avaliação de risco
+
+21
+20
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Sobre os fatores de risco
+Fatores de risco
+Explicação
+1. Vítima ou outro 
+familiar ameaçado com 
+faca ou arma de fogo 
+O uso de armas nos episódios de violência é apontado pela literatura como um fator de risco importante (MEDEIROS, 2015). Estudos indicam que 
+mulheres ameaçadas ou agredidas com arma têm 
+20 vezes mais probabilidade de serem vítimas de 
+feminicídio (AMCV, 2013). 
+2. Agressões físicas 
+graves em desfavor da 
+vítima: queimadura, 
+enforcamento, 
+sufocamento, tiro, 
+afogamento, osso 
+quebrado, facada e/ou 
+paulada
+A literatura destaca a natureza e a severidade da 
+agressão como fatores importantes na avaliação da 
+probabilidade de reincidência da violência (ÁVILA 
+e PESSOA, 2018). Agressões físicas graves constituem um dos principais fatores de risco associados 
+ao feminicídio (CAMPBELL et al., 2003). 
+3. Comportamento de 
+ciúme excessivo e de 
+controle sobre a vítima
+Tal indicador está associado a episódios de violência grave e potencialmente letal (AMCV, 2013). Em 
+estudo coordenado por Machado (2015), alegações 
+relativas a ciúmes ou sentimento de posse em relação à vítima aparecem na maioria dos casos de 
+feminicídio analisados. 
+4. Ocorrências policiais 
+anteriores envolvendo 
+as mesmas partes
+Segundo pesquisa coordenada por Machado (2015), 
+é bastante presente, na análise dos casos de feminicídios, o histórico de violência doméstica na dinâmica relacional. Ocorrências policiais anteriores 
+podem revelar padrões de agressões e contribuir 
+para a análise da probabilidade de ocorrência de 
+violências futuras. 
+Fatores de risco
+Explicação
+5. Agressões físicas 
+em desfavor da vítima: 
+tapas, empurrão, 
+puxão de cabelo, socos, 
+chute e semelhantes
+A literatura ressalta que o padrão de comportamento violento para resolver conflitos interpessoais é 
+um indicador de risco de feminicídio (WALKER, 
+1999 apud MEDEIROS, 2015; CAMPBELL, 2005 
+apud ÁVILA e PESSOA, 2018). Pesquisa realizada 
+por Campbell et al. (2003) revelou que em 70% dos 
+casos de feminicídios analisados as vítimas haviam 
+sofrido violências físicas anteriores.
+6. Ameaças ou 
+agressões físicas para 
+evitar a separação 
+Diante da possibilidade de rompimento da relação, 
+o autor pode tentar reaver o controle que acredita 
+ter sobre a mulher por meio de ameaças e agressões 
+(ÁVILA e PESSOA, 2018). No estudo coordenado por Fernandes (2018), o inconformismo com o 
+término do relacionamento aparece como o motivo 
+principal dos casos de feminicídio analisados.
+7. Prática de atos 
+sexuais sem o 
+consentimento da 
+vítima
+A literatura considera a violência sexual um fator 
+de risco tanto de reincidência, quanto de feminicídio (MEDEIROS, 2015). Estudos apontam que 
+a probabilidade de ocorrência de feminicídio é 7,5 
+maior quando existe histórico de violência sexual 
+(CAMPBELL et al., 2003 e KOZIOL-MCLAIN et 
+al., 2006 apud AMCV, 2013).
+8. Escalada na 
+frequência e na 
+intensidade da 
+violência
+O escalonamento da violência é um antecedente 
+comum à ocorrência de feminicídio (AMCV, 2013). 
+Na maioria dos casos analisados no estudo coordenado por Machado (2015) foi possível identificar 
+uma trajetória violenta de convivência, que resultou 
+em feminicídio.
+
+23
+22
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Fatores de risco
+Explicação
+9. Descumprimento 
+de medidas protetivas 
+anteriores
+O descumprimento de medidas protetivas destinadas a proteger a vítima evidenciam que o autor 
+não está disposto a respeitar ordens judiciais, o que 
+indica a possibilidade de ocorrência de violência 
+grave ou letal (AMCV, 2013). A existência de medidas protetivas pressupõe episódio violento anterior, 
+que, por si só, é um fator de risco para a reincidência (ÁVILA e PESSOA, 2018).
+10. Ameaça e/ou 
+agressão contra os 
+filhos da vítima, 
+familiares, colegas 
+de trabalho, pessoas 
+desconhecidas ou 
+animais de estimação
+Pessoas com histórico de violência em outros tipos de relações interpessoais têm maior probabilidade de se envolverem em episódios de violência 
+familiar (AMCV, 2013). Tal fator de risco permite 
+também avaliar se o comportamento violento está 
+associado à naturalização da violência no ambiente 
+doméstico e/ou à tentativa de exercer controle sobre a vítima (GONÇALVES, 2014 apud ÁVILA e 
+PESSOA, 2018; MEDEIROS, 2015).
+11. Uso abusivo de 
+álcool ou outras drogas 
+por parte do autor
+O uso, abusivo ou não, de álcool e outras substâncias psicoativas é apontado pela literatura como um 
+fator que pode aumentar a possibilidade de ocorrência de violência, pois diminui as inibições e a capacidade de julgamento e altera o estado de consciência 
+(MEDEIROS, 2015). Estudos identificaram que o 
+uso nocivo de álcool está associado a um aumento, 
+em 4,6 vezes, do risco de exposição à violência praticada pelo parceiro íntimo (GIL-GONZALEZ et 
+al., 2006 apud OMS, 2012). 
+Fatores de risco
+Explicação
+12. Autor com doença 
+mental 
+Segundo Medeiros (2015), a violência legitimada 
+pela desigualdade de gênero e pela naturalização da 
+violência contra a mulher, pode tornar-se mais grave quando o autor apresenta sintomas psicóticos. 
+Problemas de saúde mental tornam-se um fator de 
+risco preocupante principalmente nos casos em que 
+há uma descompensação clínica: falta ou alteração 
+da medicação prescrita (ÁVILA e PESSOA, 2018). 
+13. Ameaça ou tentativa 
+de suicídio por parte 
+do autor
+A ameaça de suicídio por parte do autor está associada há problemas de saúde mental e indica um 
+maior risco de homicídio (AMCV, 2013).
+14. Autor 
+desempregado ou 
+com dificuldades 
+financeiras graves
+A literatura mostra que o desemprego pode ser tanto fator de risco de reincidência, quanto de feminicídio (MEDEIROS, 2015). O não cumprimento do 
+papel de provedor, tido como tipicamente masculino, pode ensejar conflitos na dinâmica relacional 
+(ÁVILA e PESSOA, 2018). 
+15. Autor com acesso a 
+arma de fogo
+O acesso à arma de fogo é apontado pela literatura como fator de risco de ocorrência de violências (MEDEIROS, 2015). No Brasil, quase metade 
+dos feminicídios ocorridos entre os anos de 2011 
+e 2013 envolveram o uso de armas de fogo (49%) 
+e aproximadamente um terço (34%), o uso de instrumento perfurante, cortante ou contundente 
+(GARCIA e SILVA, 2016). 
+
+25
+24
+GUIA DE AVALIAÇÃO DE RISCO PARA O SISTEMA DE JUSTIÇA
+Fatores de risco
+Explicação
+16. Conflito relacionado 
+a guarda, visita ou 
+pensão dos filhos 
+Questões relacionadas à guarda, visita e/ou pensão dos filhos podem gerar situações conflituosas e 
+potencializar o acontecimento de violências. Essas 
+questões podem, inclusive, ser usadas para controlar e/ou intimidar a vítima, perpetuando ou agravando a situação de violência (ELLIS, 2017).
+17. Vítima isolada de 
+amigos, familiares, 
+pessoas da 
+comunidade ou do 
+trabalho
+De acordo com a literatura, o isolamento contribui 
+para a não percepção, por parte da vítima, da gravidade da situação (MEDEIROS, 2015). Manter a 
+vítima isolada de familiares, amigos e colegas é uma 
+estratégia de controle, que, por sua vez, é um fator 
+de risco de violência grave (Santos, 2010 apud MEDEIROS, 2015).
+18. Vítima com alguma 
+doença, deficiência ou 
+idade avançada
+Tais fatores podem deixar a mulher mais vulnerável 
+às violências cometidas pelo parceiro. De acordo 
+com o manual da AMCV (2013), situações de dependência de prestação de cuidados tendem a gerar 
+sobrecarga na dinâmica relacional, o que pode desencadear comportamentos violentos. 
+19. Separação recente 
+ou tentativa de 
+separação 
+A separação ou a tentativa de separação pode aumentar a frequência e/ou a gravidade da violência 
+(AMCV, 2013). No estudo realizado por Campbell 
+(2003) observou-se maior risco de feminicídio nos 
+casos em que as mulheres haviam se separado, deixado o parceiro ou pedido para o parceiro sair de 
+casa.
+20. Vítima grávida
+A violência durante a gestação está relacionada ao 
+risco de feminicídio (CAMPBELL et al., 2003). 
+Limitações físicas e psicológicas decorrentes do 
+período gestacional podem acentuar a situação de 
+vulnerabilidade da mulher. Identificar episódios de 
+violência durante a gravidez é relevante para a avaliação da dinâmica relacional (MEDEIROS, 2015). 
+Referências
+Associação de Mulheres Contra a Violência (AMCV) (Coord.). 
+(2013). Avaliação e gestão de risco em rede: manual para profissionais. 
+Lisboa: AMCV.
+ÁVILA, 
+T. 
+P., 
+PESSOA, 
+L. 
+M. 
+(2018).
+Estudo 
+exploratório 
+sobre 
+os 
+fatores 
+de 
+risco 
+nos inquéritos policiais de feminicídio em Ceilândia/DF. No prelo.
+ACOSTA, M. L. (2013). La valoración médico-forense del Riego en 
+la violencia de género. Predicción y prevención. Disponível em: 
+<http://www.poderjudicial.es/stfls/CGPJ/OBSERVATORIO%20
+DE%20VIOLENCIA%20DOM%C3%89STICA/OTRAS%20
+ACTIVIDADES%20FORMATIVAS/FICHEROS/20130502%20
+Listado%20de%20Ponencias.pdf>. 
+CAMPBELL, J. et al. (2003). Risk factors for feminicide in abusive 
+relationships: results from a multisite case control study. American Journal 
+of Public Health, Vol 93, No. 7.
+ELLIS, D. (2017). Marital separation and lethal male partner violence. 
+Violence against women, v. 23(4), p. 503-519.
+FERNANDES, V. D. S. (Coord.). (2018). Raio-X do feminicídio em SP: 
+é possível evitar a morte. São Paulo: Ministério Público do Estado de 
+São de Paulo.
+GARCIA, L. P. S., SILVA, G. D. M. (2016). Mortalidade de Mulheres 
+por agressões no Brasil: perfil e estimativas corrigidas (2011-2013). Brasília: 
+Instituto de Pesquisa Econômica Aplicada (IPEA).
+MACHADO, M. R. A. (Coord.). (2015). A violência doméstica fatal: o 
+problema do feminicídio íntimo no Brasil. Brasília: Ministério da Justiça, 
+Secretaria da Reforma do Judiciário.
+
+26
+MEDEIROS, M. N. (2015). Avaliação de risco em casos de violência 
+perpetrada pelo parceiro íntimo. Tese de doutorado, Universidade de 
+Brasília, Distrito Federal.
+MEDEIROS, M. N., TAVARES, M. & DINIZ, G. S. R. (2015). 
+Avaliação de risco nas relações de intimidade. In: M. I. T. Conceição 
+& D. S. Chatelard (Eds.), Psicologia Clínica Contemporânea 2 (pp. 214236). Brasília: Technopolitik.
+NICOLLS, T. L.; PRTICHARD, M. M.; REEVES, K. A. & 
+HILTERMAN, E. (2013). Risk assessment in intimate partner 
+violence: a systematic review of contemporary approacheas. Partner 
+Abuse, v. 4 (1). 
+Organização Mundial da Saúde (OMS) (Coord.). (2012). Prevenção da 
+violência sexual e da violência pelo parceiro íntimo contra a mulher: ação 
+e produção de evidência. Disponível em: http://iris.paho.org/xmlui/
+handle/123456789/3661.
+SANTOS, M. J. M. L. dos (2010). A perícia médico-legal nos casos 
+de violência nas relações de intimidade – contributo para a qualidade. 
+Dissertação de Mestrado, Universidade do Porto, Portugal.
+Conheça outras ações do MPDFT no enfrentamento da 
+violência doméstica e familiar contra a mulher
+
+Eixo Monumental, Praça do Buriti, Lote 2, Sede do MPDFT
+Brasília-DF, CEP 70.091-900 • Telefone: (61) 3343-9500
+www.mpdft.mp.br • facebook.com/mpdftoficial
+Ouvidoria
+MPDFT
+www.mpdft.mp.br/ouvidoria
+ouvidoriampdft
+127
+Missão do MPDFT
+Promover a justiça, a democracia,
+a cidadania e a dignidade humana, 
+atuando para transformar em 
+realidade os direitos da 
+sociedade.

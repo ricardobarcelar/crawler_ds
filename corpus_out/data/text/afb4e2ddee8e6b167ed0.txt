@@ -1,0 +1,68 @@
+Prof. Gustavo Cordeiro
+Você sabia que uma decisão recente do STJ pode mudar completamente como as questões sobre medidas protetivas aparecem nas provas de Magistratura, Ministério Público e Defensoria? O Tema Repetitivo 1249 e o Informativo 860 trouxeram definições cristalinas sobre um ponto que sempre gerou dúvidas: quem deve provar a necessidade de manter as medidas protetivas de urgência?
+Esta questão não é apenas acadêmica. Ela impacta diretamente a vida de milhares de mulheres e se tornou obrigatória nos editais de concursos jurídicos. Mais importante: o STJ deixou claro que existe uma inversão indevida do ônus probatório quando se exige da vítima comprovar a continuidade do risco.
+Vamos destrinchar essa mudança paradigmática que já está caindo em provas e deve ser dominada por todo candidato estratégico.
+A evolução legislativa e jurisprudencial: da Lei ao Informativo 860
+O que a Lei 11.340/2006 estabelece: o marco inicial
+O artigo 19 da Lei Maria da Penha criou o instituto das medidas protetivas de urgência, mas inicialmente de forma mais genérica. O texto original previa que as medidas poderiam ser concedidas, substituídas e revistas, sem especificar claramente questões como prazo de vigência e critérios para manutenção.
+A grande mudança veio com a Lei 14.550/2023, que acrescentou três parágrafos fundamentais ao artigo 19. Estes dispositivos trouxeram importantes esclarecimentos que pavimentaram o caminho para as definições jurisprudenciais posteriores.
+O § 5º estabeleceu a independência total das medidas protetivas, determinando que elas sejam concedidas independentemente da tipificação penal da violência, do ajuizamento de ação penal ou cível, da existência de inquérito policial ou do registro de boletim de ocorrência. Esta previsão legal reconheceu o que a prática forense já demonstrava: as medidas protetivas têm vida própria.
+Mais importante ainda, o § 6º trouxe a definição temporal que mudaria tudo: “As medidas protetivas de urgência vigorarão enquanto persistir risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou de seus dependentes”. Aqui, o legislador vinculou expressamente a duração das medidas à persistência do risco, sem mencionar prazos predeterminados.
+O Tema 1249 do STJ: sistematizando o entendimento
+Com a base legal estabelecida, o Superior Tribunal de Justiça sistematizou o entendimento no Tema Repetitivo 1249, julgado pela Terceira Seção. A Corte definiu quatro pontos cruciais que transformaram a aplicação prática das medidas protetivas.
+⚖️ Primeiro, o STJ esclareceu a natureza jurídica das medidas, classificando-as como tutela inibitória. Esta definição não é meramente acadêmica: significa que as medidas servem para prevenir a ocorrência ou repetição da violência, funcionando como um escudo protetor que não depende da consumação de novos atos violentos.
+⚖️ Segundo, a Corte enfrentou diretamente a questão temporal, determinando que as medidas devem ser fixadas por prazo temporalmente indeterminado. Esta decisão sepultou definitivamente a prática de alguns magistrados de fixar prazos predeterminados de 30, 60 ou 90 dias, alinhando-se perfeitamente com o § 6º do art. 19 da Lei Maria da Penha.
+⚖️ O terceiro ponto abordou a autonomia das medidas protetivas. O STJ deixou claro que o arquivamento de inquérito policial ou a absolvição do acusado não gera automaticamente a extinção das medidas. A lógica é simples: a proteção (esfera cível) independe da punição (esfera penal).
+Por fim, o Tema 1249 estabeleceu o procedimento para reavaliação, determinando que as medidas não se submetem a prazo obrigatório de revisão periódica, mas devem ser reavaliadas quando constatado concretamente o esvaziamento da situação de risco, sempre precedido de contraditório.
+O Informativo 860: definindo o ônus probatório
+Mesmo com a Lei 14.550/2023 e o Tema 1249, restava uma questão prática fundamental: quem deve provar o quê quando se discute a manutenção das medidas protetivas? O Informativo 860 do STJ respondeu definitivamente esta pergunta ao julgar um caso emblemático.
+No caso concreto, um Tribunal estadual havia determinado a reavaliação periódica das medidas protetivas, condicionada à demonstração pela vítima de “fatos supervenientes” que comprovassem a persistência da violência doméstica. A vítima havia relatado insegurança diante de ameaças de morte feitas pelo cunhado, mas o Tribunal entendeu que seria necessário “equilibrar a proteção da vítima e a limitação aos direitos do agressor”.
+O STJ foi categórico: esta abordagem inverte indevidamente o ônus probatório. A Sexta Turma, por unanimidade, estabeleceu que a manutenção das medidas protetivas não depende da demonstração de novos fatos de violência pela vítima, mas sim da persistência da situação de risco inicialmente configurada.
+A decisão criou uma presunção jurídica: uma vez configurado o risco e concedidas as medidas, presume-se que o perigo persiste até que se prove o contrário. Quem alega a cessação do risco é que deve comprová-la, e não a vítima demonstrar sua continuidade.
+Esta definição protege a vítima de uma situação de revitimização processual, evitando que ela tenha que periodicamente expor-se novamente ao agressor ou às autoridades para “provar” que ainda precisa de proteção. O subsídio probatório inicial que justificou a concessão das medidas permanece válido até evidências concretas de sua superação.
+A questão do ônus probatório: o cerne da controvérsia
+O caso paradigmático do Informativo 860
+No julgamento que originou o Informativo 860, um Tribunal estadual determinou a reavaliação periódica das medidas protetivas, condicionada à demonstração de “fatos supervenientes” pela vítima. O STJ foi categórico: esta condicionamento inverte indevidamente o ônus probatório.
+A lógica da decisão
+O raciocínio do STJ seguiu uma linha cristalina:
+- Situação inicial: Medidas concedidas com base em situação de risco comprovada
+- Presunção jurídica: O risco persiste até prova em contrário
+- Ônus probatório: Quem alega a cessação do risco deve comprová-la
+- Proteção da vítima: Não se pode transferir à ofendida o peso de provar a continuidade da ameaça
+Por que a inversão é prejudicial?
+A transferência do ônus probatório à vítima cria uma situação de revitimização, obrigando-a a:
+- Comprovar periodicamente que ainda corre risco
+- Expor-se novamente ao agressor para “demonstrar” a ameaça
+- Arcar com a responsabilidade de manter sua própria proteção
+Regras processuais para reavaliação e extinção
+Quando e como reavaliar
+O STJ estabeleceu um sistema bifásico para reavaliação:
+1. Reavaliação facultativa:
+- De ofício pelo magistrado
+- A pedido de qualquer interessado
+- Quando constatado concretamente o esvaziamento da situação de risco
+2. Procedimento obrigatório:
+- Contraditório antes da extinção
+- Oitiva da vítima
+- Oitiva do suposto agressor
+- Comunicação à ofendida em caso de extinção (art. 21, Lei 11.340/2006)
+Situações especiais: arquivamento e absolvição
+Uma definição crucial para concursos: o arquivamento do inquérito ou a absolvição do acusado não gera automaticamente a extinção das medidas protetivas. A proteção pode persistir mesmo com:
+- Reconhecimento de causa de extinção de punibilidade
+- Arquivamento por falta de provas
+- Absolvição por qualquer motivo
+Fundamento: A esfera cível (proteção) é independente da esfera penal (punição).
+Questão comentada (simulado)
+(VUNESP - Adaptada) Maria registrou ocorrência contra seu ex-companheiro João por ameaças de morte. O juiz concedeu medidas protetivas por prazo indeterminado. Após seis meses, João requereu a revogação, alegando não ter mais contato com Maria. O magistrado, considerando o "equilíbrio entre proteção da vítima e direitos do agressor", determinou que Maria comprovasse a persistência do risco em 30 dias, sob pena de extinção das medidas. Com base na jurisprudência do STJ, a decisão:
+A) Está correta, pois observa o contraditório e o prazo razoável. B) Está incorreta, pois inverte indevidamente o ônus probatório. C) Está correta, pois busca o equilíbrio entre os direitos envolvidos. D) Está incorreta, pois deveria ouvir primeiro o Ministério Público. E) Está correta, pois as medidas não podem ter prazo indeterminado.
+Gabarito: B. Conforme Tema 1249 e Informativo 860 do STJ, transferir à vítima o ônus de comprovar a persistência do risco constitui inversão indevida do ônus probatório. A presunção é de manutenção até prova da cessação.
+O que memorizar para a prova
+Se você vai fazer concurso jurídico, decore estes cinco pontos sobre medidas protetivas:
+- Natureza: Tutela inibitória, independente de qualquer processo
+- Prazo: Indeterminado, vinculado à persistência do risco
+- Ônus probatório: Cessação do risco deve ser provada por quem alega
+- Revisão: Apenas quando comprovado esvaziamento concreto da situação de risco
+- Procedimento: Contraditório obrigatório antes da extinção
+O STJ foi claro: a proteção da mulher não pode depender de sua capacidade de comprovar periodicamente que ainda corre risco. Esta é a essência da decisão e o que as bancas vão cobrar.
+Quer saber quais serão os próximos concursos?
+Confira nossos artigos para Carreiras Jurídicas!

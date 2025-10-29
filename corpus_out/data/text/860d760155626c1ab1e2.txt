@@ -1,0 +1,616 @@
+ASPECTOS TEÓRICOS E PRÁTICOS DO CRIME DE DESCUMPRIMENTO
+DE MEDIDAS PROTETIVAS DE URGÊNCIA
+Leonardo Penna Guedes Amin1
+RESUMO: O presente trabalho de conclusão de curso apresenta aspectos
+introdutórios da Lei nº 13.641/18, que inseriu o tipo penal de descumprimento
+de medida protetiva de urgência na Lei nº 11.340/06, com a indicação da
+justificativa apresentada com o projeto de lei que a originou e, em seguida,
+expõe posições doutrinárias e jurisprudenciais a respeito da configuração da
+referida infração penal, no intuito de auxiliar os mecanismos de atuação pelo
+Ministério Público na proteção das vítimas de violência doméstica e familiar
+contra a mulher.
+PALAVRAS-CHAVE: Lei nº 11.340/06; crime de descumprimento de medidas
+protetivas de urgência
+SUMÁRIO: 1. Delimitação do problema, da justificativa e do objetivo do
+trabalho. 2. Desenvolvimento. 2.1. Aspectos introdutórios da Lei nº
+13.641/2018. 2.2. Crime de Descumprimento de Medidas Protetivas de
+Urgência Previsto na Lei nº 11.340/06. 2.3. Ofensa aos Bens Jurídicos
+Tutelados. 3. Conclusão.
+1. DELIMITAÇÃO DO PROBLEMA, DA JUSTIFICATIVA E DO OBJETIVO DO
+TRABALHO
+O advento da Lei nº 13.641/2018, em 03 de abril de 2018, promoveu
+substancial alteração na Lei nº 11.340/2006 e, por consequência, no sistema de
+proteção às mulheres em situação de violência doméstica e familiar, ao
+introduzir o tipo penal de descumprimento de medidas protetivas de urgência.
+A criação da nova figura delituosa preencheu uma lacuna normativa
+criticada, até então, pela doutrina, mormente diante da consolidação do
+entendimento jurisprudencial das Cortes Superiores pela atipicidade da
+1
+ Promotor Substituto do Ministério Público do Estado do Paraná.
+
+conduta do agente que descumpre medida protetiva de urgência deferida em
+seu desfavor, desamparando as vítimas de violência doméstica e familiar.
+No entanto, a despeito de conferir maior efetividade ao sistema de
+proteção às mulheres vítimas de violência doméstica e familiar, novos
+questionamentos surgem no tocante à configuração do delito, sobretudo em
+virtude do crescente número de medidas protetivas de urgência fundadas na
+Lei nº 11.340/06 concedidas nos últimos três anos e da dinâmica dos
+relacionamentos domésticos e familiares, nos quais as vítimas encontram-se
+inseridas no denominado ciclo de violência.
+Somente no ano de 2021, em âmbito nacional, foram concedidas,
+integralmente ou em parte, 346.632 (trezentos e quarenta e seis mil seiscentos
+e trinta e duas) medidas protetivas de urgência, um aumento expressivo se
+comparado às 270.154 (duzentos e setenta mil cento e cinquenta e quatro)
+medidas concedidas na íntegra ou parcialmente. No ano de 2022, alcançou-se
+a marca de 150.479 (cento e cinquenta mil quatrocentos e setenta e nove)
+decisões judiciais concessivas, parcial ou integralmente, de medidas protetivas
+de urgência. O Tribunal de Justiça do Estado do Paraná ocupa posição de
+destaque, sendo o segundo tribunal com mais decisões judiciais (concessão
+integral, concessão parcial, revogação e não concessão) sobre o tema2.
+Dessa forma, pretende-se, com o presente texto, delinear os principais
+aspectos doutrinários e jurisprudenciais relacionados ao crime de
+descumprimento de medida protetiva de urgência, no intuito de proporcionar
+um aprimoramento na atuação ministerial na análise de sua configuração, sob
+o prisma do enfrentamento à violência de gênero e da necessidade de conferir
+efetiva proteção às vítimas de violência doméstica e familiar, na esteira da
+Recomendação nº 87/2021 e da Resolução nº 243/2021, ambas do Conselho
+Nacional do Ministério Público.
+2. DESENVOLVIMENTO
+2.1. Aspectos introdutórios da Lei nº 13.641/2018
+2
+BRASIL. Conselho Nacional de Justiça. Painel de Monitoramento das Medidas
+Protetivas de Urgência da Lei Maria da Penha. Disponível em: <https://medidaprotetiva.cnj.jus.br/s/violencia-domestica/app/dashboards#/view/5ff5ddea-55e6-42a6-83fa710d40507c3f?_g=h@2463b39>. Acesso em 18 jun. 2022.
+
+Antes da introdução do tipo penal previsto no artigo 24-A da Lei nº
+11.340/06, existia relevante debate, notadamente jurisprudencial, acerca da
+conduta daquele que, devidamente intimado da decisão judicial concessiva de
+medidas protetivas de urgência em seu desfavor e/ou em favor da ofendida,
+descumpre-a.
+A despeito de uma corrente, minoritária, defender que a referida ação
+caracterizaria, em tese, o crime de desobediência, estipulado no artigo 330 do
+Código Penal3, ou, ainda, o crime de desobediência à decisão judicial sobre
+perda ou suspensão de direito, estatuído no artigo 359 do mesmo diploma,
+prevaleceu na jurisprudência do Superior Tribunal de Justiça e do Supremo
+Tribunal Federal a atipicidade da conduta do noticiado que, injustificadamente,
+descumpre medida protetiva de urgência.
+Nesse aspecto, fundamentou-se, com esteio no princípio da ultima
+ratio, que a própria norma regente estabeleceu a imposição de outras medidas
+civis e administrativas no intuito de coibir a desobediência, como a substituição
+das medidas protetivas de urgência por outras mais restritivas, requisição de
+auxílio de força policial (art. 22, § 3º, da Lei nº 11.340/06), multa cominatória4
+(art. 22, § 4º, da Lei nº 11.340/06) e, ainda, a decretação de prisão preventiva
+(art. 313, inciso III, do Código de Processo Penal), desde que presentes os
+motivos autorizadores.
+Inclusive, o Superior Tribunal de Justiça, em seu compilado
+“Jurisprudência em Teses”, na Edição nº 41: Violência Doméstica e Familiar
+contra Mulher”, editou a Tese 9, com a seguinte redação: “9) O
+descumprimento de medida protetiva de urgência não configura o crime de
+desobediência, em face da existência de outras sanções previstas no
+ordenamento jurídico para a hipótese”5.
+3
+No voto vista do acórdão prolatado no HC 293.848/SP, o Ministro Rogério Schietti
+fundamentou que: “É possível tipificar como crime de desobediência o descumprimento
+injustificado de medida protetiva de urgência, deferida em favor da mulher vítima de
+violência doméstica e familiar. Isso porque a tipificação é primordial para a efetivação do
+sistema de proteção das vítimas, atendendo aos preceitos constitucionais e instrumentos
+internacionais incorporados pelo ordenamento jurídico”.
+4
+Nesse sentido, o Enunciado n. 11 do Fórum Nacional de Juízas e Juízes de Violência
+Doméstica e Familiar Contra a Mulher – FONAVID prevê: “Poderá ser fixada multa
+pecuniária, a fim de assegurar a eficácia das medidas protetivas de urgência, sem prejuízo
+da configuração do crime previsto no art. 24-A da Lei 11.340/06”. 
+5
+Brasil. Superior Tribunal de Justiça. Jurisprudência em Teses. Edição n. 41: Violência
+Doméstica
+ 
+e
+ 
+Familiar
+ 
+Contra
+ 
+Mulher. 
+Disponível
+ 
+em
+
+Após, aproximadamente, três anos de trâmite legislativo, oriunda do
+Projeto de Lei nº 173/2015, publicou-se a Lei nº 13.641/2018, em 03 de abril de
+2018, que introduziu a Seção IV na Lei nº 11.340/06, nos seguintes termos:
+Seção IV
+Do Crime de Descumprimento de Medidas Protetivas de Urgência
+Descumprimento de Medidas Protetivas de Urgência
+Art. 24-A. Descumprir decisão judicial que defere medidas protetivas
+de urgência previstas nesta Lei
+Pena – detenção, de 3 (três) meses a 2 (dois) anos. 
+§ 1º A configuração do crime independe da competência civil ou
+criminal do juiz que deferiu as medidas. 
+§ 2º Na hipótese de prisão em flagrante, apenas a autoridade judicial
+poderá conceder fiança
+§ 3º O disposto neste artigo não exclui a aplicação de outras sanções
+cabíveis. 
+A referida norma foi positivamente recepcionada pela doutrina6, por
+ampliar a esfera de proteção às vítimas de violência doméstica e familiar, por
+atender às obrigações processuais e penais positivas estabelecidas na
+Constituição Federal (art. 226, § 8º) e nas normas internacionais (Convenção
+sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher e
+Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a
+Mulher), bem como por observar o princípio da proporcionalidade em sua
+esfera de vedação à proteção deficiente7.
+O propósito legislativo (mens legis) se deu justamente no sentido de
+conferir maior proteção às mulheres vítimas de violência doméstica e familiar
+ante desamparo normativo e jurisprudencial acerca do tema8, consoante se
+denota da justificativa apresentada com o Projeto de Lei 173/2015, redigida
+pelo jurista Thiago André Pierobom de Ávila e endossada pelos integrantes da
+Coordenação Nacional da Campanha Compromisso e Atitude, vinculada à
+Secretaria de Políticas para as Mulheres (SPM), da Presidência da República,
+nos seguintes termos:
+[…]
+As sucessivas interpretações jurisprudenciais acerca da configuração
+ou não do crime de desobediência em caso de descumprimento da
+<https://scon.stj.jus.br/SCON/jt/toc.jsp> . Acesso em 05 jul. 2022.
+6
+DIAS, Maria Berenice. A Lei Maria da Penha na Justiça. 7. ed. Rev., e atual. Salvador: 
+JusPodivm, 2021. p. 209.
+7
+LIMA, Renato Brasileiro de. Legislação Criminal Especial Comentada: volume único. 8. ed.
+rev., atual. e ampl. Salvador: JusPodivm, 2020. p. 1309.
+8
+BIANCHINI, Alice. BAZZO, Mariana. CHAKIAN, Silvia Crimes contra mulheres. 4. ed. rev.,
+ampl. e atual. São Paulo: JusPodivm, 2022. p. 182.
+
+ordem judicial emanada em medidas protetivas da Lei Maria da
+Penha resultaram em interpretações divergentes entre os Tribunais
+Estaduais. […]
+Reduzir o descumprimento das medidas protetivas a simples ilícito
+civil é uma total irresponsabilidade e falta de compreensão desse
+terrível fenômeno social.
+É mister que haja um tratamento penal da matéria, e que seja
+rigoroso o suficiente para desencorajar as atitudes que violam o
+sistema de proteção. A mulher em situação de violência que procura a
+delegacia para registro de ocorrência pela simples violação da
+medida protetiva não logra êxito em fazê-lo, exceto se, além do
+descumprimento, tenha o agressor praticado novo ato de violência
+que configure fato típico. 
+Para noticiar o descumprimento e o risco iminente em que se
+encontra, a mulher se vê obrigada a conhecer os demais atores da
+rota crítica institucional, no caso o Ministério Público e a Defensoria
+Pública da Mulher, e buscá-los diretamente, ou por orientação da
+delegacia de polícia, a fim de que possa noticiar a violação da
+determinação judicial e obter providências. 
+O percurso é exaustivo e contribui para o desestímulo da mulher na
+denúncia das violências e diminui demais a confiança no sistema de
+justiça. 
+De muito maior gravidade, é ainda a situação de flagrância de
+descumprimento, uma vez que o entendimento jurisprudencial impede
+a ação imediata da Polícia Militar. Ao detectar o descumprimento da
+medida protetiva e aproximação do agressor ou seu retorno ao lar
+depois de judicialmente afastado, a mulher em situação de violência
+aciona o serviço 190 da Polícia Militar, mas somente poderá obter a
+ação policial efetiva se tiver sofrido nova ameaça ou agressão física.
+Por certo se trata de um imenso absurdo, que demanda correção
+imediata da lacuna legislativa. 
+É inconcebível esperar que a mulher deva, no calor dos fatos,
+submeter-se a mais um episódio de violência para obter a proteção
+estatal, mas é exatamente o que ocorre uma vez que a
+desobediência, por si, é interpretada pelos Tribunais como fato
+atípico, o que impede a autuação em flagrante do agressor9.
+Nesse sentido, um dos principais avanços decorrentes da norma, para
+além da responsabilização criminal daquele que descumpre decisão judicial
+que concede medida protetiva de urgência, conforme apresentado na
+justificativa acima, reside na possibilidade de prisão em flagrante do agente,
+especialmente em situações que não se evidencia a prática de uma outra
+infração penal, “como, por exemplo, quando o agressor ronda a casa ou local
+de trabalho da vítima, volta a ingressar no domicílio do casal, encaminha
+mensagens à vítima, ou busca os filhos na escola mesmo com a suspensão do
+direito de visitas”10.
+9
+Brasil. Câmara dos Deputados. Projeto de Lei 173/2015. Disponível em:
+<https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=945767>.
+Acesso em 21/06/2022.
+10 ÁVILA, Thiago Pierobom de. O novo crime de descumprimento de medidas protetivaas de
+urgência:
+ 
+primeiras
+ 
+considerações.
+ Disponível
+ 
+em
+ 
+:
+<https://criminal.mppr.mp.br/arquivos/File/O_novo_crime_de_descumprimento_de_medidas
+_protetivas_de_urgencia_Artigo_3.pdf>. Acesso em 07.06.2022.
+
+No entanto, apesar do notável avanço legislativo sobre o tema, notamse desafios de ordem prática a respeito da configuração do crime em comento,
+que impactam diariamente na atuação dos atores jurídicos e não jurídicos,
+tanto na fase investigatória quanto na fase processual.
+3.2. Crime de Descumprimento de Medidas Protetivas de Urgência
+Previsto na Lei nº 11.340/06
+O crime de descumprimento de medida protetiva de urgência é
+apresentado pela doutrina como um crime a) próprio; b) pluriofensivo; c) formal,
+de consumação antecipada ou de resultado cortado; d) de dano; e) de forma
+livre; f) comissivo ou omissivo impróprio; g) instantâneo; h) unissubjetivo; e i)
+plurissubsistente11.
+Em relação aos sujeitos do crime, por se tratar de um crime próprio, o
+autor é aquele que está submetido ao cumprimento de medida protetiva de
+urgência prevista na Lei nº 11.340/06 determinada por um juízo competente,
+pressupondo-se, desta forma, uma pretérita violência praticada em contexto
+doméstico e familiar contra mulher. Lado outro, por se tratar de uma infração
+penal pluriofensiva os sujeitos passivos são o Estado e a mulher a quem foi
+deferida medida protetiva de urgência prevista na citada norma.
+O bem jurídico tutelado pela norma, diretamente, é a Administração da
+Justiça, ou seja, o interesse primário é do Estado pelo cumprimento de uma
+decisão judicial. Contudo, não se pode perder de vista o interesse da vítima
+mulher que sofre alguma(s) forma(s) de violência prevista(s) no artigo 7º da Lei
+nº 11.340/06, razão pela qual a norma penal também deve primar pela tutela de
+sua vida, integridade física e psíquica, saúde, patrimônio, liberdade sexual,
+honra etc.
+O núcleo do tipo penal consiste no verbo descumprir, também
+compreendido como transgredir, desobedecer, desrespeitar ou inadimplir,
+consumando-se quando o agente deixa de cumprir a medida protetiva de
+urgência, independentemente do resultado naturalístico de sua conduta e tem
+11 LIMA, Renato Brasileiro de. Legislação Criminal Especial Comentada: volume único. 8.
+ed. rev., atual. e ampl. Salvador: JusPodivm, 2020. p. 1312.
+
+por objeto material “a decisão judicial que defere uma medida protetiva de
+urgência prevista na Lei Maria da Penha”12.
+Por fim, em relação ao elemento subjetivo da norma, sabe-se que o
+referido crime somente é punido a título de dolo, não se admitindo a figura
+culposa, por ausência de previsão legal. Desta forma, “é imprescindível que o
+agente tenha consciência de que uma medida protetiva de urgência fora contra
+ele determinada e que tal medida ainda estava em vigor por ocasião de seu
+descumprimento, ou seja, não havia sido revogada”13.
+3.3. Ofensa aos Bens Jurídicos Tutelados
+Ultrapassadas essas premissas expostas pela doutrina, o desafio visto
+na esfera prática de atuação ministerial em relação à configuração do tipo
+penal reside, notadamente, na análise de sua tipicidade material.
+Não são raros os casos concretos em que, de alguma forma, há
+consentimento, expresso ou tácito, da parte ofendida, mormente nos casos de
+reconciliação da relação, o que demanda uma acurada análise nas etapas
+investigatória e processual.
+Embora não subsista consenso doutrinário a respeito do tema, o
+consentimento do ofendido é defendido como causa excludente de tipicidade
+ou de antijuridicidade.
+A propósito, colhe-se da lição de Guilherme de Souza Nucci:
+Não há dúvida de que, em certos casos, o consentimento do ofendido
+influencia no juízo de tipicidade, fugindo ao âmbito da antijuridicidade.
+Quando a discordância do sujeito passivo estiver presente, expressa
+ou implicitamente, como elemento do tipo penal, deve-se afastar a
+tipicidade se houver o consentimento para a realização da conduta. A
+doutrina costuma indicar que, nos delitos patrimoniais, de invasão de
+domicílio ou violação de correspondência ou segredo, além dos
+delitos contra a liberdade sexual e contra a liberdade individual,
+havendo o consentimento do ofendido é caso de atipicidade. No mais,
+como no caso dos crimes contra a integridade física e contra a honra,
+a título de ilustração, não se pode dizer que o consentimento do
+ofendido esteja ínsito no tipo penal, motivo pelo qual prevalece a tese
+da exclusão da antijuridicidade14. 
+12 LIMA. Ibid. p. 1310.
+13 LIMA. op. cit.
+14 NUCCI, Guilherme de Souza. Manual de direito penal. 16. ed. Rio de Janeiro: Forense,
+2020. p. 380.
+
+De qualquer forma, a doutrina converge no sentido de que sua validade
+jurídico-penal somente se verifica em relação aos bens jurídicos disponíveis
+tutelados pela norma, não gerando qualquer efeito aos bens jurídicos
+indisponíveis, como aqueles “relacionados a situações de vitimização difusa e
+bens jurídicos coletivos”15, por exemplo.
+Nesse contexto, cumpre relembrar que, a despeito de a mulher vítima
+de violência doméstica e familiar ser sujeito passivo indireto da infração penal
+em questão, o bem jurídico primário tutelado pela norma é a Administração da
+Justiça, portanto, de natureza indisponível.
+Por essa razão, torna-se irrelevante, para a configuração do crime,
+especialmente no exame de sua tipicidade a eventual reconciliação do
+relacionamento afetivo/conjugal/familiar entre vítima e agressor após o
+deferimento de medida protetiva de urgência fundada na Lei nº 11.340/06. Esse
+é o entendimento adotado pela jurisprudência paranaense, podendo citar, à
+guisa exemplificativa, o seguinte acórdão:
+VIOLÊNCIA DOMÉSTICA – DESCUMPRIMENTO DE MEDIDA
+PROTETIVA – SENTENÇA CONDENATÓRIA – POSTULADA
+ABSOLVIÇÃO – INVIABILIDADE – PALAVRA DA VÍTIMA
+CORROBORADA PELA PROVA DOCUMENTAL, ORAL E
+CONFISSÃO PARCIAL DO RÉU – POSTERIOR RECONCILIAÇÃO
+DO CASAL – IRRELEVÂNCIA – CONDENAÇÃO MANTIDA –
+APELAÇÃO DESPROVIDA. (TJPR - 1ª C.Criminal - 000563710.2020.8.16.0098 - Jacarezinho - Rel.: DESEMBARGADOR TELMO
+CHEREM - J. 06.12.2021)
+Entretanto, não se vislumbra consenso no âmbito do Superior Tribunal
+de Justiça. A título de exemplo, por um lado, a Quinta Turma, no julgamento do
+AgRg no HC 690614/PR, afirmou que “se o descumprimento de medidas
+protetivas foi informado ao juízo pela própria vítima, infere-se que a
+aproximação do réu até esse momento não foi consentida, ficando afastada
+qualquer ilegalidade ou teratologia no ato judicial que manteve a
+condenação”16. Por outro, a Sexta Turma, no julgamento do HC 521622/SC,
+com base nos critérios da fragmentariedade e subsidiariedade, concedeu a
+ordem para restabelecer os efeitos da sentença absolutória fundamentando:
+“[…] ainda que efetivamente tenha o acusado violado cautelar de não
+15 BUSATO. Paulo Cesar. Direito penal: parte geral. 2. ed. São Paulo: Atlas, 2015. p. 558.
+16 BRASIL. Superior Tribunal de Justiça. AgRg no HC n. 690.491/PR, relator Ministro João
+Otávio de Noronha, Quinta Turma, julgado em 7/12/2021, DJe de 14/12/2021.
+
+aproximação da vítima, isto se deu com a autorização dela, de modo que não
+se verifica efetiva lesão e falta inclusive ao fato dolo de desobediência”17.
+Nesse aspecto, Renato Brasileiro de Lima esclarece:
+[…] na eventualidade de se demonstrar que o agente não tinha
+consciência de que a medida protetiva de urgência ainda estava em
+vigor […] ter-se-á verdadeiro erro de tipo (CP, art. 20, caput), capaz
+de excluir o dolo e a cupa se invencível, ou apenas o dolo, se
+vencível, restando a culpa, se prevista em lei, o que não é o caso do
+art. 24-A da Lei nº 11.340/06.18
+Não se descuida que, por o delito estar balizado pelo princípio da
+lesividade e da ofensividade, a sua configuração possa ser afastada no âmbito
+da ausência de elemento subjetivo por parte do agente nas situações em que
+não restar demonstrada a intenção em violar a ordem judicial, “como no caso
+de envio de mensagem pontual para ter notícia dos filhos; encontro não
+intencional ou agressivo durante busca dos filhos; compatibilizações
+decorrentes de ambos trabalharem no mesmo local, estudarem na mesma
+faculdade, frequentarem a mesma igreja”19.
+Lado contrário, alerta-se à impossibilidade de aplicação de tais
+considerações “em casos evidentes de desobediência, como retornar à casa
+após o afastamento judicial, o ato de rondar a casa ou local de trabalho da
+vítima, ingressar na casa da vítima sem sua autorização, ou encaminhar
+insistentemente mensagens (email, WhatsApp, celular, redes sociais)”20. Nesse
+cenário, destaca-se a efetiva ofensa aos bens jurídicos tutelados pela norma,
+aplicando-se o teor da súmula nº 589 do Superior Tribunal de Justiça, que
+prevê: “é inaplicável o princípio da insignificância nos crimes ou contravenções
+penais praticados contra a mulher no âmbito das relações domésticas”.
+Ademais, não olvidando, adverte-se que esse “consentimento” dado a
+posteriori, ainda que válido do ponto de vista jurídico-penal, deve ser
+minuciosamente ponderado pelas autoridades (policial, judiciária e Ministério
+Público), sobretudo diante dos processos psicológicos da vítima inserida no
+âmbito de um relacionamento violento, que interferem na sua livre
+manifestação de vontade. A propósito, argumenta-se:
+17 BRASIL. Superior Tribunal de Justiça. HC n. 521.622/SC, relator Ministro Nefi Cordeiro,
+Sexta Turma, julgado em 12/11/2019, DJe de 22/11/2019.
+18 LIMA. Ibid. p. 1310.
+19 ÁVILA. Ibid. 
+20 ÁVILA. Ibid.
+
+As particularidades de violência que os homens exercem sobre as
+mulheres com as quais mantêm ou mantiveram uma relação
+sentimental nos enfrenta a situações em que as vítimas – por
+diversas razões rais como o temor, as represálias, a esperança de
+acreditar que o agressor mudará seu comportamento violento, a
+dependência emocional ou econômica, pressões familiares ou por
+considerar que a ausência do pai pode resultar prejudicial aos filhos –
+decidem ou consentem reatar a convivência em que pese ter sido
+decretada judicialmente uma proibição de aproximação21.
+Em outras palavras, não se rechaça a manifestação de vontade da
+vítima, que se reconcilia com o agressor ou consente para sua aproximação e/
+ou contato, todavia, há de se ter em destaque a plausível situação de a vítima
+estar inserida em um ciclo de violência doméstica, incapaz de o interromper
+sozinha.
+Além de a jurisprudência, reiteradamente, conferir especial valor
+probatório à palavra da vítima no âmbito dos crimes praticados em contexto de
+violência doméstica e familiar, destaca-se o relevante ato de rompimento das
+barreiras morais e psicológicas que impedem as vítimas de violência doméstica
+e familiar de procurar as autoridades para comunicar o descumprimento de
+uma medida protetiva de urgência por parte do agressor e/ou algum outro ato
+de violência.
+Assim, sem prejuízo ao dever da vítima, também, comunicar à
+autoridade policial, judiciária ou ao Ministério Público o eventual desinteresse
+na manutenção das medidas protetivas de urgência, para que possa ser
+avaliada pelas autoridades competentes a presença dos requisitos legais que
+embasaram a decisão judicial que inicialmente as concedeu, nada impede que
+a validade e a eficácia da medida protetiva de urgência e, consequentemente,
+a configuração do crime previste no artigo 24-A da Lei nº 11.340/06 seja
+(re)avaliada pelo Poder Judiciário com base em manifestação prévia de equipe
+de atendimento multidisciplinar, com fundamento nos artigos 30 e 31 da
+referida norma. 
+De qualquer modo, concluir pela configuração da infração penal,
+nessas hipóteses, não significa limitar a capacidade de autodeterminação da
+mulher ou ofender seu direito de liberdade individual, mas sim “reconhecer que
+21 CABALLERO GEA, José Alfredo. Violencia de género: juzgados de violencia sobre la mujer
+penal y civil. Síntesis y odernación de la doctrina de los Tribunales y Fiscalía General del
+Estado. Madrid: Dykinson, 2013. p. 174. apud BIANCHINI, Alice. BAZZO, Mariana.
+CHAKIAN, Silvia. Ibid. p. 197.
+
+há efeitos psicológicos associados à violência que a vítima sofreu e que geram
+consequências que exigem maior atenção dos atores jurídicos e não jurídicos
+que estejam envolvidos na causa”22.
+Acrescenta-se, ainda, a possibilidade de adotar a precaução e a
+proporcionalidade, em sua esfera da vedação à proteção deficiente, como
+princípios norteadores de atuação e interpretação das circunstâncias fáticas do
+caso concreto.
+A respeito do princípio da precaução no âmbito de proteção às
+mulheres vítimas de violência doméstica e familiar, especificamente no tocante
+às medidas protetivas de urgência, defende-se que:
+[…] a postura do Estado e de suas respectivas autoridades (juízes,
+membros do Ministério Público etc.) deve ser pautada por uma ação
+precavida e antecipada, buscando evitar a consumação de uma
+situação de violência de gênero prognosticamente visualizada a partir
+das declarações prestadas pela mulher (ou menina) vítima de
+violência ou, ainda – e na mesma linha –, salvaguardar a integridade
+de mulheres e meninas, ainda que exista dúvida acerca da
+perigosidade da situação narrada às autoridades23.
+Ademais, o princípio da proporcionalidade, como proibição de proteção
+deficiente24, possui aplicabilidade reconhecida pelo Supremo Tribunal Federal
+no âmbito da Lei nº 11.340/06. No julgamento da ADC 19, em que a Corte
+Suprema declarou a constitucionalidade dos artigos 1º, 33 e 41 da Lei nº
+11.340/06, o Ministro Luiz Fux, em seu voto, declarou que “a impunidade dos
+agressores acabava por deixar ao desalento os mais básicos direitos das
+mulheres, submetendo-as a todo tipo de sevícias, em clara afronta ao princípio
+da proteção deficiente (Untermassverbot)”25.
+22 BIANCHINI, Alice. BAZZO, Mariana. CHAKIAN, Silvia. Ibid. p. 200.
+23 HEEMANN, Thimotie Aragon. Princípio da precaução e medidas protetivas de urgência.
+https://www.jota.info/opiniao-e-analise/colunas/direito-dos-grupos-vulneraveis/principio-daprecaucao-e-medidas-protetivas-de-urgencia-18042022 . Acesso em 18.06.2022
+24 A ideia de proporcionalidade como proibição de proteção deficiente (Untermasvrbot)
+desenvolveu-se no direito constitucional germânico a partir da concepção de que os direitos
+fundamentais não são meros direitos subjetivos negativos, mas possuem também uma
+dimensão objetiva, na medida em que tutelam certos bens jurídicos e valores que devem
+ser promovidos e protegidos diante de riscos e ameaças originários de terceiros.
+Reconheceu-se, portanto, um dever de proteção estatal dos direitos fundamentais – mesmo
+os de matriz liberal -, que se estende ao Legislativo, à Administração Pública e ao Poder
+Judiciário. (SARMENTO, Daniel. SOUZA NETO, Cláudio Pereira. Direito constitucional:
+teoria, história e métodos de trabalho. 2. ed., 8. reimpr. Belo Horizonte: Fórum, 2014. p. 482)
+25 BRASIL. Supremo Tribunal Federal. ADC 19, Relator(a): MARCO AURÉLIO, Tribunal Pleno,
+julgado em 09/02/2012, ACÓRDÃO ELETRÔNICO DJe-080 DIVULG 28-04-2014 PUBLIC
+29-04-2014 RTJ VOL-00229-01 PP-00011.
+
+Portanto, sobrevinda a comunicação do descumprimento de uma
+medida protetiva de urgência fundada na Lei nº 11.340/06 mesmo quando,
+posteriormente, a vítima que de alguma à desobediência dos limits
+estabelecidos na decisão concessiva de medida protetiva de urgência ou, até
+mesmo, reconcilia-se com o agressor, que está ciente da existência da ordem
+judicial, impõe-se uma análise acurada das respectivas autoridades sobre a
+configuração do delito, impondo-se observância ao propósito legislativo que
+norteou a criação da figura típica prevista no artigo 24-A da Lei nº 11.340/06, já
+acima apresentado, destacando-se, ainda, o disposto no artigo 4º da Lei nº
+11.340/06, que dispõe: “na interpretação desta Lei, serão considerados os fins
+sociais a que ela se destina e, especialmente, as condições peculiares das
+mulheres em situação de violência doméstica e familiar”.
+3. CONCLUSÃO
+Diante do dever institucional de conferir absoluta prioridade à
+apreciação das hipóteses de descumprimento de medidas protetivas de
+urgência contido na Recomendação nº 87/2021 do Conselho Nacional do
+Ministério Público, o presente trabalho teve por escopo apresentar os
+relevantes pontos doutrinários e jurisprudenciais acerca da configuração do
+crime de descumprimento de medida protetiva de urgência.
+Tendo em vista o crescente aumento no número de medidas protetivas
+de urgência concedidas, ainda que parcialmente, nos últimos três anos,
+certamente que não se esgotará o exame aprofundado das hipóteses de sua
+configuração, sobretudo pela dinâmica dos relacionamentos domésticos e
+familiares e, ainda, pela recente publicação da Lei nº 14.344/2022, que tipificou
+novo crime de descumprimento de medidas protetivas de urgência,
+estendendo-se, desta forma, o alcance de proteção às crianças e
+adolescentes.
+Como dito alhures, o desafio no exame da conduta do agente que se
+amolda, em tese, ao crime de descumprimento de medida de protetiva de
+urgência reside, sobremaneira, no âmbito da tipicidade, precisamente na esfera
+material, consistente na ofensa ao bem jurídico tutelado pela norma,
+especialmente em hipóteses em que há, de alguma forma,
+
+anuência/consentimento da ofendida ou reconciliação do casal. Nesses casos,
+sem prejuízo de posicionamento doutrinário e jurisprudencial divergente e não
+se descuidando de hipóteses citadas, como, por exemplo, comunicação não
+violenta a respeito do interesse de filhos em comum, comparecimento a mesmo
+ambiente de trabalho, escolar, religioso, dentre outras corriqueiras situações,
+importante relembrar os fins sociais a que a norma se destina e ao intuito
+protetivo da legislação que introduziu o crime em comento ao ordenamento
+jurídico, sobrevinda para suplantar posicionamento jurisprudencial vigente à
+época que caracterizava uma proteção deficiente estatal às vítimas de violência
+doméstica e familiar.
+Assim, com base nas considerações tecidas nesse excerto, buscou-se
+demonstrar a possibilidade de configuração do delito, ainda que a ofendida
+ofereça consentimento ao agente em relação ao descumprimento de medida
+protetiva de urgência deferida em seu desfavor, ou com ele se reconcilie, ou
+permita sua reaproximação, deixando claro que, nessas situações, não se está
+a sobrepor o exercício da liberdade individual da mulher, mas, sobretudo, visase assegurar efetiva aplicação das normas que integram o sistema de proteção
+às mulheres vítimas de violência doméstica e familiar.
+4. REFERÊNCIAS BIBLIOGRÁFICAS E JURISPRUDENCIAIS
+ÁVILA, Thiago Pierobom de. O novo crime de descumprimento de medidas
+protetivas de urgência:
+ primeiras considerações. Disponível em:
+<https://criminal.mppr.mp.br/arquivos/File/O_novo_crime_de_descumprimento_
+de_medidas_protetivas_de_urgencia_Artigo_3.pdf>. Acesso em 07 jun. 2022.
+BIANCHINI, Alice. BAZZO, Mariana. CHAKIAN, Silvia. Crimes contra
+mulheres. 4. ed. rev., ampl. e atual. São Paulo: JusPodivm, 2022.
+BRASIL. Conselho Nacional de Justiça. Painel de Monitoramento das
+Medidas Protetivas de Urgência da Lei Maria da Penha. Disponível em:
+<https://medida-protetiva.cnj.jus.br/s/violencia-domestica/app/dashboards#/
+view/5ff5ddea-55e6-42a6-83fa-710d40507c3f?_g=h@2463b39>. Acesso em 18
+jun. 2022.
+
+BRASIL. Conselho Nacional do Ministério Público. Recomendação nº 87, de
+28
+ 
+de
+ 
+setembro
+ 
+de
+ 
+2021. 
+Disponível
+ 
+em
+<https://www.cnmp.mp.br/portal/images/Resolucoes/2021/Resoluo-n-2432021.pdf>. Acesso em 04 jul. 2022.
+BRASIL. Conselho Nacional do Ministério Público. Resolução nº 243, de 18 de
+outubro
+ 
+de
+ 
+2021. 
+Disponível
+ 
+em
+<https://www.cnmp.mp.br/portal/images/Recomendacoes/Recomendao-n-872021.pdf>. Acesso em 04 jul. 2022.
+BRASIL. Lei nº 11.340, de 7 de agosto de 2006. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm>.
+Acesso em 20 jun. 2022.
+BRASIL
+ Projeto
+ 
+de
+ 
+Lei
+ 
+173/2015. 
+Disponível
+ 
+em:
+<https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?
+idProposicao=945767>. Acesso em 21 jun. 2022.
+BRASIL. Superior Tribunal de Justiça. AgRg no HC n. 690.491/PR. Relator
+Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/12/2021, DJe de
+14/12/2021.
+BRASIL Superior Tribunal de Justiça. Jurisprudência em Teses. Edição n. 41:
+Violência Doméstica e Familiar Contra Mulher. 
+Disponível em
+<https://scon.stj.jus.br/SCON/jt/toc.jsp>. Acesso em 05 jul. 2022.
+BRASIL, Superior Tribunal de Justiça. HC n. 293.848/SP. Relatora Ministra
+Maria Thereza de Assis Moura, Sexta Turma, julgado em 4/9/2014, DJe de
+16/9/2014.
+BRASIL. Superior Tribunal de Justiça. HC n. 521.622/SC. Relator Ministro Nefi
+Cordeiro, Sexta Turma, julgado em 12/11/2019, DJe de 22/11/2019.
+
+BRASIL. Superior Tribunal de Justiça. Súmula nº 589. Disponível em:
+<https://scon.stj.jus.br/docs_internet/VerbetesSTJ.pdf>. Acesso em 05 jul. 2022.
+BRASIL. Supremo Tribunal Federal. ADC 19. Relator Ministro Marco Aurélio,
+Tribunal Pleno, julgado em 09/02/2012, DJe de 28/04/2014.
+BRASIL, Supremo Tribunal Federal, RE 1070034. Relator Ministro Edson
+Fachin, j. 10.04.2018, Dje de 13.04.2018.
+BUSATO. Paulo Cesar. Direito penal: parte geral. 2. ed. São Paulo: Atlas,
+2015.
+CIDH. Convenção Interamericana para Prevenir, Punir e Erradicar a
+Violência
+ 
+contra
+ 
+a
+ 
+Mulher. 
+Disponível
+ 
+em:
+<http://www.cidh.org/basicos/portugues/m.belem.do.para.htm>. Acesso em 28
+jun. 2022.
+DIAS, Maria Berenice. A Lei Maria da Penha na Justiça. 7. ed. Rev., e atual.
+Salvador: JusPodivm, 2021.
+HEEMANN, Thimotie Aragon. Princípio da precaução e medidas protetivas
+de
+ 
+urgência. 
+Disponível
+ 
+em
+<https://www.jota.info/opiniao-e-analise/colunas/direito-dos-grupos-vulneraveis/
+principio-da-precaucao-e-medidas-protetivas-de-urgencia-18042022>. Acesso
+em 18 jun. 2022.
+LIMA, Renato Brasileiro de. Legislação Criminal Especial Comentada:
+volume único. 8. ed. rev., atual. e ampl. Salvador: JusPodivm, 2020.
+MASSON, Cleber. Direito Penal: parte geral (arts. 1º a 120) – vol. 1. 13. ed.
+Rio de Janeiro: Forense, 2019.
+NUCCI, Guilherme de Souza. Manual de direito penal. 16. ed. Rio de Janeiro:
+Forense, 2020. p. 380.
+
+ONU. Convenção sobre a Eliminação Convenção sobre a Eliminação de
+Todas as Formas de Discriminação contra a Mulher. Disponível em <https://
+www.onumulheres.org.br/wp-content/uploads/2013/03/convencao_cedaw.pdf>.
+Acesso em 26 jun. 2022.
+PARANÁ. Tribunal de Justiça do Estado do Paraná. 1ª C.Criminal – Apelação
+nº 0005637-10.2020.8.16.0098 - Jacarezinho - Rel.: DESEMBARGADOR
+TELMO CHEREM - J. 06.12.2021.
+SARMENTO, Daniel. SOUZA NETO, Cláudio Pereira. Direito constitucional:
+teoria, história e métodos de trabalho. 2. ed., 8. reimpr. Belo Horizonte: Fórum,
+2014.
